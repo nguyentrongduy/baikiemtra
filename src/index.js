@@ -1,120 +1,120 @@
 var input = `
 Câu 1: Phạm vi điều chỉnh luật viên chức
-a) Luật này quy định về viên chức; quyền và nghĩa vụ của viên chức, tuyển dụng viên chức
-b) Luật này quy định về viên chức; nghĩa vụ của viên chức; tuyển dụng, sử dụng và quản lý viên chức trong đơn vị sự nghiệp công lập.
-c) Luật này quy định về việc tuyển dụng viên chức, quyền của viên chức.
-d) Luật này quy định về viên chức; quyền, nghĩa vụ của viên chức; tuyển dụng, sử dụng và quản lý viên chức trong đơn vị sự nghiệp công lập.
+a. Luật này quy định về viên chức; quyền và nghĩa vụ của viên chức, tuyển dụng viên chức
+b. Luật này quy định về viên chức; nghĩa vụ của viên chức; tuyển dụng, sử dụng và quản lý viên chức trong đơn vị sự nghiệp công lập.
+c. Luật này quy định về việc tuyển dụng viên chức, quyền của viên chức.
+d. Luật này quy định về viên chức; quyền, nghĩa vụ của viên chức; tuyển dụng, sử dụng và quản lý viên chức trong đơn vị sự nghiệp công lập.
 Câu 2: Viên chức là gì?
-a) Viên chức là công dân Việt Nam được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập theo theo chế độ hợp đồng làm việc, hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập theo quy định của pháp luật.
-b) Viên chức được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập theo chế độ hợp đồng làm việc, hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập theo quy định của pháp luật.
-c) Viên chức là công dân Việt Nam được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập, được hưởng lương từ quỹ lương của đơn vị sự nghiệp công lâp.
-d) Viên chức là công dân Việt Nam, làm việc trong đơn vị sự nghiệp công lập, được hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập theo quy định của pháp luật
+a. Viên chức là công dân Việt Nam được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập theo theo chế độ hợp đồng làm việc, hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập theo quy định của pháp luật.
+b. Viên chức được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập theo chế độ hợp đồng làm việc, hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập theo quy định của pháp luật.
+c. Viên chức là công dân Việt Nam được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập, được hưởng lương từ quỹ lương của đơn vị sự nghiệp công lâp.
+d. Viên chức là công dân Việt Nam, làm việc trong đơn vị sự nghiệp công lập, được hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập theo quy định của pháp luật
 Câu 3: Viên chức quản lý là gì?
-a) Viên chức quản lý là người được bổ nhiệm giữ chức vụ quản lý có thời hạn, tổ chức thực hiện một hoặc một số công việc trong đơn vị sự nghiệp công lập nhưng không phải là công chức và được hưởng phụ cấp quản lý.
-b) Viên chức quản lý là người được bổ nhiệm giữ chức vụ quản lý có thời hạn, chịu trách nhiệm về điều hành, tổ chức thực hiện một hoặc một số công việc trong đơn vị sự nghiệp công lập nhưng không phải là công chức .
-c) Viên chức quản lý là người được bổ nhiệm giữ chức vụ quản lý có thời hạn, chịu trách nhiệm về điều hành, tổ chức thực hiện một hoặc một số công việc nhưng không phải là công chức và được hưởng phụ cấp quản lý.
-d) Viên chức quản lý là người được bổ nhiệm giữ chức vụ quản lý có thời hạn, chịu trách nhiệm về điều hành, tổ chức thực hiện một hoặc một số công việc trong đơn vị sự nghiệp công lập nhưng không phải là công chức và được hưởng phụ cấp quản lý.
+a. Viên chức quản lý là người được bổ nhiệm giữ chức vụ quản lý có thời hạn, tổ chức thực hiện một hoặc một số công việc trong đơn vị sự nghiệp công lập nhưng không phải là công chức và được hưởng phụ cấp quản lý.
+b. Viên chức quản lý là người được bổ nhiệm giữ chức vụ quản lý có thời hạn, chịu trách nhiệm về điều hành, tổ chức thực hiện một hoặc một số công việc trong đơn vị sự nghiệp công lập nhưng không phải là công chức .
+c. Viên chức quản lý là người được bổ nhiệm giữ chức vụ quản lý có thời hạn, chịu trách nhiệm về điều hành, tổ chức thực hiện một hoặc một số công việc nhưng không phải là công chức và được hưởng phụ cấp quản lý.
+d. Viên chức quản lý là người được bổ nhiệm giữ chức vụ quản lý có thời hạn, chịu trách nhiệm về điều hành, tổ chức thực hiện một hoặc một số công việc trong đơn vị sự nghiệp công lập nhưng không phải là công chức và được hưởng phụ cấp quản lý.
 Câu 4: Đạo đức nghề nghiệp là gì?
-a) Đạo đức nghề nghiệp là những chuẩn mực về nhận thức và hành vi phù hợp với đặc thù của từng lĩnh vực.
-b) Đạo đức nghề nghiệp là những chuẩn mực về nhận thức và hành vi phù hợp với đặc thù của từng lĩnh vực trong hoạt động nghề nghiệp do tổ chức có thẩm quyền quy định.
-c) Đạo đức nghề nghiệp là những chuẩn mực về nhận thức và hành vi phù hợp với đặc thù của từng lĩnh vực trong hoạt động nghề nghiệp do cơ quan, tổ chức có thẩm quyền quy định.
-d) Đạo đức nghề nghiệp là những chuẩn mực về nhận thức trong hoạt động nghề nghiệp do cơ quan, tổ chức có thẩm quyền quy định.
+a. Đạo đức nghề nghiệp là những chuẩn mực về nhận thức và hành vi phù hợp với đặc thù của từng lĩnh vực.
+b. Đạo đức nghề nghiệp là những chuẩn mực về nhận thức và hành vi phù hợp với đặc thù của từng lĩnh vực trong hoạt động nghề nghiệp do tổ chức có thẩm quyền quy định.
+c. Đạo đức nghề nghiệp là những chuẩn mực về nhận thức và hành vi phù hợp với đặc thù của từng lĩnh vực trong hoạt động nghề nghiệp do cơ quan, tổ chức có thẩm quyền quy định.
+d. Đạo đức nghề nghiệp là những chuẩn mực về nhận thức trong hoạt động nghề nghiệp do cơ quan, tổ chức có thẩm quyền quy định.
 Câu 5: Quy tắc ứng xử
-a) Quy tắc ứng xử là các chuẩn mực xử sự của viên chức trong thi hành nhiệm vụ và trong quan hệ xã hội do cơ quan nhà nước có thẩm quyền ban hành, phù hợp với từng công việc trong các lĩnh vực đặc thù.
-b) Quy tắc ứng xử là các chuẩn mực xử sự của viên chức trong thi hành nhiệm vụ và trong quan hệ xã hội do cơ quan nhà nước có thẩm quyền ban hành, phù hợp với đặc thù công việc trong từng lĩnh vực hoạt động và được công khai để nhân dân giám sát việc chấp hành.
-c) Quy tắc ứng xử là chuẩn mực xử sự của viên chức trong thi hành nhiệm vụ và trong quan hệ xã hội do cơ quan nhà nước có thẩm quyền ban hành, phù hợp với đặc thù công việc trong từng lĩnh vực hoạt động và được công khai để nhân dân giám sát.
-d) Quy tắc ứng xử là chuẩn mực xử sự của viên chức trong thi hành nhiệm vụ, trong quan hệ xã hội do nhà nước ban hành, phù hợp với đặc thù công việc trong từng lĩnh vực hoạt động và được công khai để nhân dân giám sát.
+a. Quy tắc ứng xử là các chuẩn mực xử sự của viên chức trong thi hành nhiệm vụ và trong quan hệ xã hội do cơ quan nhà nước có thẩm quyền ban hành, phù hợp với từng công việc trong các lĩnh vực đặc thù.
+b. Quy tắc ứng xử là các chuẩn mực xử sự của viên chức trong thi hành nhiệm vụ và trong quan hệ xã hội do cơ quan nhà nước có thẩm quyền ban hành, phù hợp với đặc thù công việc trong từng lĩnh vực hoạt động và được công khai để nhân dân giám sát việc chấp hành.
+c. Quy tắc ứng xử là chuẩn mực xử sự của viên chức trong thi hành nhiệm vụ và trong quan hệ xã hội do cơ quan nhà nước có thẩm quyền ban hành, phù hợp với đặc thù công việc trong từng lĩnh vực hoạt động và được công khai để nhân dân giám sát.
+d. Quy tắc ứng xử là chuẩn mực xử sự của viên chức trong thi hành nhiệm vụ, trong quan hệ xã hội do nhà nước ban hành, phù hợp với đặc thù công việc trong từng lĩnh vực hoạt động và được công khai để nhân dân giám sát.
 Câu 6: Tuyển dụng
-a) Tuyển dụng là việc lựa chọn người có phẩm chất, trình độ và năng lực vào làm viên chức tại đơn vị sự nghiệp công lập.
-b) Tuyển dụng là việc lựa chọn người có phẩm chất, trình độ và năng lực vào làm tại các đơn vị sự nghiệp công lập.
-c) Tuyển dụng là việc lựa chọn người có phẩm chất, trình độ và năng lực.
-d) Tuyển dụng là việc lựa chọn người cố năng lực, phẩm chất và trình độ vào làm viên chức tại các đơn vị sự nghiệp công lập.
+a. Tuyển dụng là việc lựa chọn người có phẩm chất, trình độ và năng lực vào làm viên chức tại đơn vị sự nghiệp công lập.
+b. Tuyển dụng là việc lựa chọn người có phẩm chất, trình độ và năng lực vào làm tại các đơn vị sự nghiệp công lập.
+c. Tuyển dụng là việc lựa chọn người có phẩm chất, trình độ và năng lực.
+d. Tuyển dụng là việc lựa chọn người cố năng lực, phẩm chất và trình độ vào làm viên chức tại các đơn vị sự nghiệp công lập.
 Câu 7: Hợp đồng làm việc
-a) Hợp đồng làm việc là sự thỏa thuận bằng văn bản giữa viên chức với người đứng đầu đơn vị sự nghiệp công lập về vị trí việc làm, tiền lương, chế độ đãi ngộ, điều kiện làm việc, quyền và nghĩa vụ của mỗi bên.
-b) Hợp đồng làm việc là sự thỏa thuận bằng văn bản giữa viên chức hoặc người được tuyển dụng làm viên chức với người đứng đầu đơn vị sự nghiệp công lập về vị trí việc làm, tiền lương, điều kiện làm việc, quyền và nghĩa vụ của mỗi bên.
-c) Hợp đồng làm việc là sự thỏa thuận bằng văn bản giữa viên chức hoặc người được tuyển dụng với người đứng đầu đơn vị sự nghiệp công lập về trí việc làm, tiền lương, chế độ đãi ngộ, điều kiện làm việc, quyền và nghĩa vụ của mỗi bên.
+a. Hợp đồng làm việc là sự thỏa thuận bằng văn bản giữa viên chức với người đứng đầu đơn vị sự nghiệp công lập về vị trí việc làm, tiền lương, chế độ đãi ngộ, điều kiện làm việc, quyền và nghĩa vụ của mỗi bên.
+b. Hợp đồng làm việc là sự thỏa thuận bằng văn bản giữa viên chức hoặc người được tuyển dụng làm viên chức với người đứng đầu đơn vị sự nghiệp công lập về vị trí việc làm, tiền lương, điều kiện làm việc, quyền và nghĩa vụ của mỗi bên.
+c. Hợp đồng làm việc là sự thỏa thuận bằng văn bản giữa viên chức hoặc người được tuyển dụng với người đứng đầu đơn vị sự nghiệp công lập về trí việc làm, tiền lương, chế độ đãi ngộ, điều kiện làm việc, quyền và nghĩa vụ của mỗi bên.
 d. Hợp đồng làm việc là sự thỏa thuận bằng văn bản giữa viên chức hoặc người được tuyển dụng làm viên chức với người đứng đầu đơn vị sự nghiệp công lập về vị trí việc làm, tiền lương, chế độ đãi ngộ, điều kiện làm việc.
 Câu 8: Hoạt động nghề nghiệp của viên chức
-a) Hoạt động nghề nghiệp của viên chức là việc thực hiện công việc hoặc nhiệm vụ có yêu cầu về trình độ, năng lực, kỹ năng chuyên môn, nghiệp vụ trong đơn vị sự nghiệp công lập theo quy định của luật này .
-b) Hoạt động nghề nghiệp của viên chức là việc thực hiện công việc hoặc nhiệm vụ có yêu cầu về trình độ, năng lực, kỹ năng chuyên môn, nghiệp vụ trong đơn vị sự nghiệp công lập theo quy định của Luật này và các quy định khác của pháp luật có liên quan.
-c) Hoạt động nghề nghiệp của viên chức là việc thực hiện công việc hoặc nhiệm vụ được giao có yêu cầu về trình độ, năng lực, kỹ năng chuyên môn, nghiệp vụ trong đơn vị sự nghiệp công lập theo quy định của Luật này và các quy định khác của pháp luật có liên quan.
-d) Hoạt động nghề nghiệp của viên chức là việc thực hiện công việc hoặc nhiệm vụ có yêu cầu trình độ, năng lực, kỹ năng chuyên môn, nghiệp vụ trong đơn vị sự nghiệp công lập.
+a. Hoạt động nghề nghiệp của viên chức là việc thực hiện công việc hoặc nhiệm vụ có yêu cầu về trình độ, năng lực, kỹ năng chuyên môn, nghiệp vụ trong đơn vị sự nghiệp công lập theo quy định của luật này .
+b. Hoạt động nghề nghiệp của viên chức là việc thực hiện công việc hoặc nhiệm vụ có yêu cầu về trình độ, năng lực, kỹ năng chuyên môn, nghiệp vụ trong đơn vị sự nghiệp công lập theo quy định của Luật này và các quy định khác của pháp luật có liên quan.
+c. Hoạt động nghề nghiệp của viên chức là việc thực hiện công việc hoặc nhiệm vụ được giao có yêu cầu về trình độ, năng lực, kỹ năng chuyên môn, nghiệp vụ trong đơn vị sự nghiệp công lập theo quy định của Luật này và các quy định khác của pháp luật có liên quan.
+d. Hoạt động nghề nghiệp của viên chức là việc thực hiện công việc hoặc nhiệm vụ có yêu cầu trình độ, năng lực, kỹ năng chuyên môn, nghiệp vụ trong đơn vị sự nghiệp công lập.
 Câu 9: Hoạt động nghề nghiệp của viên chức gồm mấy nguyên tắc
-a) 1 nt
-b) 2 nt
-c) 3 nt
-d) 4 nt
+a. 1 nt
+b. 2 nt
+c. 3 nt
+d. 4 nt
 Câu 10: Nguyên tắc trong hoạt động nghề nghiệp của viên chức
-a) Bảo đảm sự lãnh đạo của Đảng Cộng Sản Việt Nam và sự thống nhất quản lý của nhà nước
-b) Bảo đảm quyền chủ động và đề cao trách nhiệm của người đứng đầu đơn vị sự nghiệp công lập.
-c) Tuân thủ pháp luật, chịu trách nhiệm trước pháp luật trong quá trình thực hiện hoạt động nghề nghiệp.
-d) Tận tụy phục vụ nhân dân
-e) Cả c và d
+a. Bảo đảm sự lãnh đạo của Đảng Cộng Sản Việt Nam và sự thống nhất quản lý của nhà nước
+b. Bảo đảm quyền chủ động và đề cao trách nhiệm của người đứng đầu đơn vị sự nghiệp công lập.
+c. Tuân thủ pháp luật, chịu trách nhiệm trước pháp luật trong quá trình thực hiện hoạt động nghề nghiệp.
+d. Tận tụy phục vụ nhân dân
+e. Cả c và d
 Câu 11: Nguyên tắc trong hoạt động nghề nghiệp của viên chức
-a) Tuân thủ quy trình, quy định chuyên môn, nghiệp vụ, đạo đức nghề nghiệp và quy tắc ứng xử.
-b) Chịu sự thanh tra, kiểm tra, giám sát của cơ quan có thẩm quyền và của nhân dân.
-c) Bảo đảm quyền chủ động và đề cao trách nhiệm của người đứng đầu đơn vị sự nghiệp công lập.
-d) Cả a và b.
+a. Tuân thủ quy trình, quy định chuyên môn, nghiệp vụ, đạo đức nghề nghiệp và quy tắc ứng xử.
+b. Chịu sự thanh tra, kiểm tra, giám sát của cơ quan có thẩm quyền và của nhân dân.
+c. Bảo đảm quyền chủ động và đề cao trách nhiệm của người đứng đầu đơn vị sự nghiệp công lập.
+d. Cả a và b.
 Câu 12: Có mấy nguyên tắc quản lý viên chức
-a) 2 nguyên tắc.
-b) 3 nguyên tắc.
-c) 4 nguyên tắc.
-d) 5 nguyên tắc.
+a. 2 nguyên tắc.
+b. 3 nguyên tắc.
+c. 4 nguyên tắc.
+d. 5 nguyên tắc.
 Câu 13: Nguyên tắc quản lý viên chức
-a) Việc tuyển dụng, sử dụng, quản lý, đánh giá viên chức được thực hiện trên cơ sở tiêu chuẩn chức danh nghề nghiệp, vị trí việc làm và căn cứ vào hợp đồng làm việc.
-b) Thực hiện bình đẳng giới, các chính sách ưu đãi của Nhà nước đối với viên chức là người có tài năng,người dân tộc thiểu số, người có công với cách mạng, viên chức làm việc ở miền núi, biên giới, hải đảo, vùng sâu, vùng xa, vùng dân tộc thiểu số, vùng có điều kiện kinh tế-xã hội đặc biệt khó khăn và các chính sách ưu đãi khác của Nhà nước đối với viên chức.
-c) Tận tụy phục vụ nhân dân
-d) Tuân thủ pháp luật, chịu trách nhiệm trước pháp luật trong quá trình thực hiện hoạt động nghề nghiệp.
+a. Việc tuyển dụng, sử dụng, quản lý, đánh giá viên chức được thực hiện trên cơ sở tiêu chuẩn chức danh nghề nghiệp, vị trí việc làm và căn cứ vào hợp đồng làm việc.
+b. Thực hiện bình đẳng giới, các chính sách ưu đãi của Nhà nước đối với viên chức là người có tài năng,người dân tộc thiểu số, người có công với cách mạng, viên chức làm việc ở miền núi, biên giới, hải đảo, vùng sâu, vùng xa, vùng dân tộc thiểu số, vùng có điều kiện kinh tế-xã hội đặc biệt khó khăn và các chính sách ưu đãi khác của Nhà nước đối với viên chức.
+c. Tận tụy phục vụ nhân dân
+d. Tuân thủ pháp luật, chịu trách nhiệm trước pháp luật trong quá trình thực hiện hoạt động nghề nghiệp.
 Câu 14: Vị trí việc làm là gì?
-a) Vị trí việc làm là công việc hoặc nhiệm vụ gắn với chức danh nghề nghiệp hoặc chức vụ quản lý tương ứng, là căn cứ xác định số lượng người làm việc, cơ cấu viên chức để thực hiện việc tuyển dụng, sử dụng và quản lý viên chức trong đơn vị sự nghiệp công lập.
-b) Vị trí việc làm là công việc gắn với chức danh nghề nghiệp hoặc chức vụ quản lý tương ứng, là căn cứ xác định số lượng người làm việc, cơ cấu viên chức để thực hiện việc tuyển dụng, sử dụng và quản lý viên chức trong đơn vị sự nghiệp công lập.
-c) Vị trí việc làm là công việc gắn với chức danh nghề nghiệp hoặc chức vụ quản lý tương ứng, là căn cứ xác định số lượng người làm việc, cơ cấu viên chức để thực hiện việc tuyển dụng, sử dụng và quản lý viên chức.
-d) Vị trí làm việc là công việc gắn với chức danh nghề nghiệp, là căn cứ xác định số lượng người làm việc, cơ cấu viên chức để thực hiện viện tuyển dụng, sử dụng, quản lý viên chức trong đơn vị sự nghiệp công lập.
+a. Vị trí việc làm là công việc hoặc nhiệm vụ gắn với chức danh nghề nghiệp hoặc chức vụ quản lý tương ứng, là căn cứ xác định số lượng người làm việc, cơ cấu viên chức để thực hiện việc tuyển dụng, sử dụng và quản lý viên chức trong đơn vị sự nghiệp công lập.
+b. Vị trí việc làm là công việc gắn với chức danh nghề nghiệp hoặc chức vụ quản lý tương ứng, là căn cứ xác định số lượng người làm việc, cơ cấu viên chức để thực hiện việc tuyển dụng, sử dụng và quản lý viên chức trong đơn vị sự nghiệp công lập.
+c. Vị trí việc làm là công việc gắn với chức danh nghề nghiệp hoặc chức vụ quản lý tương ứng, là căn cứ xác định số lượng người làm việc, cơ cấu viên chức để thực hiện việc tuyển dụng, sử dụng và quản lý viên chức.
+d. Vị trí làm việc là công việc gắn với chức danh nghề nghiệp, là căn cứ xác định số lượng người làm việc, cơ cấu viên chức để thực hiện viện tuyển dụng, sử dụng, quản lý viên chức trong đơn vị sự nghiệp công lập.
 Câu 15: Cơ quan nào quy định nguyên tắc, phương pháp xác định vị trí việc làm, thẩm quyền, trình tự, thủ tục quyết định số lượng vị trí việc làm trong đơn vị sự nghiệp công lập.
-a) Chính phủ
-b) Nhà nước
-c) Đảng Cộng Sản Việt Nam.
+a. Chính phủ
+b. Nhà nước
+c. Đảng Cộng Sản Việt Nam.
 Câu 16: Chính phủ quy định
-a) Chính phủ quy định phương pháp xác định vị trí việc làm, thẩm quyền, trình tự, thủ tục quyết định số lượng vị trí việc làm trong đơn vị sự nghiệp công lập.
-b) Chính phủ quy định nguyên tắc, phương pháp xác định vị trí việc làm, thẩm quyền, thủ tục quyết định số lượng vị trí việc làm trong đơn vị sự nghiệp công lập.
-c) Chính phủ quy định nguyên tắc, phương pháp xác định vị trí việc làm, trình tự, thủ tục quyết định số lượng vị trí việc làm trong đơn vị sự nghiệp công lập.
+a. Chính phủ quy định phương pháp xác định vị trí việc làm, thẩm quyền, trình tự, thủ tục quyết định số lượng vị trí việc làm trong đơn vị sự nghiệp công lập.
+b. Chính phủ quy định nguyên tắc, phương pháp xác định vị trí việc làm, thẩm quyền, thủ tục quyết định số lượng vị trí việc làm trong đơn vị sự nghiệp công lập.
+c. Chính phủ quy định nguyên tắc, phương pháp xác định vị trí việc làm, trình tự, thủ tục quyết định số lượng vị trí việc làm trong đơn vị sự nghiệp công lập.
 d. Chính phủ quy định nguyên tắc, phương pháp xác định vị trí việc làm, thẩm quyền, trình tự, thủ tục quyết định số lượng vị trí việc làm trong đơn vị sự nghiệp công lập.
 Câu 17: Chức danh nghề nghiệp là gì?
-a) Chức danh nghề nghiệp là tên gọi thể hiện trình độ và năng lực chuyên môn, nghiệp vụ của viên chức trong từng lĩnh vực nghề nghiệp.
-b) Chức danh nghề nghiệp là tên gọi thể hiện trình độ và năng lực chuyên môn nghiệp vụ của viên chức.
-c) Chức danh nghề nghiệp là tên gọi thể hiện trình độ, chuyên môn, nghiệp vụ và năng lực của viên chức.
-d) Chức danh nghề nghiệp là tên gọi thể hiện trình độ và năng lực chuyên môn, nghiệp vụ của viên chức trong đơn vị sự nghiệp công lập.
+a. Chức danh nghề nghiệp là tên gọi thể hiện trình độ và năng lực chuyên môn, nghiệp vụ của viên chức trong từng lĩnh vực nghề nghiệp.
+b. Chức danh nghề nghiệp là tên gọi thể hiện trình độ và năng lực chuyên môn nghiệp vụ của viên chức.
+c. Chức danh nghề nghiệp là tên gọi thể hiện trình độ, chuyên môn, nghiệp vụ và năng lực của viên chức.
+d. Chức danh nghề nghiệp là tên gọi thể hiện trình độ và năng lực chuyên môn, nghiệp vụ của viên chức trong đơn vị sự nghiệp công lập.
 Câu 18: Cơ quan nào quy định hệ thống danh mục, tiêu chuẩn và mã số chức danh nghề nghiệp.
-a) Bộ nội vụ chủ trì
-b) Các bộ, cơ quan ngang bộ có liên quan.
-c) Bộ giáo dục và đào tạo
-d) Cả a và b.
+a. Bộ nội vụ chủ trì
+b. Các bộ, cơ quan ngang bộ có liên quan.
+c. Bộ giáo dục và đào tạo
+d. Cả a và b.
 Câu 19: Đơn vị sự nghiệp công lập là gì?
-a) Đơn vị sự nghiệp công lập là tổ chức do cơ quan có thẩm quyền của Nhà nước, tổ chức chính trị-xã hội thành lập theo quy định của pháp luật, có tư cách pháp nhân, cung cấp dịch vụ công, phục vụ quản lý nhà nước.
-b) Đơn vị sự nghiệp công lập là tổ chức do cơ quan có thẩm quyền của Nhà nước, tổ chức chính trị, tổ chức chính trị-xã hội thành lập theo quy định của pháp luật, có tư cách pháp nhân, cung cấp dịch vụ công, phục vụ quản lý nhà nước.
-c) Đơn vị sự nghiệp công lập là tổ chức do cơ quan có thẩm quyền của Nhà nước, tổ chức chính trị, tổ chức chính trị-xã hội thành lập theo quy định của pháp luật, có tư cách pháp nhân, cung cấp dịch vụ công.
-d) Đơn vị sự nghiệp công lập là tổ chức do cơ quan có thẩm quyền của Nhà nước, tổ chức chính trị, tổ chức chính trị-xã hội thành lập, có tư cách pháp nhân, cung cấp dịch vụ công, phục vụ quản lý nhà nước.
+a. Đơn vị sự nghiệp công lập là tổ chức do cơ quan có thẩm quyền của Nhà nước, tổ chức chính trị-xã hội thành lập theo quy định của pháp luật, có tư cách pháp nhân, cung cấp dịch vụ công, phục vụ quản lý nhà nước.
+b. Đơn vị sự nghiệp công lập là tổ chức do cơ quan có thẩm quyền của Nhà nước, tổ chức chính trị, tổ chức chính trị-xã hội thành lập theo quy định của pháp luật, có tư cách pháp nhân, cung cấp dịch vụ công, phục vụ quản lý nhà nước.
+c. Đơn vị sự nghiệp công lập là tổ chức do cơ quan có thẩm quyền của Nhà nước, tổ chức chính trị, tổ chức chính trị-xã hội thành lập theo quy định của pháp luật, có tư cách pháp nhân, cung cấp dịch vụ công.
+d. Đơn vị sự nghiệp công lập là tổ chức do cơ quan có thẩm quyền của Nhà nước, tổ chức chính trị, tổ chức chính trị-xã hội thành lập, có tư cách pháp nhân, cung cấp dịch vụ công, phục vụ quản lý nhà nước.
 Câu 20: Viên chức có mấy quyền về tiền lương và là những quyền nào
-a) 1 quyền
+a. 1 quyền
 1. Được trả lương tương xứng với vị trí việc làm, chức danh nghề nghiệp, chức vụ quản lý và kết quả thực hiện công việc hoặc nhiệm vụ được giao; được hưởng phụ cấp và chính sách ưu đãi trong trường hợp làm việc ở miền núi, biên giới, hải đảo, vùng sâu, vùng xa, cùng dân tộc thiểu số, vùng có điều kiện kinh tế-xã hội đặc biệt khó khăn hoặc làm việc trong nghành nghề độc hại, nguy hiểm, lĩnh vực sự nghiệp đặc thù.
-b) 2 quyền
+b. 2 quyền
 1. Được trả lương tương xứng với vị trí việc làm, chức danh nghề nghiệp, chức vụ quản lý và kết quả thực hiện công việc hoặc nhiệm vụ được giao; được hưởng phụ cấp chính sách ưu đãi, trong trường hợp làm việc ở miền núi, biên giới, hải đảo, vùng sâu, vùng xa, vùng dân tộc thiểu số, vùng có điều kiện kinh tế-xã hội đặc biệt khó khăn hoặc làm việc trong nghành nghề độc hại, nguy hiểm, lĩnh vực sự nghiệp đặc thù.
 2. Được hưởng tiền làm thêm giờ, tiền làm đêm công tác phí và chế độ khác theo quy định của pháp luật và quy chế của đơn vị sự nghiệp công lập.
-c) 3 quyền
+c. 3 quyền
 1. Được hưởng lương theo vị trí việc làm, chức danh nghề nghiệp, chức vụ quản lý và kết quả thực hiện công việc hoặc nhiệm vụ được giao; được hưởng phụ cấp chính sách ưu đãi, trong trường hợp làm việc ở miền núi, biên giới, hải đảo, vùng sâu, vùng xa, vùng dân tộc thiểu số, vùng có điều kiện kinh tế-xã hội đặc biệt khó khăn hoặc làm việc trong ngành nghề độc hại, nguy hiểm, lĩnh vực sự nghiệp đặc thù.
 2. Được hưởng tiền làm thêm giờ, tiền làm đêm, công tác phí và các chế độ khác theo quy định của pháp luật và quy chế của đơn vị sự nghiệp công lập.
 3. Được hưởng tiền thưởng, được xét nâng lương theo quy định của pháp luật và quy chế của đơn vị sự nghiệp công lập.
 Câu 21: Viên chức có mấy quyền về nghỉ ngơi và là những quyền nào?
-a) 1 quyền
+a. 1 quyền
 1. Được nghỉ hằng năm, nghỉ lễ, nghỉ việc riêng theo quy định của pháp luật về lao động. Do yêu cầu công việc, viên chức không sử dụng hoặc sử dụng không hết số ngày nghỉ hằng năm thì được thanh toán một khoản tiền cho những ngày không nghỉ.
-b) 2 quyền
+b. 2 quyền
 1. Được nghỉ hằng năm, nghỉ lễ, nghỉ việc riêng theo quy định của pháp luật về lao động. Do yêu cầu công việc, viên chức không sử dụng hoặc sử dụng không hết số ngày nghỉ hằng năm thì được thanh toán một khoản tiền cho số ngày không nghỉ.
 2. Viên chức làm việc ở biên giới, hải đảo, vùng sâu, vùng xa, vùng dân tộc thiểu số hoặc trường hợp đặc biệt khác, nếu có yêu cầu, có thể gộp số ngày nghỉ phép của 2 năm để nghỉ 1 lần; nếu gộp số ngày nghỉ phép của 3 năm để nghỉ 1 lần thì phải được sự đồng ý của người đứng đầu đơn vị sự nghiệp công lập.
-c) 3 quyền
+c. 3 quyền
 1. Được nghỉ hằng năm, nghỉ lễ, nghỉ việc riêng theo quy định của pháp luật về lao động. Do yêu cầu công việc, viên chức không sử dụng hoặc sử dụng không hết số ngày nghỉ hằng năm thì được thanh toán một khoản tiền cho số ngày không nghỉ.
 2. Viên chức làm việc ở biên giới, hải đảo, vùng sâu, vùng xa, vùng dân tộc thiểu số hoặc trường hợp đặc biệt khác; nếu có yêu cầu, được gộp số ngày nghỉ phép của 2 năm để nghỉ 1 lần; nếu gộp số ngày nghỉ phép của 3 năm để nghỉ 1 lần thì phải được sự đồng ý của người đứng đầu đơn vị sự nghiệp công lập.
 3. Đối với lĩnh vực sự nghiệp đặc thù, viên chức được nghỉ việc và hưởng lương theo quy định của pháp luật.
-d) 4 quyền
+d. 4 quyền
 1. Được nghỉ hằng năm, nghỉ lễ, nghỉ việc riêng theo quy định của pháp luật về lao động. Do yêu cầu công việc, viên chức không sử dụng hoặc sử dụng không hết số ngày nghỉ hằng năm thì được thanh toán một khoản tiền cho số ngày không nghỉ.
 2. Viên chức làm việc ở biên giới, hải đảo, vùng sâu, vùng xa, vùng dân tộc thiểu số hoặc trường hợp đặc biệt khác; nếu có yêu cầu, được gộp số ngày nghỉ phép của 2 năm để nghỉ 1 lần; nếu gộp số ngày nghỉ phép của 3 năm để nghỉ 1 lần thì phải có sự đồng ý của người đứng đầu đơn vị sự nghiệp công lập.
 3. Đối với lĩnh vực sự nghiệp đặc thù, viên chức được nghỉ việc và hưởng lương theo quy định của pháp luật.
@@ -144,7 +144,7 @@ A. 4
 B. 5
 C. 6
 D. 7
-Câu 27; Trong điều 19( mục 2 nghĩa vụ của viên chức) trong luật viên chức quy định: Những việc viên chức không được làm gồm?
+Câu 27. Trong điều 19( mục 2 nghĩa vụ của viên chức) trong luật viên chức quy định: Những việc viên chức không được làm gồm?
 a. Trốn tránh trách nhiệm, thoái thác cong việc hoặc nhiệm vụ đươc giao; gây bè phái, mất đoàn kết; tự ý bỏ việc; tham gia đình công.
 b. Sử dụng tài sản của cơ quan, tổ chức, đơn vị và của nhân dân trái với quy định của pháp luật.
 c. Phân biệt đối xử dân tộc, nam nữ, thành phần xã hội, tín ngưỡng, tôn giáo dưới mọi hình thức.
@@ -175,7 +175,7 @@ b. Đề cao trách nhiệm của người đứng đầu đơn vị sự nghi�
 c. Cả 2 đáp án đều đúng
 d. Cả 2 đáp án đều sai
 Câu 33: Điều 22 trong chương III Tuyển dụng, sử dụng viên chức- Luật Viên Chức quy định: Người có đủ điều kiện nào sau đây không phân biệt dân tộc, nam nữ, thành phần xã hội, tín ngưỡng, tôn giáo được đăng kí dự tuyển viên chức. ?
-a, Người có quốc tịch Việt Nam và cư trú tại Việt Nam. Từ đủ 18 tuổi trở lên.
+a. Người có quốc tịch Việt Nam và cư trú tại Việt Nam. Từ đủ 18 tuổi trở lên.
 b. Có đơn đăng kí dự tuyển, có lí lịch rõ ràng.
 c. Có văn bằng , chứng chỉ đào tạo, chứng chỉ hành nghề hoặc có năng khiếu, kĩ năng phù hợp với vị trí làm việc.
 d. Cả 3 đáp án trên đầu đúng.
@@ -242,126 +242,126 @@ b. Từ 3 tháng đến 12 tháng
 c. Từ 4 tháng đến 12 tháng
 d. Từ 6 tháng đến 12 tháng.
 Câu 46: Điều 27 trong Hơp đồng làm việc của chương III Tuyển dụng, sử dụng viên chứcLuật Viên Chức quy định: Ai là người quy định chi tiết chế độ tập sự?
-a) Bộ trưởng Bộ Giáo dục và Đào tạo
-b) Thủ trưởng cơ quan quản lý nhà nước
-c) Chính phủ.
-d) Sở nội vụ.
+a. Bộ trưởng Bộ Giáo dục và Đào tạo
+b. Thủ trưởng cơ quan quản lý nhà nước
+c. Chính phủ.
+d. Sở nội vụ.
 Câu 47: Điều 28 trong Hơp đồng làm việc của chương III Tuyển dụng, sử dụng viên chứcLuật Viên Chức quy định: trong quá trình làm việc, nếu 1 bên có yêu cầu thay đổi nội dung hợp đồng làm việc thì phải báo cho bên kia biết trước bao nhiêu thời gian?
-a) 3 ngày
-b) 6 ngày
-c) 12 ngày
-d) 60 ngày
+a. 3 ngày
+b. 6 ngày
+c. 12 ngày
+d. 60 ngày
 Câu 48 a: Viên chức không phải thực hiện chế độ tập sự nếu đã có thời gian làm từ bao lâu?
-a) 12 tháng trở lên
-b) 36 tháng trở lên
-c) Từ đủ 12 tháng trở lên
-d) Từ đủ 36 tháng trở lên
-e) Khoảng 12 tháng
-f) Khoảng 36 tháng
+a. 12 tháng trở lên
+b. 36 tháng trở lên
+c. Từ đủ 12 tháng trở lên
+d. Từ đủ 36 tháng trở lên
+e. Khoảng 12 tháng
+f. Khoảng 36 tháng
 Câu 49: Điều 27 về Chế độ tập sự có mấy nguyên tắc?
 a. 1 nt
 b. 2 nt
 c. 3nt
 d. 4 nt
 Câu 50: Đối với hợp đồng xác định thời hạn thì trước khi hết hạn hợp đồng bao nhiêu ngày thì người đứng đầu đơn vị sự nghiệp công lập quyết định kí kết tiếp hoặc chấm dứt.
-a) 30 ngày
-b) 60 ngày
-c) 36 ngày
-d) 24 ngày
+a. 30 ngày
+b. 60 ngày
+c. 36 ngày
+d. 24 ngày
 Câu 51: theo Điều 29: Đơn phương chấm dứt hợp đồng làm việc. Đơn vị sự nghiệp công lập được đơn phương chấm dứt hợp đồng làm việc với viên chức bị ốm đau trong thời hạn là bao lâu?
-a) 12 tháng liên tục với hợp đồng không xác định thời hạn, 6 tháng liên tục đối với hợp đồng xác định thời hạn.
-b) 36 tháng liên tục với hđ không xác định thời hạn, 12 tháng liên tục với hợp đồng xđ thời hạn.
-c) Khoảng 12 tháng với hđ không xác định thời hạn, khoảng 6 tháng đối với hđ xđ thời hạn.
-d) Khoảng 36 tháng với hđ không xác định thời hạn, khoảng 12 tháng với hợp đồng xđ thời hạn.
+a. 12 tháng liên tục với hợp đồng không xác định thời hạn, 6 tháng liên tục đối với hợp đồng xác định thời hạn.
+b. 36 tháng liên tục với hđ không xác định thời hạn, 12 tháng liên tục với hợp đồng xđ thời hạn.
+c. Khoảng 12 tháng với hđ không xác định thời hạn, khoảng 6 tháng đối với hđ xđ thời hạn.
+d. Khoảng 36 tháng với hđ không xác định thời hạn, khoảng 12 tháng với hợp đồng xđ thời hạn.
 Câu 52: theo Điều 29: Đơn phương chấm dứt hợp đồng làm việc quy định: Viên chức có mấy năm liên tiếp bị phân loại đánh giá ở mức không hoàn thành nhiệm vụ thì bị đơn phương chấm dứt hợp đồng.
-a) 1 năm
-b) 2 năm
-c) 3 năm
-d) 4 năm
+a. 1 năm
+b. 2 năm
+c. 3 năm
+d. 4 năm
 Câu 53: theo Điều 29: Đơn phương chấm dứt hợp đồng làm việcquy định: Trừ trường hợp quy định tại điểm b khoản 1 điều này, người đứng đầu đơn vị sự nghiệp công lập phải báo cho viên chức biết trước bao nhiêu ngày khi đơn phương chấm dứt hợp đồng làm việc?
-a) 45 ngày đối với hđ không xđ thời hạn, 30 ngày đối với hợp đồng xác định thời hạn.
-b) Ít nhất 45 ngày đối với hđ không xđ thời hạn, ít nhất 30 ngày đối với hợp đồng xác định thời hạn.
-c) 60 ngày đối với hđ không xđ thời hạn, 30 ngày đối với hợp đồng xác định thời hạn.
-d) Ít 60 ngày đối với hđ không xđ thời hạn, ít nhất 30 ngày đối với hợp đồng xác định thời hạn
+a. 45 ngày đối với hđ không xđ thời hạn, 30 ngày đối với hợp đồng xác định thời hạn.
+b. Ít nhất 45 ngày đối với hđ không xđ thời hạn, ít nhất 30 ngày đối với hợp đồng xác định thời hạn.
+c. 60 ngày đối với hđ không xđ thời hạn, 30 ngày đối với hợp đồng xác định thời hạn.
+d. Ít 60 ngày đối với hđ không xđ thời hạn, ít nhất 30 ngày đối với hợp đồng xác định thời hạn
 Câu 54: theo Điều 29: Đơn phương chấm dứt hợp đồng làm việcquy định: Người đứng đầu đơn vị sự nghiệp công lập không được đơn phương chấm dứt hợp đồng với viên chức nữ đang có thai và nuôi con bao nhiêu tháng tuổi.
-a) Dưới 18 tháng tuổi
-b) Dưới 24 tháng tuổi
-c) Dưới 36 tháng tuổi
-d) Dưới 12 tháng tuổi
+a. Dưới 18 tháng tuổi
+b. Dưới 24 tháng tuổi
+c. Dưới 36 tháng tuổi
+d. Dưới 12 tháng tuổi
 Câu 55: theo Điều 29: Đơn phương chấm dứt hợp đồng làm việcquy định: Viên chức làm việc theo hợp đồng không xác định thời hạn được đơn phương chấm dứt hợp đồng làm việc nhưng phải thông báo bằng văn bản với người đứng đầu đơn vị sự nghiệp công lập biết trước bao nhiêu ngày.
-a) 60 ngày
-b) ít nhất 60 ngày
-c) 45 ngày
-d) ít nhất 45 ngày.
+a. 60 ngày
+b. ít nhất 60 ngày
+c. 45 ngày
+d. ít nhất 45 ngày.
 * Trường hợp viên chức bị ốm đau, bị tai nạn đã điều trị 6 tháng liên tục thì phải báo trước bao nhiêu ngày.
-a) 30 ngày
-b) 6 ngày
-c) ít nhất 3 ngày
-d) 3 ngày
-e) ít nhất 6 ngày
-f) ít nhất 30 ngày.
+a. 30 ngày
+b. 6 ngày
+c. ít nhất 3 ngày
+d. 3 ngày
+e. ít nhất 6 ngày
+f. ít nhất 30 ngày.
 Câu 56: theo Điều 29: Đơn phương chấm dứt hợp đồng làm việcquy định: Viên chức làm việc theo hợp đồng xác định thời hạn có quyền đơn phương chấm dứt hợp đồng khi bị tai nạn, khi bị ốm đau đã điều trị bao nhiêu tháng ?
-a) 3 tháng
-b) 6 tháng
-c) ít nhất 3 tháng
-d) ít nhất 6 tháng
-đ) từ 3 tháng
-e) từ 6 tháng.
+a. 3 tháng
+b. 6 tháng
+c. ít nhất 3 tháng
+d. ít nhất 6 tháng
+đ. từ 3 tháng
+e. từ 6 tháng.
 Câu 57: theo Điều 29: Đơn phương chấm dứt hợp đồng làm việc quy định: Viên chức phải thông báo bằng văn bản về việc đơn phương chấm dứt hợp đồng làm việc cho người đứng đầu đơn vị sự nghiệp công lập biết trước bao nhiêu ngày đối với các khoản a, b, c, đ, e khoản 5 điều này?
-a) từ 3 ngày
-b) ít nhất 3 ngày
-c)từ 6 ngày
-d) ít nhất 6 ngày
+a. từ 3 ngày
+b. ít nhất 3 ngày
+c. từ 6 ngày
+d. ít nhất 6 ngày
 * Đối với điểm d khoản 5 Điều này
-a) Từ 45 ngày
-b) ít nhất 45 ngày
-c) Từ 30 ngày
-d) ít nhất 30 ngày
+a. Từ 45 ngày
+b. ít nhất 45 ngày
+c. Từ 30 ngày
+d. ít nhất 30 ngày
 Câu 58: Thời hạn biệt phái không quá bao nhiêu năm?
-a) 3 năm
-b) 6 năm
-c) 1 năm
-d) 2 năm
+a. 3 năm
+b. 6 năm
+c. 1 năm
+d. 2 năm
 Câu 59: Không biệt phái viên chức nữ đang mang thai hoặc nuôi con dưới bao nhiêu tháng tuổi?
-a) 12 tháng
-b) 18 tháng
-c) 24 tháng
-d) 36 tháng.
+a. 12 tháng
+b. 18 tháng
+c. 24 tháng
+d. 36 tháng.
 Câu 60: Điều 36: Biệt phái viên chức có mấy khoản
-a) 4 khoản
-b) 5 khoản
-c) 6 khoản
-d) 7 khoản.
+a. 4 khoản
+b. 5 khoản
+c. 6 khoản
+d. 7 khoản.
 Câu 61: Điều 37: Bổ nhiệm viên chức quản lý có bao nhiêu khoản:
-a) 4 khoản
-b) 5 khoản
-c) 6 khoản
-d) 7 khoản.
+a. 4 khoản
+b. 5 khoản
+c. 6 khoản
+d. 7 khoản.
 Câu 62: Việc bổ nhiệm viên chức quản lý phải căn cứ vào đâu?
-a) Việc bổ nhiệm viên chức quản lý phải căn cứ vào nhu cầu của đơn vị sự nghiệp công lập, tiêu chuẩn, điều kiện của chức vụ quản lý và theo đúng thẩm quyền.
-b) Việc bổ nhiệm viên chức quản lý phải căn cứ vào nhu cầu của đơn vị sự nghiệp công lập, tiêu chuẩn, điều kiện của chức vụ quản lý và theo đúng thẩm quyền, trình tự, thủ tục.
-C) Việc bổ nhiệm viên chức quản lý phải căn cứ vào nhu cầu của đơn vị sự nghiệp công lập, điều kiện của chức vụ quản lý và theo đúng thẩm quyền, trình tự, thủ tục.
-D) Việc bổ nhiệm viên chức quản lý phải căn cứ vào nhu cầu của đơn vị sự nghiệp công lập, tiêu chuẩn, điều kiện và theo đúng thẩm quyền, trình tự, thủ tục.
+a. Việc bổ nhiệm viên chức quản lý phải căn cứ vào nhu cầu của đơn vị sự nghiệp công lập, tiêu chuẩn, điều kiện của chức vụ quản lý và theo đúng thẩm quyền.
+b. Việc bổ nhiệm viên chức quản lý phải căn cứ vào nhu cầu của đơn vị sự nghiệp công lập, tiêu chuẩn, điều kiện của chức vụ quản lý và theo đúng thẩm quyền, trình tự, thủ tục.
+c. Việc bổ nhiệm viên chức quản lý phải căn cứ vào nhu cầu của đơn vị sự nghiệp công lập, điều kiện của chức vụ quản lý và theo đúng thẩm quyền, trình tự, thủ tục.
+d. Việc bổ nhiệm viên chức quản lý phải căn cứ vào nhu cầu của đơn vị sự nghiệp công lập, tiêu chuẩn, điều kiện và theo đúng thẩm quyền, trình tự, thủ tục.
 Câu 63: Viên chức giữ chức vụ quản lý có thời hạn bao nhiêu năm
-a) 5 năm
-b) Không quá 5 năm
-c) 3 năm
-d) Không quá 3 năm
+a. 5 năm
+b. Không quá 5 năm
+c. 3 năm
+d. Không quá 3 năm
 Câu 64: Cơ quan nào quy định chi tiết bổ nhiệm viên chức quản lý
-a) Người đứng đầu đơn vị sự nghiệp công lập
-b) Chính phủ
-c) Cơ quan quản lý đơn vị sự nghiệp công lập
-d) Cấp có thẩm quyền
+a. Người đứng đầu đơn vị sự nghiệp công lập
+b. Chính phủ
+c. Cơ quan quản lý đơn vị sự nghiệp công lập
+d. Cấp có thẩm quyền
 Câu 65. Điều 33 chế độ đào tạo, bồi dưỡng viên chức quy định: Hình thức đào tạo, bồi dưỡng viên chức gồm:
 a. Đào tạo, bồi dưỡng theo tiêu chuẩn chức vụ quản lý.
 b. Bồi dưỡng theo tiêu chuẩn chức danh nghề nghiệp
 c. Bồi dưỡng nhằm bổ sung, cập nhật kiến thức, kĩ năng phục vụ hoạt động nghề nghiệp.
 d. Cả 3 đấp án đều đúng
 Câu 66. Điều 33 chế độ đào tạo, bồi dưỡng viên chức quy định: Cơ quan nào được giao quản lý nhà nước về các lĩnh vực hoạt động của viên chức quy định chi tiết về nội dung, chương trình, hình thức, thời gian đào tạo, bồi dưỡng viên chức làm việc trong ngành, lĩnh vực được giao quản lý.
-a) Người đứng đầu đơn vị sự nghiệp công lập
-b) Các bộ, cơ quan ngang bộ
-c) Cơ quan quản lý đơn vị sự nghiệp công lập
-d) Cấp có thẩm quyền
+a. Người đứng đầu đơn vị sự nghiệp công lập
+b. Các bộ, cơ quan ngang bộ
+c. Cơ quan quản lý đơn vị sự nghiệp công lập
+d. Cấp có thẩm quyền
 Câu 67. Điều 34 quy định đơn vị nào có trách nhiệm đào tạo, bồi dưỡng viên chức ?
 a. Đơn vị ngoài công lập
 b. Đơn vị sự nghiệp công lập
@@ -2516,12 +2516,12 @@ c. 25 điều
 d. 30 điều
 Câu 375. Theo luật GD thì Chương II- Hệ thống giáo dục quốc dân gồm bao nhiêu mục bao nhiêu điều?
 a. 5 mục, 20 điều
-b. 5 mục 27 điều
+b. 5 mục, 27 điều
 c. 6 mục, 20 điều
 d. 6 mục, 27 điều
 Câu 376. Theo luật GD thì Chương III- Nhà trường và các cơ sở GD khác gồm bao nhiêu mục bao nhiêu điều?
 a. 5 mục, 20 điều
-b. 5 mục 27 điều
+b. 5 mục, 27 điều
 c. 5 mục, 22 điều
 d. 6 mục, 22 điều
 Câu 377. Theo luật GD thì Chương IV- Nhà giáo gồm bao nhiêu mục bao nhiêu điều?
@@ -2541,29 +2541,76 @@ c. 6
 d. 3
 `
 
-// test1 = textStr.split(/(Câu [0-9]{1,3}:)|(Câu [0-9]{1,3}.)/)
-// var output1 = input.split(/^(Câu [0-9]{1,3}:)|(Câu [0-9]{1,3}.)/)
 var output1 = input.split(/\n/)
-// console.log(output1)
+
+String.prototype.isMatchQuestion = function () {
+  return this.match(/^(Câu [0-9]{1,3}:)/) || this.match(/^(Câu [0-9]{1,3}.)/)
+}
+
+String.prototype.isMatchAnswer = function () {
+  return this.match(/^(a|A|b|B|c|C|d|D|đ|Đ|e|E|f|F|g|G|h|H)\. /)
+}
 
 var output2 = []
 output1.forEach(item => {
-    if (item.match(/^(Câu [0-9]{1,3}:)/) || item.match(/^(Câu [0-9]{1,3}.)/)) {
-        let temp = [item]
-        output2.push(temp)
-    } else {
-        if (output2[output2.length - 1] !== undefined && item !== '') {
-            output2[output2.length - 1].push(item)
-        }
+  if (item.isMatchQuestion()) {
+    let temp = [item]
+    output2.push(temp)
+  } else {
+    if (output2[output2.length - 1] !== undefined && item !== '') {
+      output2[output2.length - 1].push(item)
     }
+  }
 })
 
+var obs = []
+output2.forEach(item => {
+  let question = ''
+  let answers = []
+  let answerTemps = []
+  let answerTemp = ''
+  for (let index = 0; index < item.length; index++) {
+    const el = item[index]
+    if (el.isMatchQuestion()) {
+      if (el.match(/^(Câu [0-9]{1,3}:)/)) {
+        question = el.replace(/^(Câu [0-9]{1,3}:)/, '').trim()
+      } else if (el.match(/^(Câu [0-9]{1,3}.)/)) {
+        question = el.replace(/^(Câu [0-9]{1,3}.)/, '').trim()
+      } else {
+        question = el.trim()
+      }
+    } else {
+      answerTemps.push(el)
+    }
+  }
 
-console.log(output2)
+  for (let index = 0; index < answerTemps.length; index++) {
+    const el = answerTemps[index];
+    if (el.isMatchAnswer()) {
+      answers.push(el)
+    } else {
+      answers[answers.length - 1] = answers[answers.length - 1] + '\n' + el
+    }
+  }
 
-// var fs = require('fs');
-// fs.writeFile("output.json", output1, function(err) {
-//     if (err) {
-//         console.log(err);
-//     }
-// });
+
+  // if (question.match(/^(Câu [0-9]{1,3}:)/)) {
+  //   question.replace(/^(Câu [0-9]{1,3}:)/, '')
+  // } else if (question.match(/^(Câu [0-9]{1,3}.)/)) {
+  //   question.replace(/^(Câu [0-9]{1,3}.)/, '')
+  // }
+  // answers = answers.map(m => {return m.replace(/^(a|A|b|B|c|C|d|D|đ|Đ|e|E|f|F|g|G|h|H)\. /, '')})
+  obs.push({
+    question,
+    answers
+  })
+})
+
+console.log(obs)
+
+var fs = require('fs');
+fs.writeFile("Data.json", JSON.stringify(obs), function (err) {
+  if (err) {
+    console.log(err);
+  }
+});
