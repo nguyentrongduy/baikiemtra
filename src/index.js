@@ -417,6 +417,7 @@ a. Hoàn thành xuất sắc nhiệm vụ
 b. Hoàn thành tốt nhiệm vụ
 c. Hoàn thành nhiệm vụ
 d. Không hoàn thành nhiệm vụ
+e. Cả 4 đáp án trên
 Câu 78. Điều 43 quy định trách nhiệm đánh giá viên chức thuộc thẩm quyền quản lí thuộc về ai?
 a. Chính phủ
 b. Bộ giáo dục
@@ -912,6 +913,11 @@ a. Giup trẻ phát triển về thể chất, tình cảm, trí tuệ, chuẩn 
 b. Giup trẻ phát triển về thể chất, tình cảm, trí tuệ, hình thành những yếu tố đầu tiên của nhân cách.
 c. Giup trẻ phát triển về thể chất, tình cảm, trí tuệ, thẩm mĩ, hình thành những yếu tố đầu tiên của nhân cách.
 d. Giup trẻ phát triển về thể chất, tình cảm, trí tuệ, thẩm mĩ, hình thành những yếu tố đầu tiên của nhân cách, chuẩn bị cho trẻ em vào học lớp 1.
+Câu 60. Theo điều 23 Luật giáo dục. Có mấy yêu cầu về nội dung, phương pháp giáo dục mầm non ?
+a. 1
+b. 2
+c. 3
+d. 4
 Câu 61. Theo điều 23 Luật giáo dục. yêu cầu về nội dung giáo dục mầm non phải :
 a. bảo đảm phù hơp với sự phát triển tâm sinh lý của trẻ em, hài hòa giữa nuôi dưỡng, chăm sóc và giáo dục.
 b. giúp trẻ em phát triển cơ thể cân đối, khỏe mạnh, nhanh nhẹn
@@ -1427,8 +1433,6 @@ a. Thông qua ngày 14/01/2005 - Hiệu lực thi hành từ 01/01/2006
 b. Thông qua ngày 14/06/2005 - Hiệu lực thi hành từ 01/01/2006
 c. Thông qua ngày 14/06/2005 - Hiệu lực thi hành từ 01/01/2006
 d. Thông qua ngày 16/04/2005 - Hiệu lực thi hành từ 01/01/2006
-Câu 166. Tính chất của nền giáo dục Việt Nam là gì ? (thí sinh tự điền vào)
-“…. nhân dân, dân tộc, khoa học hiện đại lấy chủ nghĩa Marx Lenin và tư tưởng Hồ Chí Minh làm nền tảng …”
 Câu 167 Mục tiêu của phát triển giáo dục là gì ?
 a. Nâng cao dân trí, đào tạo nhân lực, bồi dưỡng nhân tài
 b. Phát triển kinh tế xã hội, tiến bộ KH, công nghệ, củng cố quốc phòng an ninh.
@@ -1450,8 +1454,8 @@ c. Trình độ cao đẳng, trình độ đại học, trình độ thạc sĩ,
 d. Trình độ đại học, trình độ thạc sĩ, trình độ tiến sĩ.
 Câu 171. Cho biết thẩm quyền quy định những trường hợp học sinh học vượt lớp, học lưu ban ?
 a. Hiệu trưởng
-c. Giám đốc sở GD-ĐT
 b. Trưởng phòng GD Quận, Huyện
+c. Giám đốc sở GD-ĐT
 d. Bộ trưởng Bộ GD-ĐT
 Câu 172 Cơ sở giáo dục phổ thông bao gồm những bậc học, cấp học nào?
 a. Tiểu học, THCS, THPT
@@ -1484,8 +1488,8 @@ b. Trung tâm học tập cộng đồng.
 d. Trường THPT.
 Câu 178. Thủ tướng chính phủ có thẩm quyền ban hành điều lệ loại trường nào ?
 a. Phổ thông
-c. Cao đẳng chuyên nghiệp.
 b. Đại học
+c. Cao đẳng chuyên nghiệp.
 d. Cả ba loại trường trên
 Câu 179. Hội đồng quản trị của trường có quyền gì ?
 a. Quyết nghị về qui chế hoặc sửa đổi bổ sung qui chế tổ chức và hoạt động của Trường để trình cấp có thẩm quyền phê duyệt.
@@ -1498,13 +1502,13 @@ c. Thủ trưởng cơ quan quản lý Nhà nước về dạy nghề quy địn
 d. Cả 3 đều sai.
 Câu 181. Hội đồng tư vấn trong nhà trường do ai thành lập ?
 a. Công đoàn thành lập.
-c. Hiệu trưởng thành lập.
 b. Hội cha mẹ HS thành lập.
+c. Hiệu trưởng thành lập.
 d. Điều lệ nhà trường quy định.
 Câu 182. Trường nào có quyền sử dụng nguồn thu từ hoạt động kinh tế để đầu tư xây dựng cơ sở vật chất của nhà trường mở rộng SX, KD và chi cho các hoạt động theo quy định của pháp luật ?
 a. Cao Đẳng, Đại học, trung cấp.
-c. GD mầm non.
 b. THPT.
+c. GD mầm non.
 d. Trường chuyên biệt.
 Câu 183. Chương trình giáo dục, quy chế tổ chức các trường chuyên, trường năng khiếu do cơ quan nào ban hành ?
 a. Bộ trưởng Bộ giáo dục ban hành.
@@ -1546,8 +1550,8 @@ b. Học phí, lệ phí tuyển sinh, phí cơ sở vật chất, hội phí ba
 c. a và b đúng.
 Câu 191. Cơ quan thanh tra giáo dục gồm những cấp nào ?
 a. Thanh tra phòng giáo dục
-c. Thanh tra Bộ GD và ĐT.
 b. Thanh tra Sở GD-ĐT
+c. Thanh tra Bộ GD và ĐT.
 d. b và c đúng
 Câu 192. Đối tượng nào dưới đây KHÔNG thuộc phạm vi điều chỉnh của Luật Giáo dục?
 A. Hệ thống giáo dục quốc dân.

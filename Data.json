@@ -573,7 +573,7 @@
         "d. 7 khoản."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Việc bổ nhiệm viên chức quản lý phải căn cứ vào đâu?",
     "answers": [
         "a. Việc bổ nhiệm viên chức quản lý phải căn cứ vào nhu cầu của đơn vị sự nghiệp công lập, tiêu chuẩn, điều kiện của chức vụ quản lý và theo đúng thẩm quyền.",
@@ -582,7 +582,7 @@
         "d. Việc bổ nhiệm viên chức quản lý phải căn cứ vào nhu cầu của đơn vị sự nghiệp công lập, tiêu chuẩn, điều kiện và theo đúng thẩm quyền, trình tự, thủ tục."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Viên chức giữ chức vụ quản lý có thời hạn bao nhiêu năm",
     "answers": [
         "a. 5 năm",
@@ -591,7 +591,7 @@
         "d. Không quá 3 năm"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Cơ quan nào quy định chi tiết bổ nhiệm viên chức quản lý",
     "answers": [
         "a. Người đứng đầu đơn vị sự nghiệp công lập",
@@ -600,7 +600,7 @@
         "d. Cấp có thẩm quyền"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Điều 33 chế độ đào tạo, bồi dưỡng viên chức quy định: Hình thức đào tạo, bồi dưỡng viên chức gồm:",
     "answers": [
         "a. Đào tạo, bồi dưỡng theo tiêu chuẩn chức vụ quản lý.",
@@ -609,7 +609,7 @@
         "d. Cả 3 đấp án đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Điều 33 chế độ đào tạo, bồi dưỡng viên chức quy định: Cơ quan nào được giao quản lý nhà nước về các lĩnh vực hoạt động của viên chức quy định chi tiết về nội dung, chương trình, hình thức, thời gian đào tạo, bồi dưỡng viên chức làm việc trong ngành, lĩnh vực được giao quản lý.",
     "answers": [
         "a. Người đứng đầu đơn vị sự nghiệp công lập",
@@ -618,7 +618,7 @@
         "d. Cấp có thẩm quyền"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Điều 34 quy định đơn vị nào có trách nhiệm đào tạo, bồi dưỡng viên chức ?",
     "answers": [
         "a. Đơn vị ngoài công lập",
@@ -627,14 +627,14 @@
         "d. Đơn vị sự nghiệp ngoài công lập"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Điều 35 trách nhiệm và quyền lợi của viên chức trong đào tạo, bồi dưỡng quy định: “Viên chức được cử tham gia đào tạo, bồi dưỡng được hưởng tiền lương và phụ cấp theo quy định của pháp luật và quy chế của đơn vị sự nghiệp công lập; thời gian đào tạo, bồi dưỡng được tính là thời gian công tác liên tục, được xét nâng lương” điều này đúng hay sai?",
     "answers": [
         "A. Đúng",
         "B. Sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Điều 36 Biệt phái viên chức quy định: Biệt phái viên chức là gì?",
     "answers": [
         "a. Biệt phái viên chức là việc viên chức của đơn vị sự nghiệp công lập này được cử đi làm việc tại cơ quan tổ chức, đơn vị khác.",
@@ -643,7 +643,7 @@
         "d. Cả 3 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Điều 36 Biệt phái viên chức quy định: Ai là người quết định việc biệt phái viên chức ?",
     "answers": [
         "a. Người đúng đầu đơn vị sự nghiệp công lập",
@@ -652,7 +652,7 @@
         "d. Người đúng đầu đơn vị sự nghiệp công lập hoặc Cơ quan có thẩm quyền quản lí đơn vị sự nghiệp công lập."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Điều 38 Xin thôi giữu chức vụ quản lí hoặc miễn nhiệm đối với viên chức quản lí quy định: Viên chức quản lí có thể xin thôi giữ chức vụ quản lí hoặc được miễn nhiệm nếu thuộc trường hợp nào?",
     "answers": [
         "a. Không đủ sức khỏe",
@@ -662,7 +662,7 @@
         "e. Tất cả đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Điều 39. Mục đích đánh giá viên chức quy định:",
     "answers": [
         "a. Mục đích của đánh giá viên chức để làm căn cứ tiếp tục bố trí, sử dụng viên chức.",
@@ -671,7 +671,7 @@
         "d. Mục đích của đánh giá viên chức để làm căn cứ tiếp tục bố trí, sử dụng , bổ nhiệm, miễn nhiệm, đào tạo, bồi dưỡng , khen thưởng, kỉ luật và thực hiện chế độ, chính sách đối với viên chức."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Điều 40 Căn cứ đánh giá viên chức quy định: Việc đánh giá viên chức được thực hiện dựa trên căn cứ nào?",
     "answers": [
         "a. Các cam kết trong hợp đồng làm việc đã kí kết.",
@@ -680,7 +680,7 @@
         "d. Cả 2 đều sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Điều 41 nội dung đánh giá viên chức quy định: việc đánh giá viên chức được xem xét theo nội dung nào?",
     "answers": [
         "a. Kết quả thực hiện công việc hoặc nhiệm vụ theo hợp đồng làm việc đã kí kết.",
@@ -690,7 +690,7 @@
         "e. Cả 4 đá án đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Việc đánh giá viên chức được thực hiện khi nào?",
     "answers": [
         "a. Hàng năm",
@@ -699,7 +699,7 @@
         "d. khi xét khan thưởng, kỉ luật, bổ nhiệm lại, quy hoạch, đào tạo, bồi dưỡng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Điều 42 Phân loại đánh giá viên chức quy định: Hằng năm, căn cứ vào nội dung đánh giá, viên chức được phân thành mấy loại?",
     "answers": [
         "a. 3",
@@ -708,16 +708,17 @@
         "d. 6"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Điều 42 Phân loại đánh giá viên chức quy định: Hằng năm, căn cứ vào nội dung đánh giá, viên chức được phân thành mấy loại?",
     "answers": [
         "a. Hoàn thành xuất sắc nhiệm vụ",
         "b. Hoàn thành tốt nhiệm vụ",
         "c. Hoàn thành nhiệm vụ",
-        "d. Không hoàn thành nhiệm vụ"
+        "d. Không hoàn thành nhiệm vụ",
+        "e. Cả 4 đáp án trên"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Điều 43 quy định trách nhiệm đánh giá viên chức thuộc thẩm quyền quản lí thuộc về ai?",
     "answers": [
         "a. Chính phủ",
@@ -726,7 +727,7 @@
         "d. Người đứng đầu đơn vị sự nghiệp công lập"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Điều 43 quy định chi tiết trình tự, thủ tục đánh giá viên chức do cơ quan nào?",
     "answers": [
         "a. Chính phủ",
@@ -735,7 +736,7 @@
         "d. Người đứng đầu đơn vị sự nghiệp công lập"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Điều 44 thông báo kết quả đánh giá, phân loại viên chức quy định.",
     "answers": [
         "a. Nội dung đánh giá viên chức phải được thông báo cho viên chức.",
@@ -744,7 +745,7 @@
         "d. Cả 3 đáp án trên đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Điều 45 chế độ thôi việc quy định: Khi chấm dứt hợp đồng làm việc, viên chức được?",
     "answers": [
         "a. Hưởng trợ cấp thôi việc",
@@ -753,7 +754,7 @@
         "d. Cả 3 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Điều 45 chế độ thôi việc quy định: Viên chức không được hưởng trợ cấp thôi việc nếu thuộc trường hợp nào sau đây?",
     "answers": [
         "a. Bị buộc thôi việc",
@@ -762,7 +763,7 @@
         "d. Cả 3 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Điều 46 Chế độ hưu trí quy định: viên chức được hưởng chế độ hưu trí theo quy định của?",
     "answers": [
         "a. Pháp luật về lao động",
@@ -771,7 +772,7 @@
         "d. Hội đồng nhà trường"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Điều 46 Chế độ hưu trí quy định: cơ quan, tổ chức, đơn vị quản lí viên chức phải thông báo bằng văn bản về thời điểm nghỉ hưu trước?",
     "answers": [
         "a. 6 tháng",
@@ -780,7 +781,7 @@
         "d. 5 tháng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Điều 46 Chế độ hưu trí quy định: cơ quan, tổ chức, đơn vị quản lí viên chức ra quyết định nghỉ hưu trước?",
     "answers": [
         "a. 3 tháng",
@@ -789,7 +790,7 @@
         "d. 5 tháng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Điều 47. Quản lí nhà nước về viên chức quy định cơ quan thống nhất quản lí nhà nước về viên chức là?",
     "answers": [
         "a. Nhà nước",
@@ -798,7 +799,7 @@
         "d. Cả 3 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Điều 48 Quản lí viên chức quy định nọi dung quản lí viên chức bao gồm mấy nội dung. ?",
     "answers": [
         "a. 7",
@@ -807,7 +808,7 @@
         "d. 10"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Điều 48 Quản lí viên chức quy định nọi dung quản lí viên chức bao gồm nội dung nào?",
     "answers": [
         "a. Xây dựng vị trí việc làm; bổ nhiệm, thay đổi chức danh nghề nghiệp.",
@@ -816,7 +817,7 @@
         "d. Cả 3 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Điều 48 Quản lí viên chức quy định nọi dung quản lí viên chức bao gồm nội dung nào?",
     "answers": [
         "a. Bổ nhiệm, miễn nhiệm viên chức quản lí, sắp xếp, bố trí và sử dụng viên chức theo nhu cầu công việc.",
@@ -826,7 +827,7 @@
         "e. Cả 4 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Điều 48 cơ quan quy định quản lí viên chức là?",
     "answers": [
         "a. Bộ giáo dục và đào tạo",
@@ -835,7 +836,7 @@
         "d. Nhà nước"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Điều 50: Kiểm tra, thanh tra?",
     "answers": [
         "a. Cơ quan có thẩm quyền quản lí đơn vị sự nghiệp công lập, thanh tra, kiểm tra việc tuyển dụng, sử dụng, quản lí viên chức tại các đvị sự nghiệp công lập được giao quản lí",
@@ -844,7 +845,7 @@
         "d. Cả 3 đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Điều 51. Khen thưởng quy định:",
     "answers": [
         "a. Viên chức có công trạng, thành tích và cống hiến trong công tác, hoạt động nghề nghiệp thì được khen thưởng, tôn vinh theo quy định của pháp luật về thi đua, khen thưởng.",
@@ -853,7 +854,7 @@
         "d. a và b đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Điều 52. Các hình thức kỉ luật đối với viên chức quy định: Viên chức vi phạm các quy định của pháp luật trong quá trình thực hiện công việc hoặc nhiệm vụ thì tùy theo tính chất, mức độ vi phạm, phải chịu 1 trong các hình thức kỉ luật nào sau đây?",
     "answers": [
         "a. Khiển trách",
@@ -863,7 +864,7 @@
         "e. Cả 4 đáp án đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Điều 52 Các hình thức kỉ luật đối với viên chức quy định: Hình thức kỉ luật cách chức chỉ áp dụng đối với.",
     "answers": [
         "a. Viên chức",
@@ -872,14 +873,14 @@
         "d. Cả 3 đều sai."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Điều 52 Các hình thức kỉ luật đối với viên chức quy định: Quyết định kỉ luật được lưu vào hồ sơ viên chức đúng hay sai?",
     "answers": [
         "a. Đúng",
         "b. Sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Điều 52 Các hình thức kỉ luật đối với viên chức quy định: cơ quan nào quy định việc áp dụng các hình thức kỉ luật, trình tự, thủ tục và thẩm quyền xử lí kỉ luật đối với viên chức. ?",
     "answers": [
         "a. Đơn vị sự nghiệp công lập",
@@ -888,7 +889,7 @@
         "d. Các bộ, cơ quan ngang bộ"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Điều 53 Thời hiệu, thời hạn xử lí kỉ luật quy định: Thời hiệu xử lí kỉ luật kể từ thời điểm có hành vi vi phạm là?",
     "answers": [
         "a. 12 tháng",
@@ -897,7 +898,7 @@
         "d. 6 tháng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Điều 53 Điều 53 Thời hiệu, thời hạn xử lí kỉ luật quy định: Thời hạn xử lí kỉ luật không quá?",
     "answers": [
         "a. 1 tháng",
@@ -906,7 +907,7 @@
         "d. Không quá 2 tháng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Điều 53 Thời hiệu, thời hạn xử lí kỉ luật quy định: trường hợp vụ việc có những tình tiết phức tạp cần có thời gian thanh tra, kiểm tra để xác minh làm rõ thêm thì thời hạn xử lí kỉ liuaatj có thể kéo dài nhưng không quá?",
     "answers": [
         "a. 2 tháng",
@@ -915,7 +916,7 @@
         "d. 5 tháng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Điều 53 Thời hiệu, thời hạn xử lí kỉ luật quy định : kể từ ngày ra quyết định đình chỉ điều tra, đình chỉ vụ án, người ra quyết định phải gửi quyết định và tài liệu có liên quan cho đơn vị quản lí viên chức để xem xét xử lí kỉ luật trong thời hạn bao lâu?",
     "answers": [
         "a. 1 ngày",
@@ -924,7 +925,7 @@
         "d. 4 ngày"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Điều 54 tạm đình chỉ công tác quy định: trong thời hạn xử lí kỉ luật ai là người quyết định tạm đình chỉ công tác của viên chức nếu tháy viên chức tiếp tục làm việc có thể gây khó khăn cho việc xem xét, xử lí kỉ luật",
     "answers": [
         "a. Chính phủ",
@@ -933,7 +934,7 @@
         "d. Bộ giáo dục và đào tạo"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Điều 54 tạm đình chỉ công tác quy định: thời hạn tạm đình chỉ công tác là?",
     "answers": [
         "a. không quá 5 ngày",
@@ -942,7 +943,7 @@
         "d. không quá 20 ngày"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Điều 54 tạm đình chỉ công tác quy định thời hạn tạm đình chỉ công tác trong trường hợp cần thiết có thể kéo dài thêm nhưng không quá?",
     "answers": [
         "a. 20 ngày",
@@ -951,7 +952,7 @@
         "d. 40 ngày"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Điều 54 tạm đình chỉ công tác quy định : Hết thời gian tạm đình chỉ công tác, nếu viên chức không bị xử lí kỉ luật thì được?",
     "answers": [
         "a. bổ nhiệm vào vị trí việc làm cũ",
@@ -960,14 +961,14 @@
         "d. Cả 3 đều sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Điều 54 tạm đình chỉ công tác quy định : trong thời gian tạm đình chỉ công tác, viên chức được hưởng lương theoquy định của Chính phủ điều này đúng hay sai?",
     "answers": [
         "a. Đúng",
         "b. Sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Điều 55 trách nhiệm bồi thường, hoàn trả quy định : cơ quan nào quy định chi tiết việc xác định mức hoàn trả của viên chức là?",
     "answers": [
         "a. Bộ giáo dục và đào tạo",
@@ -976,7 +977,7 @@
         "d. chính phủ"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Điều 56 Các quy định khác liên quan đến kỉ luật viên chức: viên chức bị khiển trách thì thời hạn nâng lương bị kéo dài?",
     "answers": [
         "a. 1 tháng",
@@ -985,7 +986,7 @@
         "d. 4 tháng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Điều 56 Các quy định khác liên quan đến kỉ luật viên chức: viên chức bị cảnh cáo thì thời hạn nâng lương bị kéo dài?",
     "answers": [
         "a. 3 tháng",
@@ -994,16 +995,16 @@
         "d. 4 tháng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Điều 56 Các quy định khác liên quan đến kỉ luật viên chức : trường hợp viên chức bị cách chức thì thời hạn nâng lương bị kéo dài đồng thời đơn vị sự nghệp công lập bố trí việc làm khác phù hợp?",
     "answers": [
         "a. 3 tháng",
         "b. 6 tháng",
         "c. 12 tháng",
-        "d. 2 4 tháng"
+        "d. 24 tháng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Điều 56 Các quy định khác liên quan đến kỉ luật viên chức: viên chức bị kỉ luật từ khiểm trách đến cách chức thì không thực hiện việc quy hoạch, đào tạo, bồi dưỡng, bổ nhiệm trong thời hạn bao nhiêu kể từ ngày quyết định kỉ luật có hiệu lực?",
     "answers": [
         "a. 3 tháng",
@@ -1012,14 +1013,14 @@
         "d. 24 tháng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Điều 56 Các quy định khác liên quan đến kỉ luật viên chức: “ viên chức đang trong thời hạn xử lí kỉ luật, đang bị điều tra, truy tố, xét xử thì không được bổ nhiệm, biệt phái, đào tạo, bồi dưỡng, giái quyết nghỉ hưu hoặc thôi việc” đúng hay sai?",
     "answers": [
         "a. Đúng",
         "b. Sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Điều 58 Chuyển đổi giữa viên chức và cán bộ, công chức: việc Chuyển đổi giữa viên chức và cán bộ, công chức được thực hiện theo mấy nội dụng?",
     "answers": [
         "a. 3",
@@ -1028,7 +1029,7 @@
         "d. 6"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Điều 58 Chuyển đổi giữa viên chức và cán bộ, công chức: cơ quan nào quy định việc Chuyển đổi giữa viên chức và cán bộ, công chức?",
     "answers": [
         "a. Người đứng đầu đơn vị sự nghiệp công lập.",
@@ -1037,14 +1038,14 @@
         "d. Các bộ, cơ quan ngang bộ"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Điều 59 Quy định chuyển tiếp; “Viên chức được tuyển dụng trước ngày 1/7/2003 có các quyền, nghĩa vụ và được quản lí như viên chức làm việc theo hợp đồng làm việc không xá định thời hạn theo quy định của luật này. ” Điều này đúng hay sai?",
     "answers": [
         "a. Đúng",
         "b. Sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Điều 61: Hiệu lực thi hành: Luật viên chức có hiệu lực thi hành từ ngày?",
     "answers": [
         "a. 1/1/2010",
@@ -1053,7 +1054,7 @@
         "d. 1/1/2013"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Luật viên chức được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kì họp thứ 8 thông qua ngày?",
     "answers": [
         "a. 15/9/2010",
@@ -1062,7 +1063,7 @@
         "d. 15/12/2010"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Luật Viên chức gồm bao nhiêu chương, bao nhiêu điều?",
     "answers": [
         "a. 6 chương, 60 điều",
@@ -1071,7 +1072,7 @@
         "d. 7 chương, 70 điều"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo Luật Giáo dục 2005 và Luật giáo dục sửa đổi bổ sung năm 2009, tổ chức loại hình nhà trường nào sau đây không trong hệ thống giáo dục quốc dân:",
     "answers": [
         "a. Trường dân lập",
@@ -1080,8 +1081,8 @@
         "d. Trường công lập"
     ]
 }, {
-    "corectAnswer": 999,
-    "question": "Theo Luật Giáo dục năm 2005, Chọn cụm từ sau điền vào chỗ trống: “Giáo dục phổ thông không bao gồm giáo dục:………. . ”",
+    "corectAnswer": 1,
+    "question": "Theo Luật Giáo dục năm 2005, Chọn cụm từ sau điền vào chỗ trống: “Giáo dục phổ thông không bao gồm giáo dục:..............”",
     "answers": [
         "a. THPT",
         "b. Mầm non",
@@ -1089,7 +1090,7 @@
         "d. THCS"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Luật Giáo dục năm 2005 quy định điều lệ nhà trường có mấy nội dung chủ yếu:",
     "answers": [
         "a. 7",
@@ -1098,7 +1099,7 @@
         "d. 9"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Luật Giáo dục năm 2005 quy định Hội đồng nhà trường có bao nhiêu nhiệm vụ:",
     "answers": [
         "a. 7",
@@ -1107,7 +1108,7 @@
         "d. 6"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Điều 1:Phạm vi điều chỉnh của luật giáo dục",
     "answers": [
         "a. Luật GD quy định về hệ thống giáo dục quốc dân.",
@@ -1116,7 +1117,7 @@
         "d. Luật GD quy định về hệ thống giáo dục quốc dân; nhà trường, cơ sở giáo dục khác của hệ thống GD quốc dân, của cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị- xã hội, lực lượng vũ trang nhân dân; tổ chức cá nhân tham gia hoạt động giáo dục."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Điều 2 Mục tiêu giáo dục là? Điền từ còn thiếu vào chỗ trống: “ Mục tiêu giáo dục là đào tạo con người Việt Nam……………. , có đạo đức, tri thức, sức khỏe, thẩm mĩ và nghề nghiệp, trung thành với lí tưởng độc lập dân tộc và CNXH; hình thành và bồi dưỡng nhân cách, phẩm chất và năng lự của công dân,đáp ứng yêu cầu của sự nghiệp xấy dựng và bảo vệ Tổ quốc”",
     "answers": [
         "a. phát triển toàn diện",
@@ -1124,7 +1125,7 @@
         "c. phát triển không ngừng\nhội nhập quốc tế"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Điều 3 Tính chất, nguyên lý giáo dục: Điền từ còn thiếu vào chỗ trống: “Nền giáo dục Việt Nam là nền giáo dục xã hội chủ nghĩa có……………. ”",
     "answers": [
         "a. tính nhân dân, tính dân tộc",
@@ -1133,7 +1134,7 @@
         "d. tính nhân dân, ,tính khoa học,tính hiện đại, lấy chủ nghĩa Mác- Lenin và tư tưởng Hồ Chí Minh làm nền tảng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Điều 3 Tính chất, nguyên lý giáo dục:Nguyên lý giáo dục là?",
     "answers": [
         "a. Học đi đôi với hành, giáo dục kết hợp với lao động sản xuất.",
@@ -1142,7 +1143,7 @@
         "d. Cả 3 đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Điều 4. Hệ thống giáo đục quốc dân. Hệ thống giáo dục quốc dân gồm.",
     "answers": [
         "a. giáo dục chính quy",
@@ -1151,7 +1152,7 @@
         "d. giáo dục chính quy và giáo dục thường xuyên."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Điều 4 Hệ thống giáo dục quốc dân. Có bao nhiêu cấp học trong hệ thống giáo dục quốc dân?",
     "answers": [
         "a. 3",
@@ -1160,7 +1161,7 @@
         "d. 6"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Điều 4 Hệ thống giáo dục quốc dân. Các cấp học và trình độ đào tạo của hệ thống giáo dục quốc dân bao gồm?",
     "answers": [
         "a. GDMN có nhà trẻ và mẫu giáo.",
@@ -1170,7 +1171,7 @@
         "e. Cả 4 đấp án đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Điều 5. Yêu cầu về nội dung, phương pháp giáo dục quy định: nội dung giáo dục phải?",
     "answers": [
         "a. đảm bảo tính cơ bản, toàn diện, thiết thực, hiện đại và có hệ thống.",
@@ -1180,7 +1181,7 @@
         "e. Cả 4 đáp án đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "điều 6 chương trình giáo dục quy định. Điền từ vào chỗ trống? “Chương trình giáo dục phải bảo đảm……………. . và kế thừa giữa các cấp học và trình độ đào tạo”",
     "answers": [
         "a. tính hiện đại, tính ổn định",
@@ -1189,7 +1190,7 @@
         "d. tính hiện đại, tính ổn định, tính thống nhất, tính hợp lý."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "điều 6 chương trình giáo dục quy định: chương trình giáo dục được tổ chức thực hiện theo năm học đối với?",
     "answers": [
         "a. giáo dục mầm non",
@@ -1198,7 +1199,7 @@
         "d. giáo dục mầm non và giáo dục phổ thông"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "điều 6 chương trình giáo dục quy định: ai quy định việc thực hiện chương trình giáo dục theo hình thức tích lũy tín chỉ, việc coonh nhận để xem xét về giá trị chuyển đổi kết quả học tập môn học hoặc tín chỉ. ?",
     "answers": [
         "a. Chính phủ",
@@ -1207,7 +1208,7 @@
         "d. Cả 3 đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Điều 7 ngôn ngữ dùng trong nhà trường và cơ sở giáo dục khác; dạy và học tiếng nói, chữ viết của dân tộc thiểu số; dạy ngoại ngữ quy định: ngôn ngữ chính thức dùng trong nhà trường và cơ sở giáo dục khác là?",
     "answers": [
         "a. Tiếng Anh",
@@ -1216,7 +1217,7 @@
         "d. Tiếng Việt và Tiếng Anh."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Điều 7 ngôn ngữ dùng trong nhà trường và cơ sở giáo dục khác; dạy và học tiếng nói, chữ viết của dân tộc thiểu số; dạy ngoại ngữ quy định: ai là người quy định việc dạy và học bằng tiếng nước ngoài trong nhà trường và cơ sở giáo dục khác. ?",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo.",
@@ -1225,7 +1226,7 @@
         "d. Người đứng đầu đơn vị sự nghiệp công lập."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "điều 8 văn bằng, chứng chỉ quy định: Văn bằng là?",
     "answers": [
         "a. của hệ thống giáo dục quốc dân câp cho người học sau khi tốt nghiệp cấp học.",
@@ -1234,14 +1235,14 @@
         "d. Cả 3 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "điều 8 văn bằng, chứng chỉ quy định: “ Chứng chỉ của hệ thống giáo dục quốc dân được cấp cho người học để xác nhận kết quả học tập sau khi được đào tạo hoặc bồi dưỡng, nâng cao trình độ học vấn, nghề nghiệp” điêu này đúng hay sai?",
     "answers": [
         "a. Đúng",
         "b. Sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Điều 9 phát triển giáo dục quy định:",
     "answers": [
         "a. Phát triển giáo dục là quốc sách hàng đầu nhằm nâng cao dân trí, đào tạo nhân lực, bồi dưỡng nhân tài",
@@ -1250,7 +1251,7 @@
         "d. Cả 3 đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Điều 10 quyền và nghĩa vụ học tập của công dân quy định:",
     "answers": [
         "a. Học tập là quyền và nghĩa vụ của công dân.",
@@ -1260,7 +1261,7 @@
         "e. Cả 4 đáp án đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Điểm khác biệt giữa luật GD số 38/2005/QH11 với luật GD sửa đổi và bổ sung số 44/2009/QH12 trong việc phổ cập giáo dục là( điều 11 phổ cập giáo dục)?",
     "answers": [
         "a. Luật GD số 38/2005/QH11 quy định GDTH và GD THCS là các cấp học phổ cập.",
@@ -1269,7 +1270,7 @@
         "d. Luật GD số 38/2005/QH11 quy định GDTH và GD THCS là các cấp học phổ cập. còn luật GD số 44/2009/QH12 quy định phổ cập GD mầm non cho trẻ 5 tuổi, hổ cập Giao dục tiểu học và giáo dục THCS."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Luật giáo dục năm 2005 (luật số:28/2005/QH11) gồm mấy chương, bao nhiêu điều?",
     "answers": [
         "A. 8 chương, 119 điều.",
@@ -1278,7 +1279,7 @@
         "D. 11 chương, 122 điều."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 4, luật giáo dục năm 2005: Hệ thống giáo dục quốc dân gồm:",
     "answers": [
         "A. giáo dục chính quy.",
@@ -1287,7 +1288,7 @@
         "D. Cả A và B"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 8 của luật giáo dục năm 2005: Văn bằng của hệ thống giáo dục quốc dân gồm:",
     "answers": [
         "A. bằng tốt nghiệp tiểu học, bằng tốt nghiệp THCS, bằng tốt nghiệp THPT, bằng tốt nghiệp trung cấp, bằng tốt nghiệp cao đẳng, bằng tốt nghiêp đại học, bằng tiến sĩ.",
@@ -1296,7 +1297,7 @@
         "D. bằng tốt nghiệp THCS, bằng tốt nghiệp THPT, bằng tốt nghiệp trung cấp, bằng tốt nghiệp cao đẳng, bằng tốt nghiêp đại học chính quy, bằng thạc sĩ, bằng tiến sĩ."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 4 luật giáo dục năm 2005: Cấp học và trình độ đào tạo của hệ thống giáo duc quốc dân gồm:",
     "answers": [
         "A. Giáo dục mầm on có nhà trẻ và mẫu giáo; Giáo dục phổ thông có tiểu học, trung học cơ sở, trung học phổ thông.",
@@ -1305,7 +1306,7 @@
         "D. Cả A, B, và C."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo luật sử đổi, bổ sung một số điều của luật giáo dục hiện nay (số 44/2009/QH12 ngày 25/11/2009), việc thực hiện phổ cập giáo dục được quy định ở cấp học nào?",
     "answers": [
         "A. Phổ cập giáo dục tiểu học, phổ cập giáo dục trung học cơ sở.",
@@ -1314,7 +1315,7 @@
         "D. Phổ cập giáo dục mầm mon cho trẻ năm tuổi, phổ cập giáo dục tiểu học, phổ cập gíao duc trung học cơ sở và phổ cập giáo dục trung học phổ thông."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 11, luật giáo dục năm 2005: Mọi công dân trong độ tuổi quy định có nghĩa vụ học tập để đạt",
     "answers": [
         "A. trình độ tiểu học.",
@@ -1323,7 +1324,7 @@
         "D. trình độ giáo dục phổ cập"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo Điều 11, Luật giáo dục năm 2005: Gia đình có trách nhiệm tạo điều kiện cho các thành viên của gia đình trong độ tuổi quy định được học tập để đạt trình độ",
     "answers": [
         "A. tiểu học",
@@ -1332,7 +1333,7 @@
         "D. giáo dục phổ cập."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo Điều 30 Luật giáo dục năm 2005, cơ sở giáo dục phổ thông gồm:",
     "answers": [
         "A. Giáo dục mầm non, giáo dục phổ thông, giáo dục nghề nghiệp, giáo dục đại học và sau đại học.",
@@ -1341,7 +1342,7 @@
         "D. Trường tiểu học, trường THCS, trường THPT, trường phổ thông có nhiều cấp học, trung tâm kỹ thuật tổng hợp - hướng nghiệp."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 31 Luật giáo dục năm 2005:",
     "answers": [
         "A. Học sinh học hết chương trình tiểu học có đủ điều kiện theo quy định của Bộ trưởng Bộ Giáo dục và Đào tạo thì Hiệu trưởng trường tiểu học xác nhận trong học bạ việc hoàn thành chương trình tiểu học.",
@@ -1350,7 +1351,7 @@
         "D. Tất cả A, B, C đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều 45 Luật giáo dục năm 2005, nội dung giáo dục thường xuyên được thể hiện trong các chương trình nào dưới đây?",
     "answers": [
         "A. Chương trình xoá mù chữ và giáo dục tiếp tục sau khi biết chữ;",
@@ -1360,7 +1361,7 @@
         "E. Gồm cả A, B, C và D."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 45 Luật giáo dục năm 2005, các hình thức thực hiện chương trình giáo dục thường xuyên để lấy văn bằng của hệ thống giáo dục quốc dân bao gồm",
     "answers": [
         "A. Vừa học vừa làm.",
@@ -1369,7 +1370,7 @@
         "D. Tất cả A, B và C"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 46 Luật giáo dục năm 2005, cơ sở của giáo dục thường xuyên bao gồm:",
     "answers": [
         "A. Trung tâm giáo dục thường xuyên được tổ chức tại cấp tỉnh và huyện;",
@@ -1378,7 +1379,7 @@
         "D. Bao gồm cả A và B."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 46 Luật giáo dục số (44/2009/QH12)cơ sở của giáo dục thường xuyên bao gồm:",
     "answers": [
         "A. Trung tâm giáo dục thường xuyên được tổ chức tại cấp tỉnh và huyện;",
@@ -1387,7 +1388,7 @@
         "D. Tất cả A, B và C"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 5,
     "question": "Theo điều 51 Luật giáo dục năm 2005: Thẩm quyền thành lập trường công lập và cho phép thành lập trường dân lập, trường tư thục được quy định như thế nào?",
     "answers": [
         "A. Chủ tịch Uỷ ban nhân dân cấp huyejn quyết định đối với trường mầm non, trường mẫu giáo, trường tiểu học, trường trung học cơ sở, trường trung học phổ thông dân tộc bán trú;",
@@ -1398,7 +1399,7 @@
         "F. Tất cả A, B, C, D và E."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều 53 Luật giáo dục năm 2005, Hội đồng trường có nhiệm vụ nào sau đây?",
     "answers": [
         "A. Quyết nghị về mục tiêu, chiến lược, các dự án và kế hoạch phát triển của nhà trường;",
@@ -1408,7 +1409,7 @@
         "E. Tất cả A, B, C và D"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều 70 Luật giáo dục năm 2005, Nhà giáo phải có những tiêu chuẩn nào dưới đây?",
     "answers": [
         "A. Phẩm chất, đạo đức, tư tưởng tốt;",
@@ -1418,7 +1419,7 @@
         "E. Bao gồm cả A, B, C và D"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 72 Luật giáo dục năm 2005, nhà giáo có nhiệm vụ nào dưới đây",
     "answers": [
         "A. Được hợp đồng thỉnh giảng và nghiên cứu khoa học tại các trường, co sở giáo dục khác và cơ sở nghiên cứu khoa học với điều kiện đảm bảo thực hiện đầy đủ nhiệm vụ nơi mình công tác.",
@@ -1427,7 +1428,7 @@
         "D. Giữ gìn phẩm chất, uy tín, danh dự của nhà giáo; tôn trọng nhân cách của người học, đối xử công bằng với người học, bảo vệ các quyền, lợi ích chính đáng của người học."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 73 luật giáo dục năm 2005, một trong những quyền của nhà giáo là",
     "answers": [
         "A. Gương mẫu thực hiện nghĩa vụ công dân, các quy định của pháp luật và điều lệ nhà trường;",
@@ -1436,7 +1437,7 @@
         "D. Giáo dục, giảng dạy theo mục tiêu, nguyên lý giáo dục, thực hiện đầy đủ và có chất lượng chương trình giáo dục."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Một trong những nhiệm vụ của người học theo điều 85 Luật giáo dục năm 2005 là",
     "answers": [
         "A. Được học trước tuổi, học vượt lớp, học rút ngắn thời gian thực hiện chương trình, học ở tuổi cao hơn tuổi quy định, học kéo dài thời gian, học lưu ban;",
@@ -1445,7 +1446,7 @@
         "D. Được nhà trường, cơ sở giáo dục khác tôn trọng và đối xử bình đẳng, được cung cấp đầy đủ thông tin về việc học tập, rèn luyện của mình."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Một trọng những quyền của người học theo điều 86 Luật giáo dục năm 2005 là",
     "answers": [
         "A. Tham gia lao động và hoạt động xã hội, hoạt động bảo vệ môi trường phù hợp với lứa tuổi, sức khoẻ và năng lực.",
@@ -1454,7 +1455,7 @@
         "D. Góp phần xây dựng, bảo vệ và phát huy truyền thống nhà trường, cơ sở giáo dục khác."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 95 Luật giáo dục năm 2005, Cha mẹ hoặc người giám hộ của học sinh có những quyền nào dưới đây:",
     "answers": [
         "A. Yêu cầu nhà trường thông báo về kết quả học tập, rèn luyện của con em hoặc người được giám hộ;",
@@ -1463,25 +1464,25 @@
         "D. Tất cả A, B và C"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "theo điều 3 Luật giáo dục năm 2005, Tính chất của giáo dục là?",
     "answers": [
         "a. Học đi đôi với hành, giáo dục kết hợp với lao động sản xuất, lí luận gắn liền với thực tiễn,giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội.",
         "b. Đảm bảo tính cơ bản, toàn diện, thiết thực, hiện đại và có hệ thống; coi trọng giáo dục tư tưởng và ý thức công dân; kế thừa và phát huy truyền thống tốt đẹp, bản sắc dân tộc, tinh hoa văn hóa nhân loại; phù hợp với sự phát triển tâm sinh lý lứa tuổi người học.",
-        "c. Nền giáo dục Việt Nam là nên giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa hiện đại, lấy chủ nghĩa Mác- Lê nin và tư tưởng Hồ Chí Minh làm nền tảng.",
-        "d. Nền giáo dục Việt Nam là nên giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, lấy chủ nghĩa Mác- Lê nin và tư tưởng Hồ Chí Minh làm nền tảng."
+        "c. Nền giáo dục Việt Nam là nên giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa hiện đại, lấy chủ nghĩa Mác-Lê nin và tư tưởng Hồ Chí Minh làm nền tảng.",
+        "d. Nền giáo dục Việt Nam là nên giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, lấy chủ nghĩa Mác-Lê nin và tư tưởng Hồ Chí Minh làm nền tảng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo Luật giáo dục 2005. Chương trình giáo dục có mấy nội dung và nằm ở điều nào?",
     "answers": [
-        "a. 2 nội dung- điều 4",
-        "b. 3 nội dung- điều 6",
-        "c. 4 nội dung- điều 6",
-        "d. 5 nội dung- điều 6"
+        "a. 2 nội dung-điều 4",
+        "b. 3 nội dung-điều 6",
+        "c. 4 nội dung-điều 6",
+        "d. 5 nội dung-điều 6"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 6 Luật giáo dục 2005 . Cơ quan nào quy định việc thực hiện chương trình giáo dục theo hình thức tích lũy tín chỉ?",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -1490,7 +1491,7 @@
         "d. Thủ tướng Chính phủ"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 7 Luật giáo dục 2005. Cơ quan nào quy định việc dạy và học bằng tiếng nước ngoài trong nhà trường và cơ sở giáo dục khác. ?",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -1499,7 +1500,7 @@
         "d. Thủ tướng Chính phủ"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 7 Luật giáo dục 2005. Cơ quan nào quy định việc dạy và học tiếng nói, chữ viết của dân tộc thiểu số?",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -1508,7 +1509,7 @@
         "d. Thủ tướng Chính phủ"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 11 Luật giáo dục 44/2009/QH12 . Cơ quan nào quyết định kế hoạch phổ cập giáo dục.",
     "answers": [
         "a. Bộ trưởng Bộ giáo dục và Đào tạo",
@@ -1517,7 +1518,7 @@
         "d. Thủ tướng Chính phủ."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Nội dung sau thuộc điều bao nhiêu? “ Phát triển giáo dục, xây dựng xã hội học tập là sự nghiệp của Nhà nước và của toàn dân. Nhà nước giữ vai trò chủ đạo trong phát triển sự nghiệp giáo dục; thực hiện đa dạng hóa các loại hình trường và các hình thức giáo dục; khuyến khích, huy động và tạo điều kiện để tổ chức, cá nhân tham gia phát triển sự nghiệp giáo dục. Mọi tổ chức, gia đình và công dân có trách nhiệm chăm lo sự nghiệp giáo dục, phối hợp với nhà trường thực hiện mục tiêu giáo dục, xây dựng môi trường giáo dục lành mạnh và an toàn”",
     "answers": [
         "a. Điều 9: Phát triển giáo dục",
@@ -1526,7 +1527,7 @@
         "d. Điều 13: Đầu tư cho giáo dục."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Điều 13 Luật giáo dục 44/2009/QH12 được sửa đổi, bổ sung như sau: Điều 13. Đầu tư cho giáo dục “Đầu tư cho giáo dục là đầu tư phát triển. Đầu tư trong lĩnh vực giáo dục là hoạt động đầu tư đặc thù thuộc lĩnh vực đầu tư có điều kiện và được ưu đãi đầu tư. Nhà nước ưu tiên đầu tư cho giáo dục; khuyến khích và bảo hộ các quyền, lợi ích hợp pháp của tổ chức, cá nhân trong nước, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài đầu tư cho giáo dục. Ngân sách nhà nước phải giữ vai trò chủ yếu trong tổng nguồn lực đầu tư cho giáo dục. \" Việc sửa đổi bổ sung có gì khác so với luật GD 38/2005/QH11?",
     "answers": [
         "a. Đầu tư cho giáo dục là đầu tư phát triển.",
@@ -1535,7 +1536,7 @@
         "d. Nhà nước ưu tiên đầu tư cho giáo dục"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "theo điều 14 Luật giáo dục. Quản lí nhà nước về giáo dục.",
     "answers": [
         "a. Nhà nước thống nhất quản lí hệ thống giáo dục quốc dân về mục tiêu, chương trình, nội dung, kế hoạch giáo dục, tiêu chuẩn nhà giáo, quy định chế thi cử, hệ thống văn bằng, chứng chỉ; tập trung quản lý chất lượng giáo dục, thực hiện phân công, phân cấp quản lý giáo dục, tăng cường quyền tự chủ, tự chịu trách nhiệm của cơ sở giáo dục.",
@@ -1544,7 +1545,7 @@
         "d. Cả 3 a,b và c"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 15 Luật Giáo dục Vai trò và trách nhiệm của nhà giáo?",
     "answers": [
         "a. Nhà giáo giữ vai trò quyết định trong việc bảo đảm chất lượng giáo dục.",
@@ -1553,7 +1554,7 @@
         "d. Cả 3 a,b,c"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 15 Luật Giáo dục Vai trò và trách nhiệm của nhà giáo?",
     "answers": [
         "a. Nhà giáo giữ vai trò quyết định trong việc bảo đảm chất lượng giáo dục. Nhà giáo không ngừng học tập, rèn luyện nêu gương tốt cho người học.",
@@ -1562,7 +1563,7 @@
         "d. Nhà giáo giữ vai trò chủ yếu trong việc bảo đảm chất lượng giáo dục. Nhà giáo không ngừng học tập, rèn luyện nêu gương tốt cho người học."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "theo điều 16 Luật giáo dục. Vai trò và trách nhiệm của cán bộ quản lý giáo dục là?",
     "answers": [
         "a. Cán bộ quản lí giáo dục giữ vai trò quan trọng trong việc tổ chức, quản lí, điều hành các hoạt động giáo dục.",
@@ -1571,7 +1572,7 @@
         "d. Cả a, b và c"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "theo điều 17 Kiểm định chất lượng giáo dục của Luật giáo dục. cơ quan có trách nhiệm chỉ đạo thực hiện kiểm định chất lượng giáo dục.",
     "answers": [
         "a. Bộ trưởng Bộ giáo dục và Đào tạo.",
@@ -1580,7 +1581,7 @@
         "d. Nhà nước"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "theo điều 17 Kiểm định chất lượng giáo dục của Luật giáo dục. kiểm định chất lượng giáo dục là biện pháp chủ yếu nhằm:",
     "answers": [
         "a. xác định mức độ thực hiện mục tiêu giáo dục đối với nhà trường và cơ sở giáo dục khác",
@@ -1589,7 +1590,7 @@
         "d. Cả a, b và c"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo Điều 21 Luật giáo dục. Giáo dục mầm non là?",
     "answers": [
         "a. Giáo dục mầm non thực hiện việc nuôi dưỡng chăm sóc, giáo dục trẻ em từ 3 tháng tuổi đến 6 tuổi.",
@@ -1598,7 +1599,7 @@
         "d. Giáo dục mầm non thực hiện việc nuôi dưỡng chăm sóc, giáo dục trẻ em từ 12 tháng tuổi đến 6 tuổi."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "theo điều 22 Luật giáo dục . Mục tiêu của giáo dục mầm non là ?",
     "answers": [
         "a. Giup trẻ phát triển về thể chất, tình cảm, trí tuệ, chuẩn bị cho trẻ em vào học lớp 1.",
@@ -1607,7 +1608,17 @@
         "d. Giup trẻ phát triển về thể chất, tình cảm, trí tuệ, thẩm mĩ, hình thành những yếu tố đầu tiên của nhân cách, chuẩn bị cho trẻ em vào học lớp 1."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
+    "question": "Theo điều 23 Luật giáo dục. Có mấy yêu cầu về nội dung, phương pháp giáo dục mầm non ?",
+    "answers": [
+        "a. 1",
+        "b. 2",
+        "c. 3",
+        "d. 4"
+    ]
+}, {
+}, {
+    "corectAnswer": 3,
     "question": "Theo điều 23 Luật giáo dục. yêu cầu về nội dung giáo dục mầm non phải :",
     "answers": [
         "a. bảo đảm phù hơp với sự phát triển tâm sinh lý của trẻ em, hài hòa giữa nuôi dưỡng, chăm sóc và giáo dục.",
@@ -1616,7 +1627,7 @@
         "d. Cả a, b và c"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 24 Luật giáo dục. Chương trình giáo dục mầm non thể hiện :",
     "answers": [
         "a. mục tiêu giáo dục mầm non ;cụ thể hóa các yêu cầu về nuôi dưỡng, chăm sóc, giáo dục trẻ em ở từng độ tuổi.",
@@ -1625,7 +1636,7 @@
         "d. Cả 3 a, b và c"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 24 Luật giáo dục. Cơ quan ban hành chương trình giáo dục mầm non trên cơ sở thẩm định của Hội đồng quôc gia thẩm định chương trình giáo dục mầm non ?",
     "answers": [
         "a. Chính phủ",
@@ -1634,7 +1645,7 @@
         "d. Nhà nước"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 25 Luật giáo dục. Cơ sở giáo dục mầm non bao gồm mấy cơ sở ?",
     "answers": [
         "a. 2",
@@ -1643,7 +1654,7 @@
         "d. 5"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 25 Luật giáo dục. Cơ sở giáo dục mầm non bao gồm ?",
     "answers": [
         "a. Nhà trẻ, nhóm trẻ nhận trẻ em từ 3 tháng tuổi đến 3 tuổi.",
@@ -1652,7 +1663,7 @@
         "d. Cả 3 đáp án a, b, c"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 26 Luật giáo dục. Giáo dục phổ thông bao gồm:",
     "answers": [
         "a. Giáo dục mầm non, giáo dục tiểu học",
@@ -1661,7 +1672,7 @@
         "d. Giáo dục THCS, giáo dục THPT."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 26 Luật giáo dục. Tuổi của học sinh vào lớp 1 là?",
     "answers": [
         "a. 5",
@@ -1670,7 +1681,7 @@
         "d. 8"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 26 Luật giáo dục. Giaos dục tiểu học được thực hiện trong mấy năm?",
     "answers": [
         "a. 4",
@@ -1679,7 +1690,7 @@
         "d. 7"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 26 Luật giáo dục. Học sinh vào lớp 6 phải?",
     "answers": [
         "a. hoàn thành chương trình tiểu học, có tuổi là 11 tuổi",
@@ -1688,7 +1699,7 @@
         "d. hoàn thành chương trình tiểu học, có tuổi là 13 tuổi"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 26 Luật giáo dục. Giaos dục THCS phải thực hiện trong mấy năm học?",
     "answers": [
         "a. 2",
@@ -1697,7 +1708,7 @@
         "d. 5"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 26 Luật giáo dục. Học sinh vào lớp 10 phải?",
     "answers": [
         "a. Có bằng tốt nghiệp THCS, có tuổi là 15 tuổi",
@@ -1706,7 +1717,7 @@
         "d. Có bằng tốt nghiệp THCS, có tuổi là 17 tuổi"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 26 Luật giáo dục. giáo dục THPT được thực hiện trong mấy năm.",
     "answers": [
         "a. 2",
@@ -1715,7 +1726,7 @@
         "d. 5"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 26 Luật giáo dục “Cơ quan nào quy định những trường hợp có thể học trước tuổi đối với học sinh phát triển sớm về trí tuệ; học ỏ tuổi cao hơn tuổi quy định đối với học sinh ở những vùng có điều kiện kinh tế- xã hội khó khăn, học sinh người dân tộc thiểu số, học sinh bị tàn tật, khuyết tật, học sinh kém phát triển về thể lục và trí tuệ, học sinh mồ côi không nơi nương tựa, học sinh trong hộ diện đói nghèo theo quy định của nhà nước, học sinh ở nước ngoài về nước; những trường hợp học sinh học vượt lớp, học lưu ban; việc học Tiếng Việt của trẻ em người dân tộc thiểu số trước khi vào học lớp 1”",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -1724,7 +1735,7 @@
         "d. Chính phủ"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 27 Luật giáo dục . Mục tiêu của giáo dục phổ thông bao gồm mấy mục tiêu?",
     "answers": [
         "a. 2",
@@ -1733,7 +1744,7 @@
         "d. 5"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều 27 Luật giáo dục. Mục tiêu của giáo duc phổ thông là?",
     "answers": [
         "a. Giúp HS phát triển toàn diện về đọ đức, trí tuệ, thể chất, thẩm mĩ và các kĩ năng cơ bản, phát triên năng lực cá nhân, tính năng động và sáng tạo, hình thành nhân cách con người VN XHCN, xây dựng tư cách và trách nhiệm công dân; cbi cho học sinh tiếp tục học lên hoặc đi vào cuộc sống lao động, tham giá xd bảo vệ Tổ quốc.",
@@ -1743,7 +1754,7 @@
         "e. Cả 4 đáp án a, b, c và d"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Luật Giáo dục năm 2005 quy định nhà giáo phải có tiêu chuẩn nào sau đây:",
     "answers": [
         "a. Phẩm chất đạo đức tư tưởng tốt",
@@ -1752,7 +1763,7 @@
         "d. Tất cả các phương án còn lại"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Điền từ vào chỗ trống được sử dụng trong điều 75 Luật Giáo dục năm 2005 : “Nhà giáo khôngđược có các hành vi sau đây:……buộc học sinh học thêm để thu tiền”",
     "answers": [
         "a. Ràng",
@@ -1761,7 +1772,7 @@
         "d. Bắt"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo quy định của Luật Giáo dục năm 2005, trình độ chuẩn của giáo viên Trung học cơ sở:",
     "answers": [
         "a. Cao đẳng sư phạm hoặc cao đẳng",
@@ -1770,7 +1781,7 @@
         "d. Trung cấp"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 77 quy định của Luật Giáo dục năm 2005, Bằng tốt nghiệp cao đẳng sư phạm là trình độ chuẩn được đào tạo của giáo viên ?",
     "answers": [
         "a. Mầm non",
@@ -1779,7 +1790,7 @@
         "d. THPT"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Điền từ vào chỗ trống được sử dụng trong điều 71 Luật Giáo dục năm 2005: “Giáo sư, phó giáo sư là chức danh của nhà giáo đang giảng dạy ở cơ sở…………. . ”",
     "answers": [
         "a. Giáo dục đại học",
@@ -1788,7 +1799,7 @@
         "d. Giáo dục mầm non"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 71 Luật Giáo dục năm 2005. Cơ quan nào quy định tiêu chuẩn , thủ tục bổ nhiệm, miễn nhiệm chức danh giáo sư, phó giáo sư?",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -1797,7 +1808,7 @@
         "d. Các bộ, cơ quan ngang bộ"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 70. Luật giáo dục 2009. Giáo viên là?",
     "answers": [
         "a. Nhà giáo giảng dạy ở cơ sở giáo dục mầm non, giáo dục phổ thông.",
@@ -1806,7 +1817,7 @@
         "d. Cả 3 đáp án trên"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 70. Luật giáo dục 2005. Nhà giáo giảng dạy ở cơ sở giáo dục đại học, trường Cao đẳng nghề gọi là?",
     "answers": [
         "a. Giaó viên",
@@ -1815,7 +1826,7 @@
         "d. Giáo sư"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Điền từ vào chỗ trống được sử dụng trong điều 100 Luật Giáo dục năm 2005 “. …………. chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về giáo dục. ”",
     "answers": [
         "a. Bộ Giáo dục và Đào tạo",
@@ -1824,7 +1835,7 @@
         "d. Bộ Nội vụ"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Điền từ vào chỗ trống được sử dụng trong điều 80 Luật Giáo dục năm 2005. “Nhà giáo………. . nâng cao trình độ, bồi dưỡng chuyên môn, nghiệp vụ được hưởng lương và phụ cấp theo quy định của Chính phủ. ”",
     "answers": [
         "a. Tự ý đi học",
@@ -1833,7 +1844,7 @@
         "d. Tự nguyện đi học"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Điều 76 Luật Giáo dục năm 2005 có tiêu đề nội dung là gì?",
     "answers": [
         "a. Ngày hiến chương các nhà giáo",
@@ -1842,7 +1853,7 @@
         "d. Ngày nhà giáo Việt Nam"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Điều 99 Luật Giáo dục năm 2005 quy định nội dung quản lý nhà nước về giáo dục gồm bao nhiêu khoản ?",
     "answers": [
         "a. 15 khoản",
@@ -1851,7 +1862,7 @@
         "d. 14 khoản"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Chương I. Những quy định chung của Luật Giáo dục năm 2005 gồm có bao nhiêu điều:",
     "answers": [
         "a. 20 điều",
@@ -1860,7 +1871,7 @@
         "d. 22 điều"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Điền từ vào chỗ trống được sửdụng trong điều 53 của Luật Giáo dục năm 2005. “Hội đồng trường đối với trường công lập, Hội đồng quản trị đối với trường dân lập, trường tư thục (sau đây gọi chung là…………. . ) là tổ chức chịu trách nhiệm quyết định về phương hướng hoạt động của nhà trường, huy động và giám sát việc sử dụng các nguồn lực dành cho nhà trường, gắn nhà trường với cộng đồng và xã hội, bảo đảm thực hiện mục tiêu giáo dục. ”",
     "answers": [
         "a. Hội đồng sư phạm nhà trường",
@@ -1869,7 +1880,7 @@
         "d. Hội đồng quản trị"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Nghị định số 115/2010/NĐ-CP, ngày 24/12/2010 của Chính phủ:",
     "answers": [
         "a. Quy định trách nhiệm quản lí nhà nước về giáo dục",
@@ -1878,7 +1889,7 @@
         "d. Quy định trách nhiệm về giáo dục"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo Thông tư số 28 /2009/TTBGDĐT ngày 21 tháng 10 năm 2009 của Bộ trưởng Bộ Giáo dục và Đào tạo: thời gian dành cho việc giảng dạy và các hoạt động giáo dục trong năm học theo quy định về kế hoạch thời gian năm học đối với giáo viên Tiểu học là:",
     "answers": [
         "a. 36 tuần",
@@ -1887,7 +1898,7 @@
         "d. 34 tuần"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo quy định tại Thông tư số 35/2006/TTLT-BGDĐT-BNV ngày 23/8/2006 của liên Bộ; trường Tiểu học ở trung du, đồng bằng, thành phố được xếp hạng I là trường có:",
     "answers": [
         "a. Từ 18 lớp trở lên",
@@ -1896,7 +1907,7 @@
         "d. Từ 28 lớp trở lên"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo quy định tại Thông tư số 35/2006/TTLT-BGDĐT-BNV ngày 23/8/2006 của liên Bộ, trường Tiểu học ở trung du, đồng bằng, thành phố được xếp hạng II là trường có:",
     "answers": [
         "a. Từ 18 đến 24 lớp",
@@ -1905,7 +1916,7 @@
         "d. Từ 15 đến 19 lớp"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo quy định tại Thông tư số 35/2006/TTLT-BGDĐT-BNV ngày 23/8/2006 của liên Bộ, trường Tiểu học ở trung du, đồng bằng, thành phố được xếp hạng III là trường có:",
     "answers": [
         "a. Dưới 19 lớp",
@@ -1914,7 +1925,7 @@
         "d. 20 lớp"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo quy định tại Thông tư số 35/2006/TTLT-BGDĐT-BNV ngày 23/8/2006 của liên Bộ, trường Tiểu học ở miền núi,vùng sâu, hải đảo được xếp hạng I là trường có:",
     "answers": [
         "a. Từ 18 lớp trở lên",
@@ -1923,7 +1934,7 @@
         "d. 19 lớp trở lên"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo quy định tại Thông tư số 35/2006/TTLT-BGDĐT-BNV ngày 23/8/2006 của liên Bộ, trường Tiểu học ở miền núi, vùng sâu, hải đảo được xếp hạng III là trường có:",
     "answers": [
         "a. Dưới 18 lớp",
@@ -1932,7 +1943,7 @@
         "d. Dưới 15 lớp"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo quy định tại Thông tư số 35/2006/TTLT-BGDĐT-BNV ngày 23/8/2006 của liên Bộ; trường Tiểu học hạng I có 1 Hiệu trưởng và số Phó Hiệu trưởng là:",
     "answers": [
         "a. Không quá ba",
@@ -1941,7 +1952,7 @@
         "d. Một"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo quy định tại Thông tư số 35/2006/TTLT-BGDĐT-BNV ngày 23/8/2006 của liên Bộ; trường Tiểu học hạng II và hạng III có 1 Hiệu trưởng và số Phó Hiệu trưởng là:",
     "answers": [
         "a. Một",
@@ -1950,7 +1961,7 @@
         "d. Không quá bốn"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo quy định tại Thông tư số 35/2006/TTLT-BGDĐT-BNV ngày 23/8/2006 của liên Bộ; biên chế giáo viên trường Tiểu học dạy 1 buổi trong ngày được bố trí không quá:",
     "answers": [
         "a. 1,2 giáo viên trong 1 lớp",
@@ -1959,7 +1970,7 @@
         "d. 1,5 giáo viên trong 1 lớp"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo quy định tại Thông tư số 35/2006/TTLT-BGDĐT-BNV ngày 23/8/2006 của liên Bộ; biên chế giáo viên trường Tiểu học dạy 2 buổi trong ngày được bố trí không quá:",
     "answers": [
         "a. 1,5 giáo viên trong 1 lớp",
@@ -1968,7 +1979,7 @@
         "d. 1,4 giáo viên trong 1 lớp"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo quy định tại Thông tư số 35/2006/TTLT-BGDĐT-BNV ngày 23/8/2006 của liên Bộ; biên chế viên chức trường Tiểu học hạng I làm công tác thư viện thiết bị, văn phòng được bố trí:",
     "answers": [
         "a. 04 biên chế",
@@ -1977,7 +1988,7 @@
         "d. 03 biên chế"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo quy định tại Thông tư số 35/2006/TTLT-BGDĐT-BNV ngày 23/8/2006 của liên Bộ; biên chế viên chức trường Tiểu học hạng II và hạng III làm công tác thư viện, thiết bị, văn phòng được bố trí:",
     "answers": [
         "a. 05 biên chế",
@@ -1986,7 +1997,7 @@
         "d. 04 biên chế"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Điền từ vào chỗ trống được sửndụng trong điều 97 Luật Giáo dục năm 2005: “Hỗ trợ về . …… cho sự nghiệp phát triển giáo dục theo khả năng của mình”",
     "answers": [
         "a. Tài lực, vật lực",
@@ -1995,7 +2006,7 @@
         "d. Cơ sở vật chất"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 29 Luật giáo dục 2009 “cơ quan ban hành chương trình giáo dục phổ thông; duyệt và quyết định chọn sgk để sử dụng chính thức, ổn định, thống nhất trong dạy học, học tập ở các cơ sở giáo dục phổ thông, bao gồm cả sachs giáo khoa bằng chữ nổi,, bằng tiếng dân tộc và sách giáo khoa cho hs trường chuyên biệt trên cơ sở của Hội đồng thẩm định chương trình giáo dục phổ thông và sách giáo khoa. ”",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -2004,7 +2015,7 @@
         "d. Các bộ và cơ quan ngang bộ"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 29 Luật giáo dục 2009. “Cơ quan nào chịu trách nhiệm về chất lượng chương trình giáo dục phổ thông và sách giáo khoa. ”",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -2013,7 +2024,7 @@
         "d. Các bộ và cơ quan ngang bộ"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 32 Luật giáo dục 2005 . Đối với người có bằng tốt nghiệp trung học cơ sở việc học trung cấp chuyên nghiệp được thực hiện từ:",
     "answers": [
         "a. từ 3 đến 4 năm học",
@@ -2022,7 +2033,7 @@
         "d. từ 2 đến 4 năm học"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 32 Luật giáo dục 2005. Đối với người có bằng tốt nghiệp THPT thì việc học trung cấp chuyên nghiệp được thực hiện từ:",
     "answers": [
         "a. từ 3 đến 4 năm học",
@@ -2031,7 +2042,7 @@
         "d. từ 2 đến 4 năm học"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "theo điều 32 Luật giáo dục 2005. “Dạy nghề được thực hiện ……… đối vớt đào tạo nghề trình độ sơ cấp”",
     "answers": [
         "a. trên 1 năm",
@@ -2040,7 +2051,7 @@
         "d. dưới 1,5 năm"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "theo điều 32 Luật giáo dục 2005. “Dạy nghề được thực hiện ……… đối vớt đào tạo nghề trình độtrung cấp, trình độ cao đẳng”",
     "answers": [
         "a. từ 1-2 năm.",
@@ -2049,7 +2060,7 @@
         "d. từ 1 – 3 năm"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 33 Luật giáo dục 2005 Trung cấp chuyên nghiệp nhằm đào tạo con người:",
     "answers": [
         "a. Lao động có kiến thức, kĩ năng thực hành cơ bản của 1 nghề, có khả năng làm việc độc lập và có tính sáng tạo, ứng dụng công nghệ vào công việc.",
@@ -2058,7 +2069,7 @@
         "d. Cả 3 đáp án a,b,c"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 34 Luật giáo dục 2005. Nội dung giáo dục nghề nghiệp coi trọng?",
     "answers": [
         "a. đào tạo năng lực thực hành nghề nghiệp",
@@ -2067,7 +2078,7 @@
         "d. rèn luyện sức khỏe"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 34 Luật giáo dục 2005. Phương pháp giáo dục nghề nghiệp phải kết hợp………………………. . ”",
     "answers": [
         "a. học đi đôi với hành",
@@ -2076,7 +2087,7 @@
         "d. cả a, b và c"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 36 Luật giáo dục 2005. Cơ sở giáo dục nghề nghiệp bao gồm mấy cơ sở?",
     "answers": [
         "a. 1",
@@ -2085,7 +2096,7 @@
         "d. 4"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 36 Luật giáo dục 2005. Cơ sở giáo dục nghề nghiệp bao gồm?",
     "answers": [
         "a. Trường trung cấp chuyên nghiệp",
@@ -2094,14 +2105,14 @@
         "d. Trường trung cấp chuyên nghiệp, trường cao đẳng nghề, trường TC nghề, trung tâm dạy nghề, lớp dạy nghề"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo Luật giáo dục 2005. “Cơ sở dạy nghề có thể được tổ chức độc lập hoặc gắn với cơ sở sản xuất, kinh doanh, dịch vụ, cơ sở giáo dục khác”điều này đúng hay sai?",
     "answers": [
         "A. Đúng",
         "B. Sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 37 Luật giáo dục 2005. Học sinh học hết chương trình dạy nghề trình độ sơ cấp, chương trình bồi dưỡng nâng cao trình độ nghề thì được:",
     "answers": [
         "a. Thủ trưởng cơ sở giáo dục nghề nghiệp cấp chứng chỉ nghề.",
@@ -2110,7 +2121,7 @@
         "d. Cả 3 đều sai."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 37 Luật giáo dục 2005. Học sinh học hết chương trình trung cấp chuyên nghiệp thì được:",
     "answers": [
         "a. Thủ trưởng cơ sở giáo dục nghề nghiệp cấp chứng chỉ nghề.",
@@ -2119,7 +2130,7 @@
         "d. Cả 3 đều sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 37 Luật giáo dục 2005. Học sinh học hết chương trình dạy nghề trình độ trung cấp thì được :",
     "answers": [
         "a. Thủ trưởng cơ sở giáo dục nghề nghiệp cấp chứng chỉ nghề.",
@@ -2128,7 +2139,7 @@
         "d. Cả 3 đều sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 37 Luật giáo dục 2005. Sinh viên học hết chương trình dạy nghề trình độ cao đẳng thì được ?",
     "answers": [
         "a. Thủ trưởng cơ sở giáo dục nghề nghiệp cấp chứng chỉ nghề.",
@@ -2137,7 +2148,7 @@
         "d. Cả 3 đều sai."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 38 Luật giáo dục 2009. Giaos dục đại học bao gồm :",
     "answers": [
         "a. Đào tạo trình độ cao đẳng, trình độ đại học.",
@@ -2146,7 +2157,7 @@
         "d. Đào tạo trình độ cao đẳng, trình độ đại học, trình độ thạc sĩ, trình độ tiến sĩ."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 38 Luật giáo dục 2009. Đào tạo trình độ cao đẳng đối với người có bằng tốt nghiệp THPT hoặc bằng tốt nghiệp TC được thực hiện :",
     "answers": [
         "a. Từ 2 năm trở lên",
@@ -2155,7 +2166,7 @@
         "d. từ 1-3 năm"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 38 Luật giáo dục 2009. Đào tạo trình độ cao đẳng đối với người có bằng tốt nghiệp trung cấp cùng chuyên ngành được thực hiện :",
     "answers": [
         "a. Từ 2 năm trở lên",
@@ -2164,7 +2175,7 @@
         "d. từ 1-3 năm"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 38 Luật giáo dục 2009. Đào tạo trình độ đại học đối với người có bằng tốt nghiệp THPT hoặc bằng tốt nghiệp trung cấp thì được đào tạo trong mấy năm ?",
     "answers": [
         "a. 4 năm",
@@ -2173,7 +2184,7 @@
         "d. từ 4- 5 năm"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 38 Luật giáo dục 2009. Đào tạo trình độ đại học đối với người có bằng tốt nghiệp trung cấp cùng chuyên ngành thì được đào tạo trong mấy năm?",
     "answers": [
         "a. 4 năm",
@@ -2182,7 +2193,7 @@
         "d. từ 2,5 - 4 năm"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 38 Luật giáo dục 2009. Đào tạo trình độ đại học đối với người có bằng tốt nghiệp cao đẳng cùng chuyên ngành thì được đào tạo trong mấy năm?",
     "answers": [
         "a. 2 năm",
@@ -2191,7 +2202,7 @@
         "d. từ 2- 3 năm"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 38 Luật giáo dục 2009. Đào tạo trình độ thạc sĩ đối với người có bằng tốt nghiệp đại học thì được đào tạo trong mấy năm?",
     "answers": [
         "a. 2 năm",
@@ -2200,7 +2211,7 @@
         "d. từ 2- 3 năm"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 38 Luật giáo dục 2009. Đào tạo trình độ tiến sĩ đối với người có bằng tốt nghiệp đại học thì được đào tạo trong mấy năm",
     "answers": [
         "a. 4 năm",
@@ -2209,7 +2220,7 @@
         "d. từ 2- 3 năm"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều 38 Luật giáo dục 2009. Đào tạo trình độ tiến sĩ đối với người có bằng tốt nghiệp thạc sĩ thì được đào tạo trong mấy năm",
     "answers": [
         "a. 4 năm",
@@ -2218,7 +2229,7 @@
         "d. từ 2- 3 năm"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 38 Luật giáo dục 2009. Trong trường hợp đặc biệt, thời gian đào tạo trình độ tiến sĩ có thể kéo dài hoặc rút ngắn theo quy định của :",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo.",
@@ -2227,7 +2238,7 @@
         "d. Các bộ và cơ quan ngang bộ"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 38 Luật giáo dục 2009 . “Ngiên cứu sinh không có điều kiện theo học tập trung liên tục và được cơ sở giáo dục cho phép vẫn phải có đủ lượng thời gian học tập trung theo quy định tại khoản này để hoàn thành chương trình đào tạo trình độ tiến sĩ, trong đó có ít nhất……………… theo học tập trung liên tục”",
     "answers": [
         "a. 1 năm",
@@ -2236,14 +2247,14 @@
         "d. 1,5 năm"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 38 Luật Giao dục điểm khác biệt giữa luật GD số 38/2005/QH11 với luật GD số 44/ 2009/ QH12 là . “Ngiên cứu sinh không có điều kiện theo học tập trung liên tục và được cơ sở giáo dục cho phép vẫn phải có đủ lượng thời gian học tập trung theo quy định tại khoản này để hoàn thành chương trình đào tạo trình độ tiến sĩ, trong đó có ít nhất……………… theo học tập trung liên tục” điều này đúng hay sai?",
     "answers": [
         "a. Đúng",
         "b. Sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 38 Luật giáo dục sửa đổi và bổ sung số 44/2009/QH12 cố điểm mới khác với luật GD 2005 là. Cơ quan quy định cụ thể việc đào tạo trình độ kĩ năng thực hành, ứng dụng chuyên sâu cho người đã tốt nghiệp đại học ở một số ngành chuyên môn đặc biệt”",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -2252,7 +2263,7 @@
         "d. Cả a và b"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 38 Luật giáo dục sửa đổi và bổ sung số 44/2009/QH12 có điểm mới khác với luật GD 2005 là. Luật GD 2009 là Bộ trưởng Bộ Giáo dục và Đào tạo phối hợp với Bộ trưởng, Thủ trưởng cơ quan ngang bộ Cơ quan quy định cụ thể việc đào tạo trình độ kĩ năng thực hành, ứng dụng chuyên sâu cho người đã tốt nghiệp đại học ở một số ngành chuyên môn đặc biệt” còn Luật GD 2005 là “ . . . . . . . . . . . quy định cụ thể việc đào tạo trình độ tương đương với trình độ thạc sĩ, trình độ tiến sĩ ở 1 số ngành chuyên môn đặc biệt”điền vào chỗ trống?",
     "answers": [
         "a.  Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -2261,7 +2272,7 @@
         "d. Cả a và b"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Điểm khác biệt trong điều 38 của Luật GD năm 2005 so với luật GD 2009 là ?",
     "answers": [
         "a. Điều 38 Luật 2005 có 4 nd",
@@ -2270,7 +2281,7 @@
         "d. Điều 38 Luật 2005 chỉ có 4 nd còn luật 2009 có thêm 1 nd là 5."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 39 Luật GD . Giáo dục đại học có bao nhiêu mục tiêu?",
     "answers": [
         "a. 3",
@@ -2279,7 +2290,7 @@
         "d. 6"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 39 Luật GD. Nội dung giáo dục phải có tính?",
     "answers": [
         "a. tính hiện đại",
@@ -2288,7 +2299,7 @@
         "d. tính hiện đại và phát triển."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 39. Luật GD. Phương pháp đào tạo trình độ tiến sĩ được thực hiện chủ yếu bằng?",
     "answers": [
         "a. tự học, tự nghiên cứu dưới sự hướng dẫn của nhà giáo, nhà khoa học",
@@ -2297,7 +2308,7 @@
         "d. Cả a,b và c."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 41 luật GD. “Chương trình giáo dục đại học thể hiện mục tiêu. . . . . . . . . . . ”?điền vào chỗ trống",
     "answers": [
         "a. mục tiêu giáo dục đại học",
@@ -2306,7 +2317,7 @@
         "d. Cả a,b và c"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 41 Luật GD. Cơ quan quy định chương trình khung cho từng ngành đào tạo đối với trình độ cao đẳng, trình độ đại học bao gồm cơ cấu nội dung các môn học, thời gian đào tạo, tỉ lệ phân bổ thời gian đào tạo giữa các môn học, giữa lí thuyết với thực hành thực tập là?",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -2315,7 +2326,7 @@
         "d. Hiệu trưởng trường đạo tạo"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 41 Luật GD . Cơ quan quy định về khối lượng kiến thức, kết câu chương trình, luận văn, luận án đối với đào tạo trình độ thạc sĩ, trình độ tiến sĩ.",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -2324,7 +2335,7 @@
         "d. Hiệu trưởng trường đạo tạo"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 42 luật GD số 4/2009/QH12. Cơ sở giáo dục đại học gồm mấy cơ sở?",
     "answers": [
         "a. 2",
@@ -2333,7 +2344,7 @@
         "d. 5"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 42 luật GD số 4/2009/QH12. Cơ sở giáo dục đại học gồm :",
     "answers": [
         "a. Ttrường CĐ đào tạo trình độ CĐ",
@@ -2342,7 +2353,7 @@
         "d. Cả a,b"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 42 luật GD số 44/2009/QH12. Đại học, trường đại học, học viện đào tạo trình độ cao đẳng, trình độ đại học, trình độ thạc sĩ, trình độ tiến sĩ được gọi chung là gì?",
     "answers": [
         "a. Trường nghề",
@@ -2351,7 +2362,7 @@
         "d. Trường trung cấp nghề."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 42 luật GD số 44/2009/QH12. Đại học, trường đại học, học viện( gọi chung là trường đại học) đào tạo trình độ cao đẳng, trình độ đại học, trình độ thạc sĩ, trình độ tiến sĩ khi được cơ quan nào cho phép?",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -2360,7 +2371,7 @@
         "d. Hiệu trưởng trường đạo tạo"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 42 luật GD 38/2005/ QH11. Trường đại học đào tạo trình độ cao đẳng, trình độ đại học, trình độ thạc sĩ, trình độ tiến sĩ khi được . . . . . . . giao?",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -2369,7 +2380,7 @@
         "d. Hiệu trưởng trường đạo tạo"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 42 Luật GD số 44/2009/QH12. Viện nghiên cứu khoa học đào tạo trình độ tiến sĩ, phối hợp với trường đại học đào tạo trình độ thạc sĩ khi được cơ quan nào cho phép?",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -2378,7 +2389,7 @@
         "d. Hiệu trưởng trường đạo tạo"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 42 luật GD 38/2005/ QH11. Viện nghiên cứu khoa học đào tạo trình độ tiến sĩ, phối hợp với trường đại học đào tạo trình độ thạc sĩ khi được cơ quan nào cho phép?",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -2387,14 +2398,14 @@
         "d. Hiệu trưởng trường đạo tạo"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Trong luật GD điểm khác biệt giữa luật GD số 44/2009/QH12 là: “Trường ĐH, viện nghiên cứu khoa học được phép đào tạo trình độ tiến sĩ”còn trong luật GD số 38/2005/QH11 là: “ Cơ sở GD đại học được giao nhiệm vụ đào tạo trình độ tiến sĩ” điều này đúng hay sai?",
     "answers": [
         "a. Đúng",
         "b. Sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 42 luật GD số 44/2009/QH12 là: “Trường ĐH, viện nghiên cứu khoa học được phép đào tạo trình độ tiến sĩ khi đảm bảo mấy điều kiện?",
     "answers": [
         "a. 2",
@@ -2403,7 +2414,7 @@
         "d. 5"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 42 luật GD . mô hình tổ chức cụ thể của các loại trường ĐH do. . . . . . . . . . quy định? Điền vào chỗ trống?",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -2412,7 +2423,7 @@
         "d. Chính phủ"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 43 Luật GD. “Sinh viên học hết chương trình CĐ thì được. . . . . . . . . . . . cấp bằng tốt nghiệp cao đẳng”. Điền từ vào chỗ trống?",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -2421,7 +2432,7 @@
         "d. Hiệu trưởng trường cao đẳng hoặc đại học"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 43 Luật GD Sinh viên học hết chương trình đại học, có đủ điều kiện thì được:",
     "answers": [
         "a. dự thi",
@@ -2430,7 +2441,7 @@
         "d. Cả a, b và c"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 43 Luật GD “Sinh viên học hết chương trình đại học thì được. . . . . . . . . . . cấp bằng tốt nghiệp đại học”điền vào chỗ trống?",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -2439,7 +2450,7 @@
         "d. Hiệu trưởng trường đại học"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 43 Luật GD. Bằng tốt nghiệp đại học của ngành kĩ thuật được gọi bằng:",
     "answers": [
         "a. kĩ sư",
@@ -2448,7 +2459,7 @@
         "d. bác sĩ"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 43 Luật GD. Bằng tốt nghiệp đại học của ngành kiến trúc là:",
     "answers": [
         "a. kĩ sư",
@@ -2457,7 +2468,7 @@
         "d. bác sĩ"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 43 Luật GD. Bằng tốt nghiệp đại học của ngành y, dược là:",
     "answers": [
         "a. kĩ sư",
@@ -2466,7 +2477,7 @@
         "d. bằng bác sĩ, bằng dược sĩ, bằng cử nhân"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 43 Luật GD. Bằng tốt nghiệp đại học của ngành khoa học cơ bản, sư phạm, luật, kinh tế là:",
     "answers": [
         "a. kĩ sư",
@@ -2475,7 +2486,7 @@
         "d. bằng bác sĩ, dược sĩ"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 43 Luật GD . Học viên hoàn thành chương trình đào tạo thạc sĩ thì được. . . . . . . . . . . . . cấp bằng thạc sĩ? Điền vào chỗ trống?",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -2484,7 +2495,7 @@
         "d. Hiệu trưởng trường đại học"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 43 Luật GD . “Nghiên cứu sinh hoàn thành chuong trình đào tạo tiến sĩ thì được. . . . . . . . . . . cấp bằng tiến sĩ” điền vào chỗ trống",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -2493,7 +2504,7 @@
         "d. Hiệu trưởng trường đại học"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Cơ quan quy định trách nhiệm và thẩm quyền cấp văn bằng của cơ sở GD đại học trong nước quy định tại khoản 1 điều 42 của luật này khi liên kết đào tạo với cơ sở giáo dục đại học nước ngoài là?",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -2502,7 +2513,7 @@
         "d. Hiệu trưởng trường đại học"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 43 Luật GD. “Cơ quan quy định văn bằng công nhận trình độ, kĩ năng thực hành,đào tạo chuyên sâu sau khi tốt nghiệp đại học ở 1 số ngành chuyên môn đặc biệt” trong luật GD số 44/2009/QH12 là Bộ trưởng Bộ Giáo dục và Đào tạo còn trong laautsj số 38/2005/QH11 là cơ quan nào?",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -2511,16 +2522,16 @@
         "d. Hiệu trưởng trường đại học"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 46 luật GD số 44/2009/QH12. Cơ sở giáo dục thường xuyên gồm:",
     "answers": [
         "a. trung tâm giáo duc thường xuyên",
         "b. Trung tâm học tập cộng đồng",
         "c. Trung tâm ngoại ngữ, tin học",
-        "d. Tât cả a,b và c"
+        "d. Tât cả a, b và c"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 46 luật GD số 38/2005/QH11. Cơ sở GD thường xuyên gồm:",
     "answers": [
         "a. trung tâm giáo duc thường xuyên",
@@ -2529,7 +2540,7 @@
         "d. Trung tâm ngoại ngữ, tin học"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Luật giáo dục 2005 được Quốc hội khóa XI kỳ họp thứ 7 thông qua ngày tháng năm nào ? Có hiệu lực thi hành từ ngày nào ?",
     "answers": [
         "a. Thông qua ngày 14/01/2005 - Hiệu lực thi hành từ 01/01/2006",
@@ -2538,13 +2549,7 @@
         "d. Thông qua ngày 16/04/2005 - Hiệu lực thi hành từ 01/01/2006"
     ]
 }, {
-    "corectAnswer": 999,
-    "question": "Tính chất của nền giáo dục Việt Nam là gì ? (thí sinh tự điền vào)",
-    "answers": [
-
-    ]
-}, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Mục tiêu của phát triển giáo dục là gì ?",
     "answers": [
         "a. Nâng cao dân trí, đào tạo nhân lực, bồi dưỡng nhân tài",
@@ -2553,7 +2558,7 @@
         "d. Mở rộng qui mô trên cơ sở bảo đảm chất lượng và hiệu quả; kết hợp giữa đào tạo và sử dụng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Nêu trách nhiệm của cán bộ quản lý giáo dục ?",
     "answers": [
         "a. Không ngừng học tập ,rèn luyện nên gương, nâng cao trách nhiệm cá nhân.",
@@ -2561,7 +2566,7 @@
         "c. Không ngừng học tập, rèn luyện, nâng cao phẩm chức đạo đức, trình độ cá nhân"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Kiểm định chất lượng giáo dục là biện pháp chủ yếu nhằm để làm gì ?",
     "answers": [
         "a. Xác định và điều chỉnh mục tiêu, chương trình nội dung, kế hoạch GD.",
@@ -2570,7 +2575,7 @@
         "d. Xác định mức độ thực hiện mục tiêu, chương trình nội dung giáo dục đối với nhà trường và cơ sở giáo dục khác."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Giáo dục đại học đào tạo những trình độ nào?",
     "answers": [
         "a. Cao đẳng, đại học, thạc sĩ, tiến sĩ",
@@ -2579,16 +2584,16 @@
         "d. Trình độ đại học, trình độ thạc sĩ, trình độ tiến sĩ."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Cho biết thẩm quyền quy định những trường hợp học sinh học vượt lớp, học lưu ban ?",
     "answers": [
         "a. Hiệu trưởng",
-        "c. Giám đốc sở GD-ĐT",
         "b. Trưởng phòng GD Quận, Huyện",
+        "c. Giám đốc sở GD-ĐT",
         "d. Bộ trưởng Bộ GD-ĐT"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Cơ sở giáo dục phổ thông bao gồm những bậc học, cấp học nào?",
     "answers": [
         "a. Tiểu học, THCS, THPT",
@@ -2597,7 +2602,7 @@
         "d. Tiểu học, THCS, THPT, trường PT có nhiều cấp học, trung tâm kỹ thuật tổng hợp -, hướng nghiệp."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Học sinh học hết chương trình THCS có đủ điều kiện theo quy định của Bộ trưởng bộ GD-ĐT thì được ai cấp giấy chứng nhận?",
     "answers": [
         "a. Hiệu trưởng THCS cấp giấy CN TNTHCS.",
@@ -2606,7 +2611,7 @@
         "d. Trưởng phòng GDQH cấp giấy CN tốt nghiệp THCS và giám đốc Sở GD cấp bằng TNTHCS"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Nguyên lý giáo dục là :",
     "answers": [
         "a. Học đi đôi với hành, giáo dục kết hợp với lao động sản xuất, lý luận với thực tiễn, nhà trường kết hợp với gia đình và xã hội.",
@@ -2614,7 +2619,7 @@
         "c. Học đi đôi với hành, giáo dục kết hợp với lao động sản xuất, lý luận gắn liền với thực tiễn, giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Đào tạo trình độ đại học giúp sinh viên nắm vững kiến thức chuyên môn và ………?",
     "answers": [
         "a. Kỹ năng thực hành cơ bản.",
@@ -2623,7 +2628,7 @@
         "d. Kỹ năng thực hành thành thạo"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Các cơ sở giáo dục thực hiện chương trình giáo dục thường xuyên để lấy văn bằng của hệ thống giáo dục quốc dân gồm những cơ sở nào ?",
     "answers": [
         "a. Cơ sở được cơ quan quản lý Nhà nước về giáo dục có thẩm quyền cho phép.",
@@ -2632,7 +2637,7 @@
         "d. Trường giáo dục chuyên nghiệp"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Thực hiện công tác xóa mù chữ và giáo dục tiếp sau khi biết chữ, thực hiện CT giáo dục đáp ứng yêu cầu của người học, cập nhật kiến thức, chuyển giao công nghệ là nhiệm vụ của đơn vị nào ?",
     "answers": [
         "a. Trung tâm GD thường xuyên.",
@@ -2641,16 +2646,16 @@
         "d. Trường THPT."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Thủ tướng chính phủ có thẩm quyền ban hành điều lệ loại trường nào ?",
     "answers": [
         "a. Phổ thông",
-        "c. Cao đẳng chuyên nghiệp.",
         "b. Đại học",
+        "c. Cao đẳng chuyên nghiệp.",
         "d. Cả ba loại trường trên"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Hội đồng quản trị của trường có quyền gì ?",
     "answers": [
         "a. Quyết nghị về qui chế hoặc sửa đổi bổ sung qui chế tổ chức và hoạt động của Trường để trình cấp có thẩm quyền phê duyệt.",
@@ -2658,7 +2663,7 @@
         "c. Cả 2 quyền trên."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Tiêu chuẩn, nhiệm vụ và quyền hạn của Hiệu trưởng, thủ tục bổ nhiệm, công nhận Hiệu trưởng trường Trung cấp chuyên nghiệp do ai quy định ?",
     "answers": [
         "a. Thủ trưởng Chính phủ quy định",
@@ -2667,25 +2672,25 @@
         "d. Cả 3 đều sai."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Hội đồng tư vấn trong nhà trường do ai thành lập ?",
     "answers": [
         "a. Công đoàn thành lập.",
-        "c. Hiệu trưởng thành lập.",
         "b. Hội cha mẹ HS thành lập.",
+        "c. Hiệu trưởng thành lập.",
         "d. Điều lệ nhà trường quy định."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Trường nào có quyền sử dụng nguồn thu từ hoạt động kinh tế để đầu tư xây dựng cơ sở vật chất của nhà trường mở rộng SX, KD và chi cho các hoạt động theo quy định của pháp luật ?",
     "answers": [
         "a. Cao Đẳng, Đại học, trung cấp.",
-        "c. GD mầm non.",
         "b. THPT.",
+        "c. GD mầm non.",
         "d. Trường chuyên biệt."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Chương trình giáo dục, quy chế tổ chức các trường chuyên, trường năng khiếu do cơ quan nào ban hành ?",
     "answers": [
         "a. Bộ trưởng Bộ giáo dục ban hành.",
@@ -2694,7 +2699,7 @@
         "d. Cả 3 đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Luật Giáo dục quy định các hành vi nào nhà giáo không được làm ?",
     "answers": [
         "a. Ép buộc học sinh học thêm để thu tiền.",
@@ -2703,7 +2708,7 @@
         "d. Làm ca sỹ, diễn viên."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Trình độ chuẩn của giáo viên mầm non, GV tiểu học được quy định như thế nào ?",
     "answers": [
         "a. Có bằng TN trung cấp sư phạm và có chứng chỉ bồi dưỡng nghiệp vụ sư phạm.",
@@ -2712,7 +2717,7 @@
         "d. Có bằng TN trung cấp sư phạm."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Người học tại các cơ sở giáo dục của hệ thống giáo dục quốc dân quy định trong các điều 85, 86, 87, 88, 89, 90, 91, 92 của luật giáo dục là ai ?",
     "answers": [
         "a. Trẻ em của cơ sở giáo dục mầm non",
@@ -2720,7 +2725,7 @@
         "c. Tất cả đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 89 Luật GD. Chính sách cấp học bổng khuyến khích học tập cho đối tượng nào ?",
     "answers": [
         "a. HS đạt kết quả học tập suất xắc ở trường chuyên, năng khiếu.",
@@ -2729,7 +2734,7 @@
         "d. Tất cả các đối tượng trên"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Luật Giáo dục quy định những quyền nào của cha mẹ hoặc người giám hộ của học sinh ?",
     "answers": [
         "a. Yêu cầu nhà trường thông báo về kết quả học tập, rèn luyện của con em hoặc người được giám hộ.",
@@ -2738,12 +2743,12 @@
         "d. Cùng nhà trường nâng cao chất lượng, hiệu quả giáo dục"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 100 luật GD. Cơ quan quản lý Nhà nước về giáo dục là cơ quan nào ?",
     "answers": [
         "a. Chính phủ",
-        "c. Ủy ban nhân dân các cấp",
         "b. Bộ GD – ĐT",
+        "c. Ủy ban nhân dân các cấp",
         "d. Cả 3 đều đúng."
     ]
 }, {
@@ -2755,12 +2760,12 @@
         "c. a và b đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Cơ quan thanh tra giáo dục gồm những cấp nào ?",
     "answers": [
         "a. Thanh tra phòng giáo dục",
-        "c. Thanh tra Bộ GD và ĐT.",
         "b. Thanh tra Sở GD-ĐT",
+        "c. Thanh tra Bộ GD và ĐT.",
         "d. b và c đúng"
     ]
 }, {
