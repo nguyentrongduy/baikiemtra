@@ -2310,7 +2310,8 @@ c. Không được học trước tuổi, học vượt lớp, học rút ngắn
 d. Gian lận trong học tập, kiểm tra, thi cử, tuyển sinh
 e. chỉ có a và d đúng
 f. Tất cả đều đúng.
-Câu 336. Theo điều 90 luật GD “ Người được cử đi học theo ché độ cử tuyển thì…………… sự phân công công tác sau khi tốt nghiệp. ” điền vào chôc trống: a. chấp hành
+Câu 336. Theo điều 90 luật GD “ Người được cử đi học theo ché độ cử tuyển thì…………… sự phân công công tác sau khi tốt nghiệp. ” điền vào chôc trống:
+a. chấp hành
 b. phải chấp hành
 c. không phải chấp hành
 d. được ưu tiên

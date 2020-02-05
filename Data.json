@@ -2752,7 +2752,7 @@
         "d. Cả 3 đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Các khoản thu theo qui định của luật giáo dục là những khoản nào ?",
     "answers": [
         "a. Học phí và lệ phí tuyển sinh.",
@@ -2769,7 +2769,7 @@
         "d. b và c đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Đối tượng nào dưới đây KHÔNG thuộc phạm vi điều chỉnh của Luật Giáo dục?",
     "answers": [
         "A. Hệ thống giáo dục quốc dân.",
@@ -2778,7 +2778,7 @@
         "D. Nghị quyết Hội nghị BCH trung ương Đảng lần thứ 2 (khóa VIII) về Giáo dục - Đào tạo và Khoa học - Công nghệ."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo Luật Giáo dục 2005, “Mục tiêu giáo dục là đào tạo con người Việt Nam phát triển toàn diện, ……………, trung thành với lí tưởng độc lập dân tộc và chủ nghĩa xã hội; hình thành và bồi dưỡng nhân cách, phẩm chất và năng lực của công dân, đáp ứng yêu cầu của sự nghiệp xây dựng và bảo vệ Tổ quốc”. Điền vào chỗ trống phương án đúng.",
     "answers": [
         "A. có kĩ năng sống,",
@@ -2787,7 +2787,7 @@
         "D. có ý chí vươn lên, có kĩ năng tự học và tự nghiên cứu,"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Khoản 2, Điều 3, Luật Giáo dục (2005) quy định về nguyên lí giáo dục: “Hoạt động giáo dục phải được thực hiện theo nguyên lí học đi đôi với hành, giáo dục kết hợp với lao động sản xuất, ……………, giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội”. Điền vào chỗ trống phương án đúng.",
     "answers": [
         "A. đào tạo gắn liền với địa chỉ,",
@@ -2796,7 +2796,7 @@
         "D. lí luận gắn liền với thực tiễn,"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Khoản 2, Điều 4, Luật Giáo dục (2005) quy định, giáo dục đại học và sau đại học gồm mấy trình độ?",
     "answers": [
         "A. 3 (đại học, thạc sĩ, tiến sĩ).",
@@ -2805,7 +2805,7 @@
         "D. 5 (cao đẳng, đại học, thạc sĩ, tiến sĩ, giáo sư)."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Khoản 1, Điều 8, Luật Giáo dục (2005), phương án nào dưới đây là SAI khi nói về quy định văn bằng của hệ thống giáo dục quốc dân ?",
     "answers": [
         "A. Bằng tốt nghiệp tiểu học.",
@@ -2814,7 +2814,7 @@
         "D. Bằng tốt nghiệp THCS."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo Điều 8, Luật Giáo dục (2005), phương án nào dưới đây là sai?",
     "answers": [
         "A. Bằng B tiếng Anh.",
@@ -2823,7 +2823,7 @@
         "D. Chứng chỉ đào tạo môn học sau đại học"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều lệ trường TH . Thời lượng dạy học ở lớp học 2 buổi/ ngày?",
     "answers": [
         "a. 8 tiết/ ngày",
@@ -2832,7 +2832,7 @@
         "d. Không quá 7 tiết / ngày"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Trường tiểu học đạt chuẩn quốc gia được chia thành:",
     "answers": [
         "a. 2 mức độ",
@@ -2841,7 +2841,7 @@
         "d. 1 mức độ"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 105 luật GD. Khoản tiền của gia đình người học hoặc người học phải nộp để góp phần bảo đảm chi phí cho các hoạt động giáo dục được gọi là:",
     "answers": [
         "a. học phí, lệ phí tuyển sinh",
@@ -2850,7 +2850,7 @@
         "d. học phí, cơ sở vật chất"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 105 luật GD. Những đối tượng nào phải đóng học phí?",
     "answers": [
         "a. Người học ở tất cả các loại hình nhà trường và cơ sở giáo dục khác",
@@ -2859,7 +2859,7 @@
         "d. Người học ở tất cả các loại hình nhà trường và cơ sở giáo dục khác, trừ học sinh phổ thông trường công lập"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều111luật giáo dục, thanh tra có nhiệm vụ gì?",
     "answers": [
         "a. kiểm tra việc chấp hành pháp luật về giáo dục.",
@@ -2869,7 +2869,7 @@
         "e. a, b, d đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Việc in và phát hành sách giáo khoa:",
     "answers": [
         "a. theo quy định của nhà xuất bản",
@@ -2878,7 +2878,7 @@
         "d. theo nhu cầu của người viết sách"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 106 Luật giáo dục 2005 những lĩnh vực nào dưới đây được nhà nước ưu đãi thuế?",
     "answers": [
         "a. Xuất bản sách giáo khoa",
@@ -2888,7 +2888,7 @@
         "e. a, b đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 97 luật GD. Trách nhiệm của xã hội đối với giáo dục:",
     "answers": [
         "a. Tạo điều kiện để người học được vui chơi, hoạt động văn hóa, thể dục, thể thao lành mạnh",
@@ -2898,7 +2898,7 @@
         "e. b, c đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 102 luật GD. Nhà nước dành ưu tiên hàng đầu cho việc bố trí ngân sách giáo dục, đảm bảo _________ chi ngân sách giáo dục hàng năm cao hơn __________ chi ngân sách nhà nước.",
     "answers": [
         "a. tỷ lệ - tỷ lệ",
@@ -2907,7 +2907,7 @@
         "d. tiền - tiền"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 102 luật GD . Ngân sách giáo dục phải được phân bố theo nguyên tắc công khai, tập trung dân chủ; căn cứ vào:",
     "answers": [
         "a. tình hình tổng thu nhập quốc dân trong năm",
@@ -2916,7 +2916,7 @@
         "d. quy mô giáo dục, điều kiện phát triển kinh tế-xã hội từng vùng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": ". Theo điều 107 luật GD 2005, hợp tác quốc tế về GD dựa trên các nguyên tắc:",
     "answers": [
         "a. Tôn trọng độc lập, chủ quyền quốc gia.",
@@ -2925,7 +2925,7 @@
         "d. a,b đều sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 108 luật GD 2009. Trong việc khuyến khích hợp tác với nước ngoài, Nhà nước tạo điều kiện cho đối tượng nào sau đây:",
     "answers": [
         "a. nhà trường, cơ sở giáo dục khác của Việt Nam hợp tác với tổ chức, cá nhân nước ngoài",
@@ -2935,7 +2935,7 @@
         "e. Cả a,b và c đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 108 luật GD. Nhà nước dành ngân sách để cử những ai đi học tập, nghiên cứu nước ngoài:",
     "answers": [
         "a. Những người có đủ tiêu chuẩn về phẩm chất, đạo đức, học vấn.",
@@ -2944,7 +2944,7 @@
         "d. Các cá nhân có thể tự túc hoàn toàn về tài chính"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 108 luật GD . Nhà nước cử các cá nhân đi nước ngoài học tập với mục đích gì ?",
     "answers": [
         "a. Để mở rộng sự hiểu biết.",
@@ -2953,7 +2953,7 @@
         "d. Cả 3 câu trên đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 104 khoản 3Luật giáo dục năm 2005: theo quy định của Chính phủ, các khoản đóng góp, tài trợ của cá nhân cho giáo dục :",
     "answers": [
         "a. được xem xét để giảm thuế thu nhập đối với người có thu nhập cao",
@@ -2962,7 +2962,7 @@
         "d. được xem xét để miễn, giảm thuế thu nhập đối với người có thu nhập thấp"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 102 khoản 2 luật GD. Ngân sách nhà nước chi cho giáo dục phải thể hiện được chính sách ưu tiên của Nhà nước đối với:",
     "answers": [
         "a. giáo dục tiểuhọc, phát triển giáo dục ở vùng dân tộc thiểu số, vùngsâuvùngxa và vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn.",
@@ -2971,7 +2971,7 @@
         "d. giáo dục phổ cập, phát triển giáo dục ở vùng dân tộc thiểu số, vùng sâu vùng xa và vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Chọn câu đúng nhất:",
     "answers": [
         "a. Nhà nước dành ưu tiên hàng đầu cho việc bố trí ngân sách giáo dục nhưng phải bảo đảm tỷ lệ tăng chi ngân sách giáo dục hằng năm không cao hơn tỷ lệ tăng chi ngân sách nhà nước.",
@@ -2980,7 +2980,7 @@
         "d. Cơ quan tài chính ở mỗi cơ sở giáo dục có trách nhiệm quản lý, sử dụng có hiệu quả phần ngân sách giáo dục được giao và các nguồn thu khác theo quy định của pháp luật"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Nhà nước khuyến khích tổ chức, cá nhân thành lập Quỹ khuyến học, Quỹ bảo trợ giáo dục. Quỹ khuyến học, Quỹ bảo trợ giáo dục:",
     "answers": [
         "a. hoạt động theo quy định của pháp luật",
@@ -2990,7 +2990,7 @@
         "e. Cả a, b, c đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Dựa theo điều 108 khoản 2 luật giáo dục 2005, phát biểu nào sau đây là chính xác nhất:",
     "answers": [
         "a. Nhà nước khuyến khích và tạo điều kiện cho công dân Việt Nam ra nước ngoài học tập, trao đổi học thuật theo hình thức tự túc hoặc bằng kinh phí do tổ chức, cá nhân trong nước cấp hoặc do tổ chức, cá nhân nước ngoài tài trợ",
@@ -3000,7 +3000,7 @@
         "e. không câu nào ở trên"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 105 khoản 1 Luật GD. Học phí, lệ phí tuyển sinh là gì?",
     "answers": [
         "a. khoản tiền của gia đình người học hoặc người học phải nộp để góp phần bảo đảm chi phí cho các hoạt động giáo dục.",
@@ -3009,7 +3009,7 @@
         "d. khoản tiền của gia đình người học hoặc người học phải nộp để góp phần bảo đảm chi phí cho các hoạt động từ thiện."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Chọn câu trả lời đúng nhất theo điều 107 Luật GD. ?",
     "answers": [
         "a. Nhà nước mở rộng, phát triển hợp tác quốc tế về giáo dục theo nguyên tắc tôn trọng độc lập, bình đẳng.",
@@ -3018,7 +3018,7 @@
         "d. Nhà nước mở rộng, phát triển hợp tác quốc tế về giáo dục theo nguyên tắc tôn trọng độc lập, các bên cùng có lợi."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 113 khoản 1 Luật GD. thanh tra giáo dục bao gồm các tổ chức nào sau đây:.",
     "answers": [
         "a. Thanh tra Bộ Giáo dục và Đào tạo",
@@ -3027,7 +3027,7 @@
         "d. Cả A, B đều sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Luật Viên chức có hiệu lực thi hành vào thời gian nào?",
     "answers": [
         "A. 01/01/2012",
@@ -3035,7 +3035,7 @@
         "C. 01/01/2011"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Chủ tịch Hội đồng trường do:",
     "answers": [
         "A. Các thành viên của Hội đồng trường bầu.",
@@ -3043,15 +3043,15 @@
         "C. Hiệu trưởng bổ nhiệm"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Giáo viên nữ có con nhỏ từ 12 tháng trở xuống thì số tiết đựơc giảm trong tuần là:",
     "answers": [
-        "C. 3 tiết/tu",
-        "A. 2 tiết /tuần",
-        "B. 1 tiết /tuầnần"
+        "A. 2 tiết/tuần",
+        "B. 1 tiết/tuần",
+        "C. 3 tiết/tuần"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Quy trình về tổ chức đánh giá xếp loại Giáo viên quy định tại Thông tư 30/2009/TT BGDĐT được tiến hành :",
     "answers": [
         "A. Hiệu trưởng tổng hợp và công bố kết quả của giáo viên .",
@@ -3059,7 +3059,7 @@
         "C. Đánh giá xếp loại Giáo viên được thực hiện vào cuối mỗi học k"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Học đi đôi với hành, giáo dục kết hợp với lao động sản xuất, lý luận gắn liền với thực tiễn, giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội là:",
     "answers": [
         "a. Mục tiêu giáo dục",
@@ -3068,7 +3068,7 @@
         "d. Tất cả đều sai."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 48 Luật GD. Trường công lập do……. thành lập?",
     "answers": [
         "a. Nhà nước thành lập.",
@@ -3077,7 +3077,7 @@
         "d. Thủ tướng Chính phủ."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 48 Luật GD. Trường dân lập do……. thành lập?",
     "answers": [
         "a. Nhà nước thành lập.",
@@ -3086,7 +3086,7 @@
         "d. Thủ tướng Chính phủ."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 48 Luật GD. Trường tư thục do……. thành lập?",
     "answers": [
         "a. Nhà nước thành lập.",
@@ -3095,7 +3095,7 @@
         "d. Thủ tướng Chính phủ."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 48 Luật GD. “Nhà nước tạo điều kiện để …………giữ vai trò nòng cốt trong hệ thống giáo dục quốc dân” điền từ còn thiếu vào chỗ trống?",
     "answers": [
         "a. Trường công lập",
@@ -3104,7 +3104,7 @@
         "d. Cả a,b và c"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 48 Luật GD số 44/2009/QH12. Điều kiện, thủ tục và thẩm quyền thành lập hoặc cho phép thành lập; cho phép hoạt động GD, đình chỉ hoạt động GD sát nhập, chia tách, giái thể nhà trường được quy định tại các điều?",
     "answers": [
         "a. điều 50 và điều 51.",
@@ -3113,7 +3113,7 @@
         "d. Điều 50, 50a, 50b và điều 51"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 48 Luật GD số 44/2009/QH12 thì “ Điều kiện, thủ tục và thẩm quyền thành lập hoặc cho phép thành lập; cho phép hoạt động GD, đình chỉ hoạt động GD sát nhập, chia tách, giái thể nhà trường được quy định tại các điều 50, 50a, 50b và điều 51 của luật này” khác với luật số 38/ 2005/ QH11 là?",
     "answers": [
         "a. Luật 2005 là điều 50 và 51",
@@ -3122,7 +3122,7 @@
         "d. Luật 2005 là điều 51"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Điểm sửa đổi bổ sung trong điều 49 của luật Gd số 44/2009/QH12 so với luật GD 2005 là?",
     "answers": [
         "a. Luật 2005 chỉ có 2 khoản còn luật 2009 có 3 khoản.",
@@ -3131,7 +3131,7 @@
         "d. Luật 2005 chỉ có 3 khoản còn luật 2009 có 4 khoản."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo luật GD sửa đổi và bổ sung 2009 điều 50 là “điều kiện thành lập nhà trường và điều kiện để được cho phép hoạt động giáo dục” còn trong luật 2005 thì điều 50 có tên là ?",
     "answers": [
         "a. điều kiện thành lập nhà trường",
@@ -3140,7 +3140,7 @@
         "d. Cả 3 đều sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 50 của luật GD sửa đổi và bổ sung 2009 thì nhà trường được thành lập khi có đủ mấy điều kiện?",
     "answers": [
         "a. 2",
@@ -3149,7 +3149,7 @@
         "d. 1"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 50 của luật GD sửa đổi và bổ sung 2009 thì nhà trường được phép hoạt động giáo dục khi có đủ mấy điều kiện?",
     "answers": [
         "a. 4",
@@ -3158,7 +3158,7 @@
         "d. 7"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 50 của luật GD sửa đổi và bổ sung 2009 thì nhà trường được thành lập khi có đủ điều kiện nào?",
     "answers": [
         "a. Có đề án thành lập trường phù hợp với quy hoạch phát triển kinh tế- xã hội và quy hoạch mạng lưới cơ sở GD đã được cơ quan nhà nước có thẩm quyền phê duyệt.",
@@ -3168,7 +3168,7 @@
         "e. Cả a,b và c đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 50 của luật GD sửa đổi và bổ sung 2009 thì cơ quan quy định cụ thể điều kiện thành lập, cho phép hoạt động giáo dục đối với trường đại học là?",
     "answers": [
         "a. Thủ tướng Chính phủ",
@@ -3177,7 +3177,7 @@
         "d. Các bộ và cơ quan ngang bộ."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 50 của luật GD sửa đổi và bổ sung 2009 thì cơ quan quy định cụ thể điều kiện thành lập, cho phép hoạt động giáo dục đối với trường ở các cấp học và trình độ đào tạo khác là?",
     "answers": [
         "a. Thủ tướng Chính phủ",
@@ -3187,7 +3187,7 @@
         "e. Cả a,b và c sai."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều 50 của luật GD sửa đổi và bổ sung 2009 2009 thì nhà trường được phép hoạt động giáo dục khi có đủ điều kiện nào?",
     "answers": [
         "a. Có quyết định thành lập hoặc quyết định cho phép thành lập nhà trường.",
@@ -3197,7 +3197,7 @@
         "e. Cả a,b,c và d đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 50 của luật GD sửa đổi và bổ sung 2009 2009 thì nhà trường được phép hoạt động giáo dục khi có đủ điều kiện nào?",
     "answers": [
         "a. Có đội ngũ nhà giáo và cán bộ quản lí đạt tiêu chuẩn, đủ về số lượng, đồng bộ về cơ cấu, đảm bảo thực hiện chương trình giáo dục và tổ chức các hoạt động GD.",
@@ -3206,7 +3206,7 @@
         "d. Cả a,b và c đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 50a Luật GD sửa đổi và bổ sung năm 2009 thì Nhà trường bị đình chỉ hoạt động GD trong những trường hợp nào?",
     "answers": [
         "a. Có hành vi gian lận để được cho phép hoạt động GD",
@@ -3215,7 +3215,7 @@
         "d. Cả a,b và c đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 50a Luật GD sửa đổi và bổ sung năm 2009 thì Nhà trường bị đình chỉ hoạt động GD trong mấy trường hợp?",
     "answers": [
         "a. 3",
@@ -3224,7 +3224,7 @@
         "d. 8"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 50a Luật GD sửa đổi và bổ sung năm 2009 thì Nhà trường bị đình chỉ hoạt động GD trong những trường hợp nào?",
     "answers": [
         "a. Không triển khai hoạt động GD trong thời hạn quy định kể từ ngày được phép hoạt động GD",
@@ -3233,7 +3233,7 @@
         "d. Cả a,b và c đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 50a Luật GD sửa đổi và bổ sung năm 2009 thì quyết định đình chỉ hoạt động giáo dục đối với nhà trường phải xác định rõ :",
     "answers": [
         "a. lý do đình chỉ",
@@ -3242,7 +3242,7 @@
         "d. Cả 3 đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều 50b Luật GD sửa đổi và bổ sung năm 2009 thì nhà trường bị giải thể trong những trường hợp nào?",
     "answers": [
         "a. Vi phạm nghiêm trọng quy định về quản lý, tổ chức và hoạt động của nhà trường.",
@@ -3252,7 +3252,7 @@
         "e. Cả a,b,c và d đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 51 Luật GD sửa đổi và bổ sung năm 2009 khác với điều 51 luật GD năm 2005 ở điểm nào?",
     "answers": [
         "a. Luật GD 2005 trong điều 51 có 3 khoản còn Luật GD 200 trong điều 51 có 4 khoản",
@@ -3261,7 +3261,7 @@
         "d. cả 3 đều sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 51 Luật GD sửa đổi và bổ sung năm 2009 cơ quan có thẩm quyền thành lập trường mầm non, trường mẫu giáo, trường tiểu học, trường THCS, trường PT dân tộc bán trú là:",
     "answers": [
         "a. Chủ tịch Uỷ ban nhân dân cấp huyện.",
@@ -3270,7 +3270,7 @@
         "d. Bộ trưởng Bộ Giáo dục và Đào tạo"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 51 Luật GD sửa đổi và bổ sung năm 2009 cơ quan có thẩm quyền thành lập trường THPT, trường PT dân tộc nội trú, trường trung cấp thuộc tỉnh là?",
     "answers": [
         "a. Chủ tịch Uỷ ban nhân dân cấp huyện.",
@@ -3279,7 +3279,7 @@
         "d. Bộ trưởng Bộ Giáo dục và Đào tạo"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 51 Luật GD sửa đổi và bổ sung năm 2009 cơ quan có thẩm quyền thành lập trường trung cấp trực thuộc là",
     "answers": [
         "a. Chủ tịch Uỷ ban nhân dân cấp huyện.",
@@ -3288,7 +3288,7 @@
         "d. Bộ trưởng Bộ Giáo dục và Đào tạo"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 51 Luật GD sửa đổi và bổ sung năm 2009 cơ quan có thẩm quyền thành lập trường cao đẳng trường dự bị đại học là:",
     "answers": [
         "a. Chủ tịch Uỷ ban nhân dân cấp huyện.",
@@ -3297,7 +3297,7 @@
         "d. Bộ trưởng Bộ Giáo dục và Đào tạo"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 51 Luật GD sửa đổi và bổ sung năm 2009 cơ quan có thẩm quyền thành lập trường cao đẳng nghề là.",
     "answers": [
         "a. Thủ trưởng cơ quan quản lý nhà nước.",
@@ -3306,7 +3306,7 @@
         "d. Bộ trưởng Bộ Giáo dục và Đào tạo"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 51 Luật GD sửa đổi và bổ sung năm 2009 cơ quan có thẩm quyền thành lập trường đại học là",
     "answers": [
         "a. Thủ trưởng cơ quan quản lý nhà nước.",
@@ -3315,7 +3315,7 @@
         "d. Bộ trưởng Bộ Giáo dục và Đào tạo"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điểm mới của điều 51 Luật GD sửa đổi và bổ sung năm 2009 cơ quan cho phép hoạt động GD đại học là:",
     "answers": [
         "a. Thủ trưởng cơ quan quản lý nhà nước.",
@@ -3324,7 +3324,7 @@
         "d. Bộ trưởng Bộ Giáo dục và Đào tạo"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điểm mới của điều 51 Luật GD sửa đổi và bổ sung năm 2009 cơ quan quy định thẩm quyền cho phép hoạt động GD đối với nhà trường ở các cấp học và trình độ đào tạo khác là:",
     "answers": [
         "a. Thủ trưởng cơ quan quản lý nhà nước về dạy nghề.",
@@ -3333,7 +3333,7 @@
         "d. Bộ trưởng Bộ Giáo dục và Đào tạo"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điểm mới của điều 51 Luật GD sửa đổi và bổ sung năm 2009 “Người có thẩm quyền cho phép hoạt động giáo dục thì……. ”",
     "answers": [
         "a. Có thẩm quyền quyết định đình chỉ hoạt động GD",
@@ -3342,7 +3342,7 @@
         "d. Cả 2 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điểm mới của điều 51 Luật GD sửa đổi và bổ sung năm 2009 cơ quan quy định cụ thể thủ tục thành lập, cho phép thành lập, quyết định sát nhập, chia tách, giải thể trường đại học là:",
     "answers": [
         "a. Thủ trưởng cơ quan quản lý nhà nước về dạy nghề.",
@@ -3351,7 +3351,7 @@
         "d. Bộ trưởng Bộ Giáo dục và Đào tạo"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 51 Luật GD sửa đổi và bổ sung năm 2009 cơ quan quy định cụ thể thủ tục thành lập, cho phép thành lập,cho phép hoạt động GD, đình chỉ hạt động GD quyết định sát nhập, chia tách, giải thể trường ở các cấp học và trình độ đào tạo là:",
     "answers": [
         "a. Thủ trưởng cơ quan quản lý nhà nước về dạy nghề theo thẩm quyền.",
@@ -3360,7 +3360,7 @@
         "d. Bộ trưởng Bộ Giáo dục và Đào tạo"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 52 luật GD điều lệ nhà trường có mấy khoản:",
     "answers": [
         "a. 2",
@@ -3369,7 +3369,7 @@
         "d. 5"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 52 luật GD điều lệ nhà trường phải có mấy nội dung chủ yếu ?",
     "answers": [
         "a. 7",
@@ -3378,7 +3378,7 @@
         "d. 8"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều 52 luật GD điều lệ nhà trường phải có nội dung chủ yếu nào?",
     "answers": [
         "a. Nhiệm vụ và quyền hạn của nhà trường; Tổ chức các hoạt động GD trong nhà trường.",
@@ -3388,7 +3388,7 @@
         "e. Cả a,b , c và d"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 52 luật GD cơ quan ban hành điều lệ trường đại học là:",
     "answers": [
         "a. Thủ trưởng cơ quan quản lý nhà nước về dạy nghề",
@@ -3397,7 +3397,7 @@
         "d. Bộ trưởng Bộ Giáo dục và Đào tạo"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 52 luật GD cơ quan ban hành điều lệ nhà trường ở các cấp học khác theo thẩm quyền là:",
     "answers": [
         "a. Thủ trưởng cơ quan quản lý nhà nước",
@@ -3406,7 +3406,7 @@
         "d. Bộ trưởng Bộ Giáo dục và Đào tạo"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 53 Luật GD. Hội đồng trường là?",
     "answers": [
         "a. Hội đồng trường đối với trường công lập, hội đồng quản trị dối với trường dân lập, trường tư thục: là tổ chức chịu trách nhiệm quyết định về phương hướng hoạt động của nhà trường, huy động và giám sát việc sử dụng các nguồn lực dành cho nhà trường, gắn nhà trường với cộng đồng và xã hội, bảo đảm mục tiêu giáo dục.",
@@ -3415,7 +3415,7 @@
         "d. Hội đồng trường đối với trường công lập, hội đồng quản trị dối với trường dân lập, trường tư thục( sau đây gọi chung là hội đồng trường): là tổ chức chịu trách nhiệm quyết định về phương hướng hoạt động của nhà trường, huy động và giám sát việc sử dụng các nguồn lực dành cho nhà trường, gắn nhà trường với cộng đồng và xã hội, bảo đảm mục tiêu giáo dục"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 53 Luật GD Hội đồng trường có mấy nhiệm vụ:",
     "answers": [
         "a. 3",
@@ -3424,7 +3424,7 @@
         "d. 2"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều 53 Luật GD Hội đồng trường có nhiệm vụ là:",
     "answers": [
         "a. Quyết nghị về mục tiêu, chiến lược, các dự án và kế hoạch phát triển của nhà trường.",
@@ -3434,7 +3434,7 @@
         "e. Cả a,b,c và d đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 53 Luật GD “thủ tục thành lập, cơ cấu tổ chức, quyền hạn và nhiệm vụ cụ thể của hội đồng trường được quy định trong………”:",
     "answers": [
         "a. Luật GD",
@@ -3443,7 +3443,7 @@
         "d. Hội đồng trường"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 54 Luật GD thì hiệu trưởng là?",
     "answers": [
         "a. Người chịu trách nhiệm quản lí các hoạt động của nhà trường",
@@ -3452,7 +3452,7 @@
         "d. Người chịu trách nhiệm quản lí các hoạt động của nhà trường, do cơ quan nhà nước có thẩm quyền bổ nhiệm, công nhận."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 54 Luật GD thì thủ tục bổ nhiệm, công nhận Hiệu trưởng trường đại học do cơ quan nào quy định:",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo.",
@@ -3461,7 +3461,7 @@
         "d. Thủ trưởng cơ quan quản lý nhà nước."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 54 Luật GD thì thủ tục bổ nhiệm, công nhận Hiệu trưởng đối với cơ sở dạy nghề do cơ quan nào quy định:",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo.",
@@ -3470,7 +3470,7 @@
         "d. Thủ trưởng cơ quan quản lý nhà nước về dạy nghề"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 54 Luật GD thì thủ tục bổ nhiệm, công nhận Hiệu trưởng các trường ở các cấp học khác do cơ quan nào quy định:",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo.",
@@ -3479,7 +3479,7 @@
         "d. Thủ trưởng cơ quan quản lý nhà nước."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 55 Luật GD thì Hội đồng tư vấn trong nhà trường do ai thành lập?",
     "answers": [
         "a. Hội giáo viên",
@@ -3488,7 +3488,7 @@
         "d. Cả 3 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 55 Luật GD thì tổ chức và các hoạt động của Hội đồng tư vấn được quy định trong?",
     "answers": [
         "a. Luật viên chức",
@@ -3497,7 +3497,7 @@
         "d. Cả 2 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 55 Luật GD thì việc thành lập Hội đồng tư vấn trong nhà trường nhằm mục đích gì ?",
     "answers": [
         "a. để lấy ý kiến của cán bộ quản lý",
@@ -3506,7 +3506,7 @@
         "d. Cả a,b và c đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 56 Luật GD “ Tổ chức Đảng trong nhà trường Tổ chức Đảng Cộng sản Việt Nam trong nhà trường lãnh đạo nhà trường và hoạt động trong khuôn khổ…………. . ” điền vào chỗ trống",
     "answers": [
         "a. Pháp luật",
@@ -3515,7 +3515,7 @@
         "d. Hiến pháp và Pháp luật"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 58 Luật GD thì Nhà trường có bao nhiêu nhiệm vụ và quyền hạn?",
     "answers": [
         "a. 5.",
@@ -3524,7 +3524,7 @@
         "d. 4"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều 58. Luật GD thì nhà trường có những nhiệm vụ và quyền hạn nào?",
     "answers": [
         "a. Công bố công khai, mục tiêu, ctrinh GD, nguồn lực và tài chính, kết quả đánh giá chất lượng GD và hệ thống văn bằng chứng chỉ của nhà trường. Tổ chức giảng dạy, học tập và các hoạt động GD khác theo mục tiêu, ctrinh GD xác nhận hoặc cấp bằng, chứng chỉ theo thẩm quyền.",
@@ -3534,7 +3534,7 @@
         "e. Cả a,b,c và d"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều 58. Luật GD thì nhà trường có những nhiệm vụ và quyền hạn nào?",
     "answers": [
         "a. Tuyển dụng, quản lý nhà giáo, cán bộ, nhân viên; tham gia vào quá trình điều động của cơ quan quản lý nhà nước có thẩm quyền đối với nhà giáo, cán bộ, nhân viên.",
@@ -3544,7 +3544,7 @@
         "e. Cả a,b,c và d đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều 59 luật GD thì ngoài những nhiệm vụ và quyền hạn được quy định ở điều 58 của luật này thì trường trung cấp, trường cao đẳng, trường đại học phải thực hiện thêm nhiệm vụ nào?",
     "answers": [
         "a. Nghiên cứu khoa học; ứng dụng ,phát triển và chuyển giao công nghệ; tham gia giải quyết những vấn đề về kinh tế- xã hội của địa phương và đất nước.",
@@ -3554,7 +3554,7 @@
         "e. Chỉ a và b đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 59 luật GD thì khi thực hiện những nhiệm vụ được quy định ở khoản 1 của điều này thì trường trung cấp, trường cao đẳng, trường đại học có những quyền hạn nào?",
     "answers": [
         "a. Được nhà nước giao hoặc cho thuê đất, giao hoặc cho thuê cơ sở vật chất; được miễn, giảm thuế, vay tín dụng theo quy định của pháp luật.",
@@ -3563,7 +3563,7 @@
         "d. Cả a, b và c đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 5,
     "question": "Theo điều 60 Luật GD trường trung cấp, trường cao đẳng, trường đại học được quyền tự chủ và tự chịu trách nhiệm theo quy định của pháp luật và theo điều lệ nhà trường trong các hoạt động nào?",
     "answers": [
         "a. Xây dựng chương trình, giáo trình, kế hoạch giảng dạy, học tập đối với các ngành nghề được phép đào tạo.",
@@ -3574,7 +3574,7 @@
         "f. Cả a,b,c,d và e đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 61 Luật GD. Nhà nước thành lập trường phổ thông dân tộc nội trú, trường phổ thông dân tộc bán trú, trường dự bị đại học cho:",
     "answers": [
         "a. Cho con em dân tộc thiểu số.",
@@ -3583,7 +3583,7 @@
         "d. Cho con em các dân tộc"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 62 Luật GD. Trường chuyên được thành lập :",
     "answers": [
         "a. ở cấp trung học phổ thông",
@@ -3592,7 +3592,7 @@
         "d. Cả a, b và c đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 62 Luật GD. “Trường năng khiếu nghệ thuật, thể dục,thể thao được thành lập nhằm………. . ” điền vào chỗ trống?",
     "answers": [
         "a. phát triển tài năng của học sinh trong các lĩnh vực này.",
@@ -3601,7 +3601,7 @@
         "d. Cả 3 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo luật GD thì Nhà nước ưu tiên bố trí giáo viên, cơ sở vật chất, thiết bị và ngân sách cho các trường:",
     "answers": [
         "a. Trường chuyên do nhà nước thành lập",
@@ -3610,7 +3610,7 @@
         "d. Cả a,b và c"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 62 luật GD thì “Nhà nước có chính sách ưu đãi đối với các trường…………. do tổ chức ,cá nhân thành lập” điền vào chỗ trống?",
     "answers": [
         "a. Trường chuyên",
@@ -3619,7 +3619,7 @@
         "d. Cả a,b và c"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 62 luật GD thì cơ quan quyết định ban hành chương trình giáo dục, quy chế tổ chức cho trường chuyên, trường năng khiếu là?",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -3628,7 +3628,7 @@
         "d. Cả 3 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 63 luật GD thì “ Nhà nước……………. tổ chức, cá nhaan thành lập trường, lớp dành cho người tàn tật, khuyết tật nhằm giúp các đối tượng này phục hồi chức năng, học văn hóa, học nghề, hòa nhập với cộng đồng”",
     "answers": [
         "a. thành lâp",
@@ -3637,7 +3637,7 @@
         "d. thành lập và khuyến khích"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 64 luật GD “………có nhiệm vụ giáo dục người chưa thành niên vi phạm pháp luật để các đối tượng này rèn luyện, phát triển lành mạnh trở thành người lương thiện có khả năng tái hòa nhập vào đời sống xã hội” điền vào chỗ trống.",
     "answers": [
         "a. trường dân lập",
@@ -3646,7 +3646,7 @@
         "d. trường năng khiếu"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 64 Luật GD. Cơ quan quy định chương trình giáo dục cho trường giáo dưỡng là:",
     "answers": [
         "a. Bộ trưởng Bộ Công an",
@@ -3655,7 +3655,7 @@
         "d. Cả 3 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 65 Luật GD thì trường dân lập, trường tư thục có mấy nhiệm vụ và quyền hạn. ?",
     "answers": [
         "a. 2",
@@ -3664,7 +3664,7 @@
         "d. 5"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều 65 Luật GD thì trường dân lập, trường tư thục có nhiệm vụ và quyền hạn nào?",
     "answers": [
         "a. Có nhiệm vụ và quyền hạn như trường công lập trong việc thực hiện mục tiêu, nội dung, chương trình, phương pháp GD và các quy định liên quan đến tuyển sinh, giảng dạy, học tập, thi cử, kiểm tra, công nhận tốt nghiệp, cấp văn bằng chứng chỉ.",
@@ -3674,7 +3674,7 @@
         "e. Cả 4 đáp án đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 66 Luật GD “trường dân lập, trường tư thục hoạt động theo nguyên tắc…………. . , tự cân đối thu chi, thực hiện các quy định của PL về chế độ kế toán, kiểm toán. ” Điền vào chỗ trống?",
     "answers": [
         "a. tự chủ",
@@ -3683,7 +3683,7 @@
         "d. tự lực"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 66 Luật GD. Thu nhập của trường dân lập, trường tư thục được dùng để:",
     "answers": [
         "a. chi cho các hoạt động cần thiết của nhà trường",
@@ -3692,7 +3692,7 @@
         "d. Cả 3 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 66 Luật GD. Thu nhập của trường dân lập, trường tư thục được dùng để chi cho các hoạt động cần thiết của nhà trường, để thực hiện nghĩa vụ đối với ngân sách nhà nước, thiết lập quỹ đầu tư phát triển và các quỹ khác của nhà trường. Thu nhập còn lại được phan chia cho các…………. ”điền vào chỗ trống?",
     "answers": [
         "a. các cán bộ. nhân viên của nhà trường",
@@ -3701,7 +3701,7 @@
         "d. Cả 3 đều sai."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 67 Luật GD về quyền sở hữu tài sản, tài chính của trường dân lập là thuộc:",
     "answers": [
         "a. Sở hữu tập thể của cộng đồng dân cư ở cơ sở.",
@@ -3710,7 +3710,7 @@
         "d. Cả 2 đều sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 67 Luật GD về quyền sở hữu tài sản, tài chính của trường tư thục là thuộc:",
     "answers": [
         "a. Sở hữu tập thể của cộng đồng dân cư ở cơ sở.",
@@ -3719,7 +3719,7 @@
         "d. Cả 2 đều sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 67 Luật GD Tài sản, tài chính của trường dân lập, trường tư thục được :",
     "answers": [
         "a. Chính phủ bảo hộ theo quy định của PL",
@@ -3728,7 +3728,7 @@
         "d. Cả 3 đều sai."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 67 Luật GD việc rút vốn và chuyển nhượng vốn đối với trường tư thục được thực hiện theo quy định của :",
     "answers": [
         "a. Chính phủ",
@@ -3737,7 +3737,7 @@
         "d. Hiệu trưởng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 69 Luật GD sửa đổi và bổ sung 2009 cơ sở GD khác thuộc hệ thống giáo dục quốc dân gồm :",
     "answers": [
         "a. Nhóm trẻ, nhà trẻ ; các lớp độc lập gồm lớp mẫu giáo, lớp xóa mù chữ, lớp ngoại ngữ, lớp tin học, lớp dành cho trẻ em vì hoàn cảnh khó khăn không được đi học ở nhà trường, lớp dành cho trẻ tàn tật, khuyết tật, lớp dạy nghề và lớp trung cấp chuyên nghiệp được tổ chức tại các cơ sở sx kinh doanh, dịch vụ.",
@@ -3746,7 +3746,7 @@
         "d. Cả 3 đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 69 Luật GD sửa đổi và bổ sung 2009 có điểm mới so với luật GD 2005 là trong cơ sở giáo dục khác thuộc hệ thống giáo dục quốc dân có thêm :",
     "answers": [
         "a. trung tâm ngoại ngữ, tin học",
@@ -3755,7 +3755,7 @@
         "d. trung tâm giáo dục thường xuyên"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 69 Luật GD điểm khác giữa Luật GD số 44/2009/QH12 quy định “viện nghiên cứu khoa học khi được Bộ trưởng Bộ Giáo dục và Đào tạo cho phép phối hợp với trường đại học đào tạo trình độ thạc sĩ có trách nhiệm kí hợp đồng với trường đại học để tổ chức đào tạo” còn trong Luật 2005 là khi được:",
     "answers": [
         "a. Nhà nước",
@@ -3764,7 +3764,7 @@
         "d. Hiệu trưởng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 72 Luật GD Nhà giáo có mấy nhiệm vụ?",
     "answers": [
         "a. 3",
@@ -3773,7 +3773,7 @@
         "d. 6"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 5,
     "question": "Theo điều 72 Luật GD Nhà giáo có nhiệm vụ?",
     "answers": [
         "a. Giáo dục, giảng dạy theo mục tiêu, nguyên lý GD, thực hiện đầy đủ và có chất lượng chương trình GD.",
@@ -3784,7 +3784,7 @@
         "f. Cả 4 đáp án đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 73 Luật GD . Nhà giáo có mấy quyền?",
     "answers": [
         "a. 3",
@@ -3793,7 +3793,7 @@
         "d. 6"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 5,
     "question": "Theo điều 73 Luật GD . Nhà giáo có quyền:",
     "answers": [
         "a. Được giảng dạy theo chuyên ngành đào tạo",
@@ -3804,7 +3804,7 @@
         "f. Tất cả đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 74 Luật GD. Thỉnh giảng là?",
     "answers": [
         "a. Việc một cơ sở GD mời người về dạy.",
@@ -3813,16 +3813,16 @@
         "d. Việc một cơ sở GD mời người có đủ tiêu chuẩn quy định tại khoản 2 điều 70."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điểm mới trong khoản 1 điều 74 Luật GD 2009 là người được cơ sở GD mời giảng dạy được gọi là?",
     "answers": [
-        "a. Giaó viên thỉnh giảng",
+        "a. Giáo viên thỉnh giảng",
         "b. Giảng viên thỉnh giảng",
-        "c. giảng viên",
-        "d. giaos viên thỉnh giảng hoặc giảng viển thỉnh giảng."
+        "c. Giảng viên",
+        "d. Giáo viên thỉnh giảng hoặc giảng viển thỉnh giảng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 74 Luật GD điểm mới trong luật GD 2009 là “Khuyến khích việc mời nhà giáo, nhà khoa học trong nước, nhà khoa học là người Việt Nam định cư ở nước ngoài và người nước ngoài đến giảng dạy tại các cơ sở GD theo chế độ. . . . . . . ”điền vào chỗ trống?",
     "answers": [
         "a. trợ giảng",
@@ -3831,7 +3831,7 @@
         "d. thuyết giảng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 77 luật GD trình độ chuẩn được đào tạo của giáo viên THPT là?",
     "answers": [
         "a. Có bằng tốt nghiệp đại học sư phạm hoặc bằng tốt nghiệp đại học và có chứng chỉ bồi dưỡng nghiệp vụ sư phạm.",
@@ -3840,7 +3840,7 @@
         "d. Cả 3 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 77 luật GD trình độ chuẩn được đào tạo của giáo viên hướng dẫn thực hành ở cơ sở dạy nghề là?",
     "answers": [
         "a. Có bằng tốt nghiệp đại học sư phạm hoặc bằng tốt nghiệp đại học và có chứng chỉ bồi dưỡng nghiệp vụ sư phạm.",
@@ -3849,7 +3849,7 @@
         "d. Cả 3 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 77 luật GD trình độ chuẩn được đào tạo của giáo viên giảng dạy trung cấp là?",
     "answers": [
         "a. Có bằng tốt nghiệp đại học sư phạm hoặc bằng tốt nghiệp đại học và có chứng chỉ bồi dưỡng nghiệp vụ sư phạm.",
@@ -3858,7 +3858,7 @@
         "d. Cả 3 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 77 luật GD trình độ chuẩn được đào tạo của giáo viên giảng dạy cao đẳng, đại học là?",
     "answers": [
         "a. Có bằng tốt nghiệp đại học và có chứng chỉ bồi dưỡng nghiệp vụ sư phạm.",
@@ -3867,7 +3867,7 @@
         "d. Cả 3 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 77 luật GD trình độ chuẩn được đào tạo của giáo viên giảng dạy chuyên đề, hướng dẫn luận án tiễn sĩ là?",
     "answers": [
         "a. Có bằng tốt nghiệp đại học và có chứng chỉ bồi dưỡng nghiệp vụ sư phạm.",
@@ -3876,7 +3876,7 @@
         "d. có bằng tiến sĩ"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 77 luật GD cơ quan quy định về việc bồi dưỡng, sử dụng nhà giáo chưa đạt trình độ chuẩn là?",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -3885,14 +3885,14 @@
         "d. Bộ trưởng Bộ Giáo dục và Đào tạo, Thủ trưởng cơ quan quản lý nhà nước về dạy nghề theo thẩm quyền"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Điểm khác nhau giữa Luật GD 2009 với luật GD 2005 là điều 78 trong luật GD 2009 ghi là “ cơ sở GD thực hiện nhiệm vụ đào tạo, bồi dưỡng nhà giáo và cán bộ quản lý GD. ” Còn trong luật GD 2005 là “ Trường sư phạm” điều này đúng hay sai.",
     "answers": [
         "a. Đúng",
         "b. Sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 78 trong Luật GD 2009 thì cơ sở GD thực hiện nhiệm vụ đào tạo, bồi dưỡng nhà giáo gồm?",
     "answers": [
         "a. trường sư phạm",
@@ -3901,7 +3901,7 @@
         "d. Cả 3 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 78 trong Luật GD thì Trường sư phạm do cơ quan nào thành lập?",
     "answers": [
         "a. Chính phủ",
@@ -3910,7 +3910,7 @@
         "d. Cả 3 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 78 trong Luật GD thì Trường sư phạm được thành lập nhằm:",
     "answers": [
         "a. để đào tạo, bồi dưỡng nhà giáo",
@@ -3919,7 +3919,7 @@
         "d. để đào tạo, bồi dưỡng nhà giáo và cán bộ quản lý GD."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 78 Luật GD thì trường nào được ưu tiên trong việc tuyển dụng nhà giáo, bố trí cán bộ quản lý, đầu tư cơ sở vật chất, kí túc xá và bảo đảm kinh phí đào tạo?",
     "answers": [
         "a. Trường cao đẳng",
@@ -3928,7 +3928,7 @@
         "d. Trường trung cấp nghề"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 78 Luật GD thì trường sư phạm có",
     "answers": [
         "a. trường thực hành",
@@ -3937,7 +3937,7 @@
         "d. cả 2 đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điểm mới của điều 78 Luật GD sửa đổi và bổ sung năm 2009 thì Cơ sở GD thực hiện nhiệm vụ đào tạo, bồi dưỡng cán bộ quản lý GD bao gồm:",
     "answers": [
         "a. Cơ sở GD đại học có khoa quản lý GD",
@@ -3946,7 +3946,7 @@
         "d. Cơ sở GD đại học có khoa quản lý GD, Cơ sở GD được phép đào tạo, bồi dưỡng cán bộ quản lý GD"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điểm mới của điều 78 Luật GD sửa đổi và bổ sung năm 2009 thì Cơ sở GD được phép đào tạo, bồi dưỡng nhà giáo, cán bộ quản lý GD là:",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo",
@@ -3955,7 +3955,7 @@
         "d. Nhà nước"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 79 của Luật GD thì Nhà giáo của trường cao đẳng, trường đại học được tuyển theo phương thức nào:",
     "answers": [
         "a. ưu tiên đối với sinh viên tốt nghiệp loại khá, loại giỏi",
@@ -3964,7 +3964,7 @@
         "d. Cả 3 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 80 luật GD. Nhà nước có chính sách bồi dưỡng nhà giáo về chuyên môn, nghiệp vụ để:",
     "answers": [
         "a. nâng cao trình độ",
@@ -3973,7 +3973,7 @@
         "d. Nâng cao trình độ và chuẩn hóa nhà giáo."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 81 luật GD. Nhà giáo được hưởng tiền lương, phụ cấp ưu đãi theo nghề, phụ cấp thâm niên và các phụ cấp khác theo quy định của:",
     "answers": [
         "a. Nhà nước",
@@ -3982,7 +3982,7 @@
         "d. Bộ trưởng Bộ Giáo dục và Đào tạo"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 83 Luật GD thì người học là:",
     "answers": [
         "a. Người đang học tập tại cơ sở GD của hệ thống GD quốc dân.",
@@ -3991,7 +3991,7 @@
         "d. Cả 3 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 83 Luật GD thì người học bao gồm:",
     "answers": [
         "a. Trẻ em của cơ sở GD mầm non",
@@ -4000,7 +4000,7 @@
         "d. Cả 3 đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 83 Luật GD thì người học bao gồm:",
     "answers": [
         "a. Học viên của cơ sở đào tạo thạc sĩ",
@@ -4009,7 +4009,7 @@
         "d. Cả 3 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 84 Luật GD thì trẻ em tại cơ sở GD mầm non có những quyền nào:",
     "answers": [
         "a. Được chăm sóc, nuôi dưỡng , giáo dục theo mục tiêu, kế hoạch GD mầm non của Bộ Giáo dục và Đào tạo.",
@@ -4018,7 +4018,7 @@
         "d. Cả 3 đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 84 Luật GD thì cơ quan quy định các chính sách đối với trẻ em tại cơ sở GD mầm non là:",
     "answers": [
         "a. Nhà nước",
@@ -4027,7 +4027,7 @@
         "d. Bộ trưởng Bộ Giáo dục và Đào tạo"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 85 Luật GD thì người học có mấy nhiệm vụ:",
     "answers": [
         "a. 3",
@@ -4036,7 +4036,7 @@
         "d. 6"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều 85 Luật GD thì người học có nhiệm vụ:",
     "answers": [
         "a. Thực hiện nhiệm vụ học tập, rèn luyện theo chương trình, kế hoạch GD của nhà trường, cơ sở GD khác.",
@@ -4047,7 +4047,7 @@
         "f. Cả a, b,c và d đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 85 Luật GD thì người học có nhiệm vụ:",
     "answers": [
         "a. Giữ gìn, bảo vệ tài sản của nhà trường, cơ sở GD khác",
@@ -4057,7 +4057,7 @@
         "e. Cả a,b và c sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 86 luật GD thì người học có bao nhiêu quyền ?",
     "answers": [
         "a. 4",
@@ -4066,7 +4066,7 @@
         "d. 9"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều 86 luật GD thì người học có quyền :",
     "answers": [
         "a. Được nhà trường, cơ sở GD khác ton trọng và đối xử bình đẳng, được cung cấp đầy đủ thông tin về việc học tập, rèn luyện của mình.",
@@ -4076,7 +4076,7 @@
         "e. Tất cả đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 86 luật GD thì người học có quyền :",
     "answers": [
         "a. Được sử dụng trang thiết bị, phương tiện phục vụ các hoạt động học tập, văn hóa, thể dục, thể thao của nhà trường, cơ sở GD khác.",
@@ -4085,7 +4085,7 @@
         "d. Tất cả đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo điều 88 luật GD thì có mấy hành vi người học không được làm :",
     "answers": [
         "a. 1",
@@ -4094,7 +4094,7 @@
         "d. 5"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 88 luật GD thì những hành vi người học không được làm là :",
     "answers": [
         "a. Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ, nhân viên của cơ sở GD và người học khác.",
@@ -4103,7 +4103,7 @@
         "d. Tất cả đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều 88 luật GD thì những hành vi người học không được làm là",
     "answers": [
         "a. Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ, nhân viên của cơ sở GD và người học khác.",
@@ -4114,22 +4114,23 @@
         "f. Tất cả đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
-    "question": "Theo điều 90 luật GD “ Người được cử đi học theo ché độ cử tuyển thì…………… sự phân công công tác sau khi tốt nghiệp. ” điền vào chôc trống: a. chấp hành",
+    "corectAnswer": 1,
+    "question": "Theo điều 90 luật GD “ Người được cử đi học theo ché độ cử tuyển thì…………… sự phân công công tác sau khi tốt nghiệp. ” điền vào chôc trống:",
     "answers": [
+        "a. chấp hành",
         "b. phải chấp hành",
         "c. không phải chấp hành",
         "d. được ưu tiên"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "theo luật GD thì “ HS, SV được hưởng chế độ miễn, giảm phí khi sử dụng các dịch vụ công cộng về giao thông, giải trí, khi tham quan viện bảo tàng, di tích lịch sử, công trình văn hóa theo quy định của Chính phủ” điều này đúng hay sai.",
     "answers": [
         "a. Đúng",
         "b. Sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 93 Luật GD . “Nhà trường có trách nhiệm phối hợp với …………để thực hiện mục tiêu, nguyên lý GD. ” Điền vào chỗ trống?",
     "answers": [
         "a. Gia đình",
@@ -4139,7 +4140,7 @@
         "e. học sinh và xã hội"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 94 Luật GD Trách nhiệm của gia đình là:",
     "answers": [
         "a. Cha mẹ hoặc người giám hộ có trách nhiệm nuôi dưỡng, giáo dục và chăm sóc, tạo điều kiện cho con em hoặc người được giám hộ được học tập hoặc rèn luyện, tham gia các hoạt động của nhà trường.",
@@ -4148,7 +4149,7 @@
         "d. Tất cả đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 95 Luật GD thì cha mẹ hoặc người giám hộ của học sinh có mấy quyền?",
     "answers": [
         "a. 1",
@@ -4157,7 +4158,7 @@
         "d. 4"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 95 Luật GD thì cha mẹ hoặc người giám hộ của học sinh có quyền:",
     "answers": [
         "a. Yêu cầu nhà trường thông báo về kết quả học tập, rèn luyện của con em hoặc người được giám hộ.",
@@ -4166,7 +4167,7 @@
         "d. Tất cả đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 96 Luật GD thì Ban đại diện cha mẹ học sinh được tổ chức ở :",
     "answers": [
         "a. GD mầm non",
@@ -4175,7 +4176,7 @@
         "d. cả 2 đều sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 96 Luật GD thì Ban đại diện cha mẹ học sinh là:",
     "answers": [
         "a. do cha mẹ hoặc người giám hộ học sinh từng lớp, từng trường cử ra",
@@ -4184,7 +4185,7 @@
         "d. do cha mẹ hoặc người giám hộ học sinh từng lớp, từng trường cử ra để phối hợp với nhà trường thực hiện các hoạt động giáo dục."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 97 Luật GD cơ quan có trách nhiệm động viên toàn dân chăm lo cho sự nghiệp GD là:",
     "answers": [
         "a. Uỷ ban Mặt trận Tổ quốc Việt Nam",
@@ -4193,7 +4194,7 @@
         "d. Uỷ ban Mặt trận Tổ quốc Việt Nam , các tổ chức thành viên của Mặt trận"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 97 Luật GD thì Đoàn thanh niên Cộng sản Hồ Chí Minh có trách nhiệm.",
     "answers": [
         "a. động viên toàn dân chăm lo cho sự nghiệp GD.",
@@ -4202,7 +4203,7 @@
         "d. Cả 3 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 98 Luật GD Nhà nước khuyến khích các tổ chức, cá nân thành lập:",
     "answers": [
         "a. Qũy khuyến học",
@@ -4211,7 +4212,7 @@
         "d. Cả 2 đều sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 98 Luật GD thì Qũy khuyến học, Qũy bảo trợ giáo dục hoạt động theo quy định của:",
     "answers": [
         "a. Đơn vị , tổ chức, các nhân thành lập",
@@ -4220,7 +4221,7 @@
         "d. Chính phủ"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 99 Luật GD thì Nội dung quản lý nhà nước về GD bao gồm mấy nội dung:",
     "answers": [
         "a. 10",
@@ -4229,7 +4230,7 @@
         "d. 13"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều 99 Luật GD thì Nội dung quản lý nhà nước về GD bao gồm nội dung nào:",
     "answers": [
         "a. Xây dựng và chỉ đạo thực hiện chiến lược, quy hoạch, kế hoạch, chính sách phát triển GD.",
@@ -4240,7 +4241,7 @@
         "f. Tất cả đều sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều 99 Luật GD thì Nội dung quản lý nhà nước về GD bao gồm nội dung nào:",
     "answers": [
         "a. Thực hiện công tác thống kê, thông tin về tổ chức và hoạt động GD",
@@ -4251,7 +4252,7 @@
         "f. Tất cả đều sai."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều 99 Luật GD thì Nội dung quản lý nhà nước về GD bao gồm nội dung nào:",
     "answers": [
         "a. Tổ chức, quản lý công tác nghiên cứu, ứng dụng khoa học, công nghệ trong lĩnh vực GD",
@@ -4261,7 +4262,7 @@
         "e. Tất cả đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 101 Luật GD Các nguồn tài chính đầu tư cho GD gồm:",
     "answers": [
         "a. Ngân sách nhà nước",
@@ -4270,7 +4271,7 @@
         "d. Cả 2 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 101 Luật GD. Học phí, lệ phí tuyển sinh là:",
     "answers": [
         "a. Các khoản thu từ hoạt động tư vấn, chuyển giao công nghệ, sản xuất, kinh doanh, dịch vụ của các cơ sở GD",
@@ -4279,7 +4280,7 @@
         "d. Tất cả đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 101 Luật GD điểm mới bổ sung trong Luật GD số 44/2009/QH12 so với luật GD số 38/ 2005/ QH11 là?",
     "answers": [
         "a. Nhà nước khuyến khích các tổ chức, cá nhân tài trợ, ủng hộ để phát triển sự nghiệp GD",
@@ -4288,7 +4289,7 @@
         "b. Cả 2 đều sai."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 103 Luật GD thì cơ quan có trách nhiệm đưa việc xây dựng trường học, các công trình thể dục, thể thao, văn hóa, nghệ thuật phục vụ vào quy hoạch, kế hoạch phát triển kinh tế- xã hội của ngành và địa phương; ưu tiên đầu tư tài chính và đất đai cho việc xây dựng trường học và ktx cho học sinh, sinh viên trong kế hoạch phát triển kt- xh là:",
     "answers": [
         "a. Bộ, cơ quan ngang bộ",
@@ -4297,7 +4298,7 @@
         "d. Tất cả đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Điểm mới trong luật GD 2009 điều 108 có thêm 1 khoản mới đó là:",
     "answers": [
         "a. Thủ tướng Chính phủ quy định cụ thể việc công dân Việt Nam ra nước ngoài giảng dạy, học tập, nghiên cứu khoa học và trao đổi học thuật",
@@ -4306,7 +4307,7 @@
         "d. Cả 2 đều sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Điểm mới trong điều 109 Luật GD số 44/ 2009/ QH12 so với Luật GD 2005 là :",
     "answers": [
         "a. Luật GD 2009 điều 109 có 4 khoản còn luật GD 2005 chỉ có 2 khoản",
@@ -4315,7 +4316,7 @@
         "d. Luật GD 2009 điều 109 có 4 khoản còn luật GD 2005 chỉ có 3 khoản"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điểm mới của điều 109 Luật GD số 44/209/QH12 thì các hình thức hợp tác, đầu tư của nước ngoài về GD tại Việt Nam bao gồm :",
     "answers": [
         "a. Thành lập cơ sở GD",
@@ -4325,7 +4326,7 @@
         "e. Tất cả đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điểm mới của điều 109 Luật GD số 44/209/QH12 thì hợp tác về GD với Việt Nam phải bảo đảm :",
     "answers": [
         "a. GD người học về nhân cách, phẩm chất và năng lực công dân.",
@@ -4335,7 +4336,7 @@
         "e. Tất cả đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 110 Luật GD việc công nhận văn bằng của người Việt Nam do nước ngoài cấp được thực hiện theo quy định của :",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo.",
@@ -4344,7 +4345,7 @@
         "d. Bộ trưởng Bộ Giáo dục và Đào tạo và điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 110 Luật GD cơ quan kí hiệp định về tương đương văn bằng hoặc công nhận lẫn nhau về văn bằng với cac nước, các tổ chức quốc tế là ?",
     "answers": [
         "a. Bộ trưởng Bộ Giáo dục và Đào tạo.",
@@ -4353,7 +4354,7 @@
         "d. Thủ tướng Chính phủ"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Diểm mới trong điều 110 của Luật GD số 44/ 2009/ QH12 so với Luật GD 2005 là :",
     "answers": [
         "a. Luật GD 2009 điều 110 có thêm điều 110 a và 110b.",
@@ -4362,7 +4363,7 @@
         "d. Luật GD 2009 điều 110 có thêm điều 110 a và 110b, 110c, 110d, 110e"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều 110a Luật GD 2009 thì nội dung quản lý nhà nước về kiểm định chất lượng GD gồm :",
     "answers": [
         "a. Quản lý hoạt động kiểm định chương trình GD và kiểm định cơ sở GD",
@@ -4372,7 +4373,7 @@
         "e. Tất cả đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 110b Luật GD 2009 thì Nguyên tắc kiểm định chất lượng GD là :",
     "answers": [
         "a. Độc lập. khách quan, đúng pháp luật",
@@ -4380,7 +4381,7 @@
         "c. Cả 2 đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 110c Luật GD 2009 thì tổ chức kiểm định chất lượng GD bao gồm:",
     "answers": [
         "a. Tổ chức kiểm định chất lượng GD do Nhà nước thành lập",
@@ -4389,7 +4390,7 @@
         "d. Cả 2 đều sai"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 111 Luật GD. Thanh tra chuyên ngành về GD có mấy nhiệm vụ:",
     "answers": [
         "a. 5",
@@ -4398,7 +4399,7 @@
         "d. 8"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều 111 Luật GD. Thanh tra chuyên ngành về GD có nhiệm vụ là:",
     "answers": [
         "a. Thanh tr việc thực hiện chính sách và pháp luật về GD",
@@ -4408,7 +4409,7 @@
         "e. Tất cả đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 111 Luật GD. Thanh tra chuyên ngành về GD có nhiệm vụ là:",
     "answers": [
         "a. Thực hiện nhiệm vụ phòng ngừa và đấu tranh chống tham nhũng trong lĩnh vực GD theo quy định của PL về chống tham nhũng.",
@@ -4417,7 +4418,7 @@
         "d. Tất cả đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo điều 113 Luật GD Hoạt động thanh tra GD ở cấp huyện do cơ quan nào trực tiếp phụ trách:",
     "answers": [
         "a. Trưởng phòng GD và đào tạo",
@@ -4426,7 +4427,7 @@
         "d. Thủ tướng Chính phủ"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo điều 114 Luật GD Nhà nước phong tặng danh hiệu Nhà giáo nhân dân, Nhà giáo ưu tú cho ai?",
     "answers": [
         "a. Nhà giáo , cán bộ quản lý xuất sắc",
@@ -4435,7 +4436,7 @@
         "d. Nhà giáo, cán bộ quản lý GD, cán bộ nghiên cứu GD có đủ tiêu chuẩn."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 117 Luật GD Trường đại học tặng danh hiệu Tiến sĩ danh dự theo quy định của Chính phủ cho:",
     "answers": [
         "a. Nhà hoạt động chính trị, xã hội có uy tín quốc tế",
@@ -4444,7 +4445,7 @@
         "d. Tất cả đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều 118 Luật GD quy định các hành vi bị xử lý vi phạm gồm:",
     "answers": [
         "a. Thành lập cơ sở GD hoặc tổ chức hoạt động GD trái phép.",
@@ -4454,7 +4455,7 @@
         "e. Tất cả đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 4,
     "question": "Theo điều 118 Luật GD quy định các hành vi bị xử lý vi phạm gồm:",
     "answers": [
         "a. Làm hồ sơ giả, vi phạm quy chế tuyển sinh, thi cử và cấp văn bằng, chứng chỉ.",
@@ -4464,7 +4465,7 @@
         "e. Tất cả đều đúng."
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 3,
     "question": "Theo điều 118 Luật GD quy định các hành vi bị xử lý vi phạm gồm:",
     "answers": [
         "a. Gây thiệt hại về cơ sở vật chất của nhà trường, của cơ sở GD khác",
@@ -4473,7 +4474,7 @@
         "d. Tất cả đều đúng"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo luật GD thì Chương I- Những quy định chung gồm bao nhiêu điều?",
     "answers": [
         "a. 15 điều",
@@ -4482,7 +4483,7 @@
         "d. 30 điều"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 1,
     "question": "Theo luật GD thì Chương II- Hệ thống giáo dục quốc dân gồm bao nhiêu mục bao nhiêu điều?",
     "answers": [
         "a. 5 mục, 20 điều",
@@ -4491,7 +4492,7 @@
         "d. 6 mục, 27 điều"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo luật GD thì Chương III- Nhà trường và các cơ sở GD khác gồm bao nhiêu mục bao nhiêu điều?",
     "answers": [
         "a. 5 mục, 20 điều",
@@ -4500,7 +4501,7 @@
         "d. 6 mục, 22 điều"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo luật GD thì Chương IV- Nhà giáo gồm bao nhiêu mục bao nhiêu điều?",
     "answers": [
         "a. 3 mục, 10 điều",
@@ -4509,7 +4510,7 @@
         "d. 3 mục, 14 điều"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 0,
     "question": "Theo luật GD thì Chương V- Người học gồm bao nhiêu mục bao nhiêu điều?",
     "answers": [
         "a. 2 mục, 10 điều",
@@ -4518,7 +4519,7 @@
         "d. 3 mục, 14 điều"
     ]
 }, {
-    "corectAnswer": 999,
+    "corectAnswer": 2,
     "question": "Theo luật GD thì Chương VI- Nhà trường, gia đình và Xã hội gồm bao nhiêu điều?",
     "answers": [
         "a. 4",
