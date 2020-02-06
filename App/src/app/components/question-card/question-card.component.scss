@@ -14,6 +14,17 @@
     line-height: 22px;
 }
 
+.card-question {
+    font-weight: 600;
+}
+
+.question-correct {
+  background-color: #ecfff0;
+}
+
+.question-incorrect {
+  background-color: #ffc8c8;
+}
 
 
 /* The radio-container */
@@ -29,14 +40,14 @@
     -ms-user-select: none;
     user-select: none;
 }
-  
+
 /* Hide the browser's default radio button */
 .radio-container input {
     position: absolute;
     opacity: 0;
     cursor: pointer;
 }
-  
+
 /* Create a custom radio button */
 .checkmark {
     position: absolute;
@@ -47,34 +58,49 @@
     background-color: #eee;
     border-radius: 50%;
 }
-  
+
 /* On mouse-over, add a grey background color */
 .radio-container:hover input ~ .checkmark {
     background-color: #ccc;
 }
-  
+
 /* When the radio button is checked, add a blue background */
 .radio-container input:checked ~ .checkmark {
-    background-color: #46adff;
+    background-color: #217ac1;
 }
 
 .radio-container input:checked ~ .answer-content {
-    background-color: #46adff;
+    background-color: #217ac1;
     color: #fff;
 }
-  
+
+.incorrect-item input ~ .checkmark,
+.incorrect-item input ~ .answer-content,
+.incorrect-item input:checked ~ .checkmark,
+.incorrect-item input:checked ~ .answer-content {
+  background-color: red!important;
+}
+
+.correct-item input ~ .checkmark,
+.correct-item input ~ .answer-content,
+.correct-item input:checked ~ .checkmark,
+.correct-item input:checked ~ .answer-content {
+  background-color: #34da5a!important;
+}
+
+
 /* Create the indicator (the dot/circle - hidden when not checked) */
 .checkmark:after {
     content: "";
     position: absolute;
     display: none;
 }
-  
+
 /* Show the indicator (dot/circle) when checked */
 .radio-container input:checked ~ .checkmark:after {
     display: block;
 }
-  
+
 /* Style the indicator (dot/circle) */
 .radio-container .checkmark:after {
     top: 7px;

@@ -16,12 +16,17 @@
 </div>
 <div class="container">
     <div class="questions">
-        <!-- <div class="card">
-            123
-        </div> -->
+        <app-result *ngIf="!isFirstTest && !testInprogress"
+          [quantityCorrect]="quantityQuestionCorrect"
+          [questionQuantity]="questionQuantity"></app-result>
         <div class="row">
-            <div *ngFor="let question of questions; let i = index" [attr.data-index]="i" class="col-12 question-card">
-                <app-question-card [(question)]="question" [index]="i"></app-question-card>
+            <div *ngFor="let question of questions; let i = index"
+              [attr.data-index]="i" class="col-12 question-card">
+                <app-question-card
+                  (changeAnswerEvent)="onChangeAnswer($event)"
+                  [(question)]="question"
+                  [testInprogress]="testInprogress"
+                  [index]="i"></app-question-card>
             </div>
         </div>
     </div>

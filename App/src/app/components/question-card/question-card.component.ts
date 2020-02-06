@@ -1,6 +1,5 @@
-import { Component, OnInit, Input, Output } from '@angular/core';
+import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
 import { IViewQuestion, IChangeAnswerEvent } from 'src/app/defines/question';
-import { EventEmitter } from 'protractor';
 
 @Component({
   selector: 'app-question-card',
@@ -11,16 +10,15 @@ export class QuestionCardComponent implements OnInit {
   constructor() {}
   @Input() question: IViewQuestion = null;
   @Input() index: number = null;
+  @Input() testInprogress: boolean ;
   @Output() changeAnswerEvent = new EventEmitter<IChangeAnswerEvent>();
+  private answerIndex;
 
   ngOnInit() {
-    console.log(this.question);
-    console.log(this.index);
   }
 
   onChangeAnswer(questionIndex: number, answerIndex: number): void {
-    console.log(questionIndex);
-    console.log(answerIndex);
-    this.changeAnswerEvent.emit(questionIndex, answerIndex);
+    this.answerIndex = answerIndex;
+    this.changeAnswerEvent.emit({questionIndex, answerIndex});
   }
 }

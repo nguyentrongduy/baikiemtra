@@ -1,10 +1,12 @@
-<div class="card">
-    <span>Câu {{index+1}}: {{question?.question}}</span>
+<div class="card" [ngClass]="{'question-correct': (!testInprogress && answerIndex === question?.correctAnswer),
+  'question-incorrect': (!testInprogress && answerIndex !== question?.correctAnswer)}">
+    <span class="card-question">Câu {{index+1}}: {{question?.question}}</span>
     <hr/>
     <div class="row">
         <div *ngFor="let answer of question?.answers; let answerIndex = index" class="col-12 answer">
-            <label class="radio-container">
-                <input type="radio" name="user-answer-{{index}}" (change)="onChangeAnswer(question?.rootIndex, answerIndex)">
+            <label class="radio-container"
+              [ngClass]="{'correct-item': (!testInprogress && answerIndex === question?.correctAnswer)}">
+                <input [disabled]="!testInprogress" type="radio" name="user-answer-{{index}}" (change)="onChangeAnswer(question?.rootIndex, answerIndex)">
                 <span class="checkmark"></span>
                 <span class="answer-content">{{answer}}</span>
             </label>

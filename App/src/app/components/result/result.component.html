@@ -1,0 +1,8 @@
+<div class="result-card">
+  <div class="card">
+    <div class="row">
+      <div *ngIf="isPass" class="col-12 pass">{{quantityCorrect}}/{{questionQuantity}}</div>
+      <div *ngIf="!isPass" class="col-12 not-pass">{{quantityCorrect}}/{{questionQuantity}}</div>
+    </div>
+  </div>
+</div>

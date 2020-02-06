@@ -7,6 +7,7 @@ import { LogsComponent } from './logs/logs.component';
 import { TestComponent } from './test/test.component';
 import { HeaderComponent } from './components/header/header.component';
 import { QuestionCardComponent } from './components/question-card/question-card.component';
+import { ResultComponent } from './components/result/result.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { QuestionCardComponent } from './components/question-card/question-card.
     LogsComponent,
     TestComponent,
     HeaderComponent,
-    QuestionCardComponent
+    QuestionCardComponent,
+    ResultComponent
   ],
   imports: [
     BrowserModule,
