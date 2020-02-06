@@ -1,0 +1,28 @@
+<div class="test-header">
+    <p>Bài test {{questionQuantity}} câu hỏi trắc nghiệm luật giáo dục.</p>
+</div>
+<div class="testing-control" id="testing-control">
+    <div class="container">
+        <div class="row">
+            <div class="col-8 offset-md-2 count-down">{{timeShowTxt}}</div>
+            <div class="col-4 col-md-2 btn-control">
+                <button *ngIf="!testInprogress" (click)="onClickStartTest()" type="button" name="start" id="start"
+                    class="btn btn-success btn-md btn-block">{{startText}}</button>
+                <button *ngIf="testInprogress" (click)="onClickDone()" type="button" name="start" id="start"
+                    class="btn btn-warning btn-md btn-block">{{endText}}</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="questions">
+        <!-- <div class="card">
+            123
+        </div> -->
+        <div class="row">
+            <div *ngFor="let question of questions; let i = index" [attr.data-index]="i" class="col-12 question-card">
+                <app-question-card [(question)]="question" [index]="i"></app-question-card>
+            </div>
+        </div>
+    </div>
+</div>

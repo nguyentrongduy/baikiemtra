@@ -1,0 +1,13 @@
+<div class="card">
+    <span>Câu {{index+1}}: {{question?.question}}</span>
+    <hr/>
+    <div class="row">
+        <div *ngFor="let answer of question?.answers; let answerIndex = index" class="col-12 answer">
+            <label class="radio-container">
+                <input type="radio" name="user-answer-{{index}}" (change)="onChangeAnswer(question?.rootIndex, answerIndex)">
+                <span class="checkmark"></span>
+                <span class="answer-content">{{answer}}</span>
+            </label>
+        </div>
+    </div>
+</div>
